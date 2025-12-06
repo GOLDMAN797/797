@@ -166,13 +166,16 @@ http://cdn2.ntv.ru/th_style/playlist.m3u8
 #EXTINF:-1 tvg-id="inter-it" group-title="Спорт", Inter TV
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
 
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 1
+#EXTINF:-1 group-title="Спорт", Матч! Ф1
 http://193.25.8.59:8000/fut
 
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 2
+#EXTINF:-1 group-title="Спорт", Матч! Ф 1
+http://188.191.160.238:7780/udp/239.195.3.16:1234
+
+#EXTINF:-1 group-title="Спорт", Матч! Ф 2
 http://188.190.222.53/Match_Futbol_2/index.m3u8
 
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 3
+#EXTINF:-1 group-title="Спорт", Матч! Ф 3
 http://193.25.8.59:8000/fut3
 
 #EXTINF:-1 group-title="Спорт", Матч! Игра
@@ -600,6 +603,7 @@ http://gr.seetv.cc/play/6093/FB4F94DA00C3BE0/video.m3u8
 #EXTINF:-1 tvg-id="Xyosso-4k" tvg-name="YOSSO-4K" tvg-logo="https://ip-tv.dev/images/ico/yosso-4k.png" , YOSSO-4K
 #EXTGRP:Кино 4K
 http://gr.seetv.cc/play/8766/FB4F94DA00C3BE0/video.m3u8
+
 
 
 
