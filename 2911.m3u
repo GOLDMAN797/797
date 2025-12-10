@@ -13,8 +13,7 @@ http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
 
-#EXTINF:-1 tvg-id="5kanal-ru" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"group-title="Основные" tvg-id="5kanal-ru", Пятый канал
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+#EXTINF:-1 group-title="Основные" tvg-id="5kanal-ru", Пятый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 
 #EXTINF:-1 group-title="Основные" tvg-id="kultura", Россия Культура HD
@@ -57,7 +56,7 @@ https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/play
 http://185.46.16.239:8000/TV3
 
 #EXTINF:-1 group-title="Развлечение" tvg-id="domashny", Домашний
-http://188.190.222.53/Domashniy/index.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 
 #EXTINF:-1 group-title="Развлечение" tvg-id="rtvi", RTVi
 http://178.134.1.158:8081/rtvi/index.m3u8
@@ -84,19 +83,19 @@ https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 
 #EXTINF:-1 group-title="Развлечение" tvg-id="nauka-20", Наука HD
-http://188.190.222.53/Nauka_HD/index.m3u8
+
 
 #EXTINF:-1 group-title="Развлечение" tvg-id="discovery-channel", Discovery Channel
-http://94.232.127.28:8080/discovery-east/index.m3u8
+
 
 #EXTINF:-1 group-title="Развлечение", Discovery Science
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/135751
+
 
 #EXTINF:-1 group-title="Развлечение", HISTORY
-http://31.43.191.125:8080/VIP01847172508490996/31fbace66040/135773
+
 
 #EXTINF:-1 group-title="Развлечение", National Geographic
-http://46.8.46.14/National_Geographic/index.m3u8
+
 
 #EXTINF:-1 group-title="Развлечение", Red Bull TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
@@ -120,11 +119,6 @@ https://fl1001.bozztv.com/ushba-m9/tracks-v1a1/mono.m3u8
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/cdbe280e-0aea-4bbe-861f-fd115abcfec7_1080p.m3u8
 
 
-
-
-#EXTINF:-1 group-title="Развлечение", RTG TV
-http://188.190.222.53/RTG_TV/index.m3u8
-
 #EXTINF:-1 group-title="Развлечение", RTG HD
 http://95.66.188.74/RTGHD/index.m3u8
 
@@ -138,7 +132,7 @@ http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
 https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
 
 #EXTINF:-1 group-title="Развлечение" tvg-id="tv-brics", TV BRICS HD
-http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
+http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 
 #EXTINF:-1 group-title="Развлечение" tvg-id="travel-adventure", Travel+Adventure
 
@@ -146,20 +140,20 @@ http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Развлечение" tvg-id="moya-planeta", Моя планета HD
 
 
-#EXTINF:-1 group-title="Развлечение" tvg-id="extreme-sports", Extreme sports
-http://45.11.139.43:8555/extsport/index.m3u8
-
 #EXTINF:-1 group-title="Развлечение" tvg-id="kuxnia-tv", КУХНЯ-ТВ
-http://46.8.46.14/kuhnya/index.m3u8
+
 
 #EXTINF:-1 group-title="Развлечение", Еда
 http://93.113.203.165/iptv/F5BM9GXMAPYBDK/6009/index.m3u8
 
 #EXTINF:-1 group-title="Развлечение" tvg-id="ntv-style", НТВ Стиль
-http://cdn2.ntv.ru/th_style/playlist.m3u8
+http://cdn.ntv.ru/th_style/mono.m3u8
 
 #EXTINF:-1 tvg-id="inter-it" group-title="Спорт", Inter TV
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="extreme-sports", Extreme sports
+http://vod.stb.tvime.ru/Extreme_Sports/video.m3u8
 
 #EXTINF:-1 group-title="Спорт", Матч! Ф1
 http://193.25.8.59:8000/fut
@@ -174,13 +168,18 @@ http://188.190.222.53/Match_Futbol_2/index.m3u8
 http://193.25.8.59:8000/fut3
 
 #EXTINF:-1 group-title="Спорт", Матч! Игра
-http://46.8.46.14/eurosport/index.m3u8
+
 
 #EXTINF:-1 group-title="Спорт", Матч! Премьер
-http://46.8.46.14/premier/index.m3u8
+
 
 #EXTINF:-1 group-title="Спорт", Матч! Страна
-http://195.64.140.147:10099/99
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/7f/34/90/7f3490c411796ccb81b51a28d4f8f378.jpg" tvg-id="no_epg_sport" group-title="Спортивные", Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+
+#EXTINF:-1 tvg-id="okko-sport-2" group-title="Спортивные", Прайм Спорт
+http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="Спорт", Setanta Sports 1 HD
 http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
@@ -192,7 +191,7 @@ http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
 http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="eurosport2" group-title="Спорт", Eurosport 2 HD
-http://195.64.140.147:10115/115
+http://5.188.159.128:8070/eurosport2/index.m3u8
 
 #EXTINF:-1 group-title="Спорт", beIN SPORTS XTRA
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
@@ -208,7 +207,7 @@ https://7pal.short.gy/ssportsfb
 https://7pal.short.gy/ssportspl
 
 #EXTINF:-1 group-title="Спорт", Sky Sports F1
-https://7pal.short.gy/ssportsf1
+http://nocable.cc:8080/Ss5DKE/232455/125947
 
 #EXTINF:-1 group-title="Спорт", Sky Sports Main Event
 https://7pal.short.gy/skspmaine
@@ -376,39 +375,32 @@ http://188.190.222.53/PremiereHD/tracks-v1a1/mono.ts.m3u8
 
 
 
+#EXTINF:-1 tvg-id="euronews" group-title="Новости", EuroNews
+https://flussonic.salomtv.uz/EURONEWS/video.m3u8
+
+#EXTINF:-1 tvg-id="rtvi" group-title="Новости", RTVi
+http://178.134.1.158:8081/rtvi/index.m3u8
+
+#EXTINF:-1 tvg-id="deutsche-welle-ru" group-title="Новости", DW Russia
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 
 #EXTINF:-1 tvg-id="euronews-en" group-title="Новости", Euronews HD
-http://flussonic.salomtv.uz/EURONEWS/video.m3u8
+https://flussonic.salomtv.uz/EURONEWS/video.m3u8
 
 #EXTINF:-1 group-title="Новости", CNN
-http://190.11.225.124:5000/live/cnn_hd/playlist.m3u8
+https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
 
 #EXTINF:-1 group-title="Новости", BBC World News
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vpx7bvwjm7ao/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
 
-#EXTINF:-1 tvg-id="cnbc-us" group-title="Новости", CNBC (HD)
-http://fl2.moveonjoy.com/CNBC/index.m3u8
-
-#EXTINF:-1 group-title="Новости", Sky News
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8
-
-#EXTINF:-1 tvg-id="abc-news-live-us" group-title="Новости", ABC News Live HD
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-
-#EXTINF:-1 group-title="Новости", RTД HD
-https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 group-title="Новости", RT News HD
+http://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="nhk-world" group-title="Новости", NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
 
-#EXTINF:-1 tvg-id="fox-news-us" group-title="Новости", Fox News Channel HD
-http://stream2.cinerama.uz/1252/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="newsmax-us" group-title="Новости", Newsmax TV HD
-https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
-
-#EXTINF:-1 group-title="Новости", CGTN русский
-https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
+#EXTINF:-1 tvg-id="cgtn" group-title="Новости", CGTN
+http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png", Peer TV
 https://iptv.peer.biz/live/peertv.m3u8
@@ -598,6 +590,7 @@ http://gr.seetv.cc/play/6093/FB4F94DA00C3BE0/video.m3u8
 #EXTINF:-1 tvg-id="Xyosso-4k" tvg-name="YOSSO-4K" tvg-logo="https://ip-tv.dev/images/ico/yosso-4k.png" , YOSSO-4K
 #EXTGRP:Кино 4K
 http://gr.seetv.cc/play/8766/FB4F94DA00C3BE0/video.m3u8
+
 
 
 
