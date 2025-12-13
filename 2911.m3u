@@ -86,13 +86,13 @@ http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 
 
 #EXTINF:-1 group-title="Развлечение" tvg-id="discovery-channel", Discovery Channel
-
-
-#EXTINF:-1 group-title="Развлечение", Discovery Science
-
+http://pp2.nexon26.com:80/541n6zm6io/pz4oriudjs/965623
 
 #EXTINF:-1 group-title="Развлечение", HISTORY
+http://pp2.nexon26.com:80/541n6zm6io/pz4oriudjs/965621
 
+#EXTINF:-1 group-title="Развлечение", HISTORY
+http://pp2.nexon26.com:80/541n6zm6io/pz4oriudjs/965629
 
 #EXTINF:-1 group-title="Развлечение", National Geographic
 
@@ -590,6 +590,7 @@ http://gr.seetv.cc/play/6093/FB4F94DA00C3BE0/video.m3u8
 #EXTINF:-1 tvg-id="Xyosso-4k" tvg-name="YOSSO-4K" tvg-logo="https://ip-tv.dev/images/ico/yosso-4k.png" , YOSSO-4K
 #EXTGRP:Кино 4K
 http://gr.seetv.cc/play/8766/FB4F94DA00C3BE0/video.m3u8
+
 
 
 
