@@ -156,7 +156,7 @@ https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
 http://vod.stb.tvime.ru/Extreme_Sports/video.m3u8
 
 #EXTINF:-1 group-title="Спорт", Матч! Ф1
-http://193.25.8.59:8000/fut
+http://31.148.48.15/Match_Futbol_1_HD/index.m3u8
 
 #EXTINF:-1 group-title="Спорт", Матч! Ф 1
 http://188.191.160.238:7780/udp/239.195.3.16:1234
@@ -590,6 +590,7 @@ http://gr.seetv.cc/play/6093/FB4F94DA00C3BE0/video.m3u8
 #EXTINF:-1 tvg-id="Xyosso-4k" tvg-name="YOSSO-4K" tvg-logo="https://ip-tv.dev/images/ico/yosso-4k.png" , YOSSO-4K
 #EXTGRP:Кино 4K
 http://gr.seetv.cc/play/8766/FB4F94DA00C3BE0/video.m3u8
+
 
 
 
