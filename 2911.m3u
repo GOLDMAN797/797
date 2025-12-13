@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz", url-tvg="https://iptvx.one/EPG"
+#EXTM3U url-tvg="https://iptvx.one/EPG"
 
 #EXTINF:-1 group-title="Основные" tvg-id="pervy", Первый канал HD
 http://95.66.188.74/PerviyHD/mono.m3u8
@@ -147,7 +147,7 @@ http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 http://93.113.203.165/iptv/F5BM9GXMAPYBDK/6009/index.m3u8
 
 #EXTINF:-1 group-title="Развлечение" tvg-id="ntv-style", НТВ Стиль
-http://cdn.ntv.ru/th_style/mono.m3u8
+https://cdn.ntv.ru:443/th_style/playlist.m3u8
 
 #EXTINF:-1 tvg-id="inter-it" group-title="Спорт", Inter TV
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
@@ -590,6 +590,7 @@ http://gr.seetv.cc/play/6093/FB4F94DA00C3BE0/video.m3u8
 #EXTINF:-1 tvg-id="Xyosso-4k" tvg-name="YOSSO-4K" tvg-logo="https://ip-tv.dev/images/ico/yosso-4k.png" , YOSSO-4K
 #EXTGRP:Кино 4K
 http://gr.seetv.cc/play/8766/FB4F94DA00C3BE0/video.m3u8
+
 
 
 
