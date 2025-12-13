@@ -58,8 +58,8 @@ http://185.46.16.239:8000/TV3
 #EXTINF:-1 group-title="Развлечение" tvg-id="discovery-channel", Discovery Channel
 http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
 
-#EXTINF:-1 group-title="Развлечение" tvg-id="rtvi", RTVi
-http://178.134.1.158:8081/rtvi/index.m3u8
+#EXTINF:-1 group-title="Развлечение", Наука 2.0
+http://2.57.217.85:8000/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-id="prodvizhenie" group-title="Развлечение", Продвижение
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
@@ -590,6 +590,7 @@ http://gr.seetv.cc/play/6093/FB4F94DA00C3BE0/video.m3u8
 #EXTINF:-1 tvg-id="Xyosso-4k" tvg-name="YOSSO-4K" tvg-logo="https://ip-tv.dev/images/ico/yosso-4k.png" , YOSSO-4K
 #EXTGRP:Кино 4K
 http://gr.seetv.cc/play/8766/FB4F94DA00C3BE0/video.m3u8
+
 
 
 
