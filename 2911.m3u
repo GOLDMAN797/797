@@ -603,7 +603,7 @@ https://river-1.rutube.ru/hls-vod/OAEKTwzOsBg7DtWqlAiKTg/1766245321/3338/0x5000c
 https://river-1.rutube.ru/hls-vod/K948Veuk4evBUHfEByY0vA/1766245325/3360/0x5000c500fa6e46b1/b28334e113004d9b8e29206102ea8d57.mp4
 
 #EXTINF:8000 tvg-content-type="movie" group-title="Фильмы"  tvg-logo="https://pic.rutube.ru/video/2025-12-08/11/b1/11b1ce875d6f597fdc4dfe32550f819e.jpg", Баллистика (2025)
-https://river-1.rutube.ru/hls-vod/Awx8T4H6P1jdFmQ6j37uwQ/1766245327/3314/0x5000c50074476226/c4a9e9a8e8644fbda5aeb0f9b4473e71.mp4.m3u8?i=1920x1080_1201
+https://river-1.rutube.ru/hls-vod/Awx8T4H6P1jdFmQ6j37uwQ/1766245327/3314/0x5000c50074476226/c4a9e9a8e8644fbda5aeb0f9b4473e71.mp4.m3u8
 
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-08/4d/a5/4da569f8feea45f91cb68c7981be14da.jpg", Пограничное испытание (2025)
 https://river-1.rutube.ru/hls-vod/s_ahBjARzmhQg1zsz1QPMQ/1766245330/2684/0x5000039ce839b3c1/f95551d3ce694a16aa0489639e38f748.mp4.m3u8?i=1280x720_1074
@@ -17985,6 +17985,7 @@ https://mults.info/mp4/yakutia.mp4
 https://mults.info/mp4/yantarny_zamok.mp4
 #EXTINF:-1 group-title="Наши Мультфильмы" tvg-logo="https://i.postimg.cc/W42nL6bj/1.jpg",Японская колыбельная
 https://mults.info/mp4/kolybeln_yaponskaya.mp4
+
 
 
 
