@@ -594,7 +594,7 @@ http://gr.seetv.cc/play/8766/FB4F94DA00C3BE0/video.m3u8
 
 
 
-#EXTINF:7200 tvg-content-type="movie" group-title="Фильмы" tvg-logo="https://images-s.kinorium.com/movie/poster/2724264/w1500_54050742.jpg", Босх: Наследие 3/1
+#EXTINF:-1 tvg-content-type="movie" group-title="Фильмы" tvg-logo="https://images-s.kinorium.com/movie/poster/2724264/w1500_54050742.jpg", Босх: Наследие 3/1
 https://ce1-048-404gv.stream-balancer-allo-1.live/M2/20/1/1765836148/4JT9DlnHMYvRZrxIWFpaOA/5/480/1/1041731/master.m3u8
 
 #EXTINF:7200 tvg-content-type="movie" group-title="Фильмы" tvg-logo="https://pic.rutube.ru/video/2025-12-10/ca/c9/cac916ae1d2975259a99ba4845c7c766.jpg", Сын плотника (2025)
@@ -17986,6 +17986,7 @@ https://mults.info/mp4/yakutia.mp4
 https://mults.info/mp4/yantarny_zamok.mp4
 #EXTINF:-1 group-title="Наши Мультфильмы" tvg-logo="https://i.postimg.cc/W42nL6bj/1.jpg",Японская колыбельная
 https://mults.info/mp4/kolybeln_yaponskaya.mp4
+
 
 
 
