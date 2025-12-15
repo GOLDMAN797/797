@@ -1,41 +1,42 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 
-#EXTINF:-1 group-title="Эфир" tvg-id="pervy" tvg-logo="https://toplogos.ru/images/logo-perviy-kanal-hd.png", Первый канал HD
+#EXTINF:-1 group-title="Эфир" tvg-id="pervy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Первый_канал.png/500px-Первый_канал.png", Первый канал HD
 http://95.66.188.74/PerviyHD/mono.m3u8
 
 #EXTINF:-1 group-title="Эфир" tvg-id="rossia1" tvg-logo="https://toplogos.ru/images/logo-rossiya-1.png", Россия HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 
-#EXTINF:-1 group-title="Эфир" tvg-id="match-tv" tvg-logo="https://toplogos.ru/images/logo-match-tv.png", Матч! HD
+#EXTINF:-1 group-title="Эфир" tvg-id="match-tv" tvg-logo="https://fb-cdn.matchtv.ru/files/default/upload/c403/4bb8/c4034bb828a4a7baa2ac37eac75f9fd6.png", Матч! HD
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Эфир" tvg-id="ntv" tvg-logo="https://toplogos.ru/images/logo-ntv.png", НТВ HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
 
-#EXTINF:-1 group-title="Эфир" tvg-id="5kanal-ru", Пятый канал
+#EXTINF:-1 group-title="Эфир" tvg-id="5kanal-ru" tvg-logo="https://toplogos.ru/images/logo-pyatuyi-kanal.png", Пятый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 
-#EXTINF:-1 group-title="Эфир" tvg-id="kultura", Россия Культура HD
+#EXTINF:-1 group-title="Эфир" tvg-id="kultura" tvg-logo="https://toplogos.ru/images/logo-rossiya-k.jpg", Россия Культура HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 
-#EXTINF:-1 group-title="Эфир" tvg-id="rossia-24", Россия 24
+#EXTINF:-1 group-title="Эфир" tvg-id="rossia-24" tvg-logo="https://toplogos.ru/images/logo-rossiya-24.png", Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 
-#EXTINF:-1 group-title="Эфир" tvg-id="sts", СТС HD
+#EXTINF:-1 group-title="Эфир" tvg-id="sts" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/8-й_логотип_СТС.svg/1200px-8-й_логотип_СТС.svg.png", СТС HD
 http://95.66.188.74/CTC_HD/mono.m3u8
 
-#EXTINF:-1 group-title="Эфир" tvg-id="rentv", РенТВ
+#EXTINF:-1 group-title="Эфир" tvg-id="rentv" tvg-logo="https://www.msk-ix.ru/images/2059557.png", РенТВ
 http://185.46.16.239:8000/REN_TV
 
-#EXTINF:-1 group-title="Эфир" tvg-id="piatnica", Пятница! HD
+#EXTINF:-1 group-title="Эфир" tvg-id="piatnica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Пятница_%28с_2013%29.svg/1200px-Пятница_%28с_2013%29.svg.png", Пятница! HD
 https://vod.tuva.ru/friday/index.m3u8
 
-#EXTINF:-1 group-title="Эфир" tvg-id="tnt", ТНТ HD
+#EXTINF:-1 group-title="Эфир" tvg-id="tnt" tvg-logo="https://telecomsky.ru/upload/iblock/336/o9rsm4yz2sqejbymwk9gz8tap21nwbb2.png", ТНТ HD
 http://95.66.188.74/TNT_HD/mono.m3u8
 
-#EXTINF:-1 group-title="Эфир" tvg-id="tnt4", ТНТ4 
-http://188.190.222.53/TNT4/index.m3u8
+#EXTINF:-1 group-title="Эфир" tvg-id="tnt4" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/6/6c/ТНТ4_%28логотип_с_2023_года%29.png" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ4
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 
 #EXTINF:-1 group-title="Эфир" tvg-id="otr", ОТР
 http://194.32.242.245/otr/index.m3u8
@@ -17985,6 +17986,7 @@ https://mults.info/mp4/yakutia.mp4
 https://mults.info/mp4/yantarny_zamok.mp4
 #EXTINF:-1 group-title="Наши Мультфильмы" tvg-logo="https://i.postimg.cc/W42nL6bj/1.jpg",Японская колыбельная
 https://mults.info/mp4/kolybeln_yaponskaya.mp4
+
 
 
 
