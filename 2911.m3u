@@ -1,58 +1,58 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 
-#EXTINF:-1 group-title="Основные" tvg-id="pervy", Первый канал HD
+#EXTINF:-1 group-title="Эфир" tvg-id="pervy" tvg-logo="https://toplogos.ru/images/logo-perviy-kanal-hd.png", Первый канал HD
 http://95.66.188.74/PerviyHD/mono.m3u8
 
-#EXTINF:-1 group-title="Основные" tvg-id="rossia1", Россия HD
+#EXTINF:-1 group-title="Эфир" tvg-id="rossia1" tvg-logo="https://toplogos.ru/images/logo-rossiya-1.png", Россия HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 
-#EXTINF:-1 group-title="Основные" tvg-id="match-tv", Матч! HD
+#EXTINF:-1 group-title="Эфир" tvg-id="match-tv" tvg-logo="https://toplogos.ru/images/logo-match-tv.png", Матч! HD
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Основные" tvg-id="ntv", НТВ HD
+#EXTINF:-1 group-title="Эфир" tvg-id="ntv" tvg-logo="https://toplogos.ru/images/logo-ntv.png", НТВ HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
 
-#EXTINF:-1 group-title="Основные" tvg-id="5kanal-ru", Пятый канал
+#EXTINF:-1 group-title="Эфир" tvg-id="5kanal-ru", Пятый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 
-#EXTINF:-1 group-title="Основные" tvg-id="kultura", Россия Культура HD
+#EXTINF:-1 group-title="Эфир" tvg-id="kultura", Россия Культура HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 
-#EXTINF:-1 group-title="Новости" tvg-id="rossia-24", Россия 24
+#EXTINF:-1 group-title="Эфир" tvg-id="rossia-24", Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 
-#EXTINF:-1 group-title="Основные" tvg-id="sts", СТС HD
+#EXTINF:-1 group-title="Эфир" tvg-id="sts", СТС HD
 http://95.66.188.74/CTC_HD/mono.m3u8
 
-#EXTINF:-1 group-title="Основные" tvg-id="rentv", РенТВ
+#EXTINF:-1 group-title="Эфир" tvg-id="rentv", РенТВ
 http://185.46.16.239:8000/REN_TV
 
-#EXTINF:-1 group-title="Основные" tvg-id="piatnica", Пятница! HD
+#EXTINF:-1 group-title="Эфир" tvg-id="piatnica", Пятница! HD
 https://vod.tuva.ru/friday/index.m3u8
 
-#EXTINF:-1 group-title="Основные" tvg-id="tnt", ТНТ HD
+#EXTINF:-1 group-title="Эфир" tvg-id="tnt", ТНТ HD
 http://95.66.188.74/TNT_HD/mono.m3u8
 
-#EXTINF:-1 group-title="Развлечение" tvg-id="tnt4", ТНТ4 
+#EXTINF:-1 group-title="Эфир" tvg-id="tnt4", ТНТ4 
 http://188.190.222.53/TNT4/index.m3u8
 
-#EXTINF:-1 group-title="Основные" tvg-id="otr", ОТР
+#EXTINF:-1 group-title="Эфир" tvg-id="otr", ОТР
 http://194.32.242.245/otr/index.m3u8
 
-#EXTINF:-1 group-title="Основные" tvg-id="tvcentr", ТВ Центр
+#EXTINF:-1 group-title="Эфир" tvg-id="tvcentr", ТВ Центр
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Основные" tvg-id="zvezda", Звезда
+#EXTINF:-1 group-title="Эфир" tvg-id="zvezda", Звезда
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
-#EXTINF:-1 group-title="Основные" tvg-id="mir", Мир
+#EXTINF:-1 group-title="Эфир" tvg-id="mir", Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
-#EXTINF:-1 group-title="Основные" tvg-id="vmeste-rf", Вместе-РФ HD
+#EXTINF:-1 group-title="Эфир" tvg-id="vmeste-rf", Вместе-РФ HD
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Развлечение"" tvg-id="tv3-ru", ТВ3
+#EXTINF:-1 group-title="Эфир" tvg-id="tv3-ru", ТВ3
 http://185.46.16.239:8000/TV3
 
 #EXTINF:-1 group-title="Развлечение" tvg-id="discovery-channel", Discovery Channel
@@ -17985,6 +17985,7 @@ https://mults.info/mp4/yakutia.mp4
 https://mults.info/mp4/yantarny_zamok.mp4
 #EXTINF:-1 group-title="Наши Мультфильмы" tvg-logo="https://i.postimg.cc/W42nL6bj/1.jpg",Японская колыбельная
 https://mults.info/mp4/kolybeln_yaponskaya.mp4
+
 
 
 
