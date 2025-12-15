@@ -594,7 +594,7 @@ http://gr.seetv.cc/play/8766/FB4F94DA00C3BE0/video.m3u8
 
 
 #EXTINF:7200 group-title="Фильмы" tvg-logo="https://avatars.mds.yandex.net/get-entity_search/1020180/1056061889/S600xU_2x",, Плохие парни: Маленькая ложь и алиби (2025)
-https://river-1.rutube.ru/hls-vod/coH1OrjT61tF2pL52s-IHA/1766245319/3306/0x5000c500e82f2213/336e1bf820dc4c50b0e7de2b1f09aeaf.mp4.m3u8
+https://river-1.rutube.ru/hls-vod/coH1OrjT61tF2pL52s-IHA/1766245319/3306/0x5000c500e82f2213/336e1bf820dc4c50b0e7de2b1f09aeaf.mp4
 
 #EXTINF:-1 group-title="Новинки кино (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-12-10/ca/c9/cac916ae1d2975259a99ba4845c7c766.jpg", Сын плотника (2025)
 https://river-1.rutube.ru/hls-vod/OAEKTwzOsBg7DtWqlAiKTg/1766245321/3338/0x5000c500e9ebb7a0/d32a655d0177432f9a59b532e4e21ed9.mp4.m3u8?i=1920x816_2182
@@ -17982,6 +17982,7 @@ https://mults.info/mp4/yakutia.mp4
 https://mults.info/mp4/yantarny_zamok.mp4
 #EXTINF:-1 group-title="Наши Мультфильмы" tvg-logo="https://i.postimg.cc/W42nL6bj/1.jpg",Японская колыбельная
 https://mults.info/mp4/kolybeln_yaponskaya.mp4
+
 
 
 
