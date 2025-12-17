@@ -1,6 +1,6 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTM3U url-tvg="http://epg.one/epg2.xml.gz"
 
-#EXTINF:-1 group-title="Эфир" tvg-id="pervy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Первый_канал.png/500px-Первый_канал.png", Первый канал HD
+#EXTINF:-1 group-title="Эфир" tvg-id="pervy", Первый канал HD
 http://95.66.188.74/PerviyHD/mono.m3u8
 
 #EXTINF:-1 group-title="Эфир" tvg-id="rossia1" tvg-logo="https://toplogos.ru/images/logo-rossiya-1.png", Россия HD
@@ -17986,6 +17986,7 @@ https://mults.info/mp4/yakutia.mp4
 https://mults.info/mp4/yantarny_zamok.mp4
 #EXTINF:-1 group-title="Наши Мультфильмы" tvg-logo="https://i.postimg.cc/W42nL6bj/1.jpg",Японская колыбельная
 https://mults.info/mp4/kolybeln_yaponskaya.mp4
+
 
 
 
