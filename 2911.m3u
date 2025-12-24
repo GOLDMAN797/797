@@ -185,12 +185,8 @@ http://45.145.32.13:20440/match_igra_hd/index.m3u8
 
 #EXTINF:-1 group-title="Спорт", Матч! Премьер
 
-
 #EXTINF:-1 group-title="Спорт", Матч! Страна
 http://45.145.32.13:20440/match_strana/index.m3u8
-
-#EXTINF:-1 tvg-id="okko-sport-2" group-title="Спортивные", Прайм Спорт
-http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="Спорт", Setanta Sports 1 HD
 http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
@@ -220,7 +216,7 @@ https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=if
 https://7pal.short.gy/skspmaine
 
 #EXTINF:-1 group-title="Спорт", TENNIS CHANNEL
-https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1 tvg-id="cmore-golf" group-title="Спорт", Golf Channel English
 http://78.130.250.2:8023/play/a02q/index.m3u8
@@ -403,18 +399,11 @@ http://195.9.195.3:8080/hls/199417.m3u8
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 
 
-
 #EXTINF:-1 tvg-id="euronews" group-title="Новости", EuroNews
 https://flussonic.salomtv.uz/EURONEWS/video.m3u8
 
-#EXTINF:-1 tvg-id="rtvi" group-title="Новости", RTVi
-http://178.134.1.158:8081/rtvi/index.m3u8
-
 #EXTINF:-1 tvg-id="deutsche-welle-ru" group-title="Новости", DW Russia
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
-
-#EXTINF:-1 tvg-id="euronews-en" group-title="Новости", Euronews HD
-https://flussonic.salomtv.uz/EURONEWS/video.m3u8
 
 #EXTINF:-1 group-title="Новости", CNN
 https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE
@@ -427,27 +416,6 @@ http://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="nhk-world" group-title="Новости", NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
-
-#EXTINF:-1 tvg-id="cgtn" group-title="Новости", CGTN
-http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png", Peer TV
-https://iptv.peer.biz/live/peertv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/agn47sQ.png", 360 TV
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xM0HA30.png", Halk TV
-https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FjFjdY5.png", ÜÜ TV Üsküdar Üniversitesi TV
-https://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
-
-#EXTINF:-1,Hayat HD
-http://23.88.66.93/HAYAT/index.m3u8
-
-#EXTINF:-1,TopEstrada HD
-http://23.88.66.93/MRT_2/index.m3u8
 
 
 
@@ -619,4 +587,5 @@ http://gr.seetv.cc/play/6093/FB4F94DA00C3BE0/video.m3u8
 #EXTINF:-1 tvg-id="Xyosso-4k" tvg-name="YOSSO-4K" tvg-logo="https://ip-tv.dev/images/ico/yosso-4k.png" , YOSSO-4K
 #EXTGRP:Кино 4K
 http://gr.seetv.cc/play/8766/FB4F94DA00C3BE0/video.m3u8
+
 
