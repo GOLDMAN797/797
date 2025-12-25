@@ -1,62 +1,48 @@
-#EXTM3U url-tvg="http://epg.one/epg2.xml.gz"
+#EXTM3U url-tvg="http://epg.one/epg.xml.gz", url-tvg="https://iptvx.one/EPG"
 
-#EXTINF:-1 group-title="Эфир" tvg-id="pervy", Первый канал HD
+#EXTINF:-1 group-title="Эфир" tvg-id="pervy", Первый канал
 http://95.66.188.74/PerviyHD/mono.m3u8
-
-#EXTINF:-1 group-title="Эфир" tvg-id="rossia1", Россия HD
+#EXTINF:-1 group-title="Эфир" tvg-id="rossia1", Россия
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
-
-#EXTINF:-1 group-title="Эфир" tvg-id="match-tv", Матч! HD
+#EXTINF:-1 group-title="Эфир" tvg-id="match-tv", Матч!
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Эфир" tvg-id="ntv", НТВ HD
+#EXTINF:-1 group-title="Эфир" tvg-id="ntv", НТВ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
-
 #EXTINF:-1 group-title="Эфир" tvg-id="5kanal-ru", Пятый канал
 http://85.192.10.131/hls/5kanal/playlist.m3u8
-
-#EXTINF:-1 group-title="Эфир" tvg-id="kultura", Россия Культура HD
+#EXTINF:-1 group-title="Эфир" tvg-id="kultura", Россия Культура
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
-
 #EXTINF:-1 group-title="Эфир" tvg-id="rossia-24", Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
-
-#EXTINF:-1 group-title="Эфир" tvg-id="sts", СТС HD
+#EXTINF:-1 group-title="Эфир" tvg-id="sts", СТС
 http://95.66.188.74/CTC_HD/mono.m3u8
-
 #EXTINF:-1 group-title="Эфир" tvg-id="rentv", РенТВ
 http://185.46.16.239:8000/REN_TV
-
-#EXTINF:-1 group-title="Эфир" tvg-id="piatnica", Пятница! HD
+#EXTINF:-1 group-title="Эфир" tvg-id="piatnica", Пятница
 https://vod.tuva.ru/friday/index.m3u8
-
 #EXTINF:-1 group-title="Эфир" tvg-id="tnt", ТНТ HD
 http://95.66.188.74/TNT_HD/mono.m3u8
-
 #EXTINF:-1 group-title="Эфир" tvg-id="tnt4", ТНТ4
 http://95.66.188.74/THT4/mono.m3u8
-
-#EXTINF:-1 group-title="Эфир" tvg-id="otr", ОТР
-http://31.131.141.195:8000/play/1090/index.m3u8
-
 #EXTINF:-1 group-title="Эфир" tvg-id="tvcentr", ТВЦ
 http://31.131.141.195:8000/play/1100/index.m3u8
-
+#EXTINF:-1 group-title="Эфир" tvg-id="otr", ОТР
+http://31.131.141.195:8000/play/1090/index.m3u8
 #EXTINF:-1 group-title="Эфир" tvg-id="zvezda", Звезда
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-
 #EXTINF:-1 group-title="Эфир" tvg-id="mir", Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-
 #EXTINF:-1 group-title="Эфир" tvg-id="vmeste-rf", Вместе-РФ HD
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="Эфир" tvg-id="tv3-ru", ТВ3
 http://31.131.141.195:8000/play/a002/index.m3u8
 
 #EXTINF:-1 group-title="Развлечение" tvg-id="discovery-channel", Discovery Channel
-http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
+http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="nauka-20", Наука HD
+http://hls127.freeott.top:8080/NAUKA/mono.m3u8
 
 #EXTINF:-1 group-title="Развлечение" tvg-id="2na2", 2x2
 http://89.232.68.194:8080/2x2/tracks-v3a1/index.m3u8
@@ -75,27 +61,6 @@ https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Новости", РБК HD
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
-
-#EXTINF:-1 group-title="Развлечение" tvg-id="nauka-20", Наука HD
-http://hls127.freeott.top:8080/NAUKA/mono.m3u8
-
-#EXTINF:-1 group-title="Развлечение" tvg-id="discovery-channel", Discovery Channel
-http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
-
-#EXTINF:-1 group-title="Развлечение", History
-http://188.225.31.197/bpk-tv/000001000/tve/index.m3u8
-
-#EXTINF:-1 group-title="Развлечение", National Geographic
-http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
-
-#EXTINF:-1 group-title="Развлечение", Nat Geo Wild HD
-http://188.225.31.197/bpk-tv/000004474/tve/index.m3u8
-
-#EXTINF:-1 group-title="Развлечение", Viasat Explore HD
-http://188.225.31.197/bpk-tv/000004157/tve/index.m3u8
-
-#EXTINF:-1 group-title="Развлечение", Viasat History HD
-http://188.225.31.197/bpk-tv/000005528/tve/index.m3u8
 
 #EXTINF:-1 group-title="Развлечение", Red Bull TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
@@ -121,6 +86,20 @@ https://fl1001.bozztv.com/ushba-m9/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Fashion", Global Fashion Channel
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/cdbe280e-0aea-4bbe-861f-fd115abcfec7_1080p.m3u8
 
+#EXTINF:-1 group-title="Развлечение" tvg-id="history", History
+http://188.225.31.197/bpk-tv/000001000/tve/index.m3u8
+
+#EXTINF:-1 group-title="Развлечение", National Geographic
+http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
+
+#EXTINF:-1 group-title="Развлечение", Nat Geo Wild HD
+http://188.225.31.197/bpk-tv/000004474/tve/index.m3u8
+
+#EXTINF:-1 group-title="Развлечение", Viasat Explore HD
+http://188.225.31.197/bpk-tv/000004157/tve/index.m3u8
+
+#EXTINF:-1 group-title="Развлечение", Viasat History HD
+http://188.225.31.197/bpk-tv/000005528/tve/index.m3u8
 
 #EXTINF:-1 group-title="Развлечение", RTG HD
 http://95.66.188.74/RTGHD/index.m3u8
@@ -130,6 +109,9 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
 
 #EXTINF:-1 group-title="Развлечение", Вести КБР
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/nalchik/russia1-hd/index.m3u8
+
+#EXTINF:-1 group-title="Развлечение", 1 КБР
+http://rt-sth-nalch-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_NALCH_KBR/variant.m3u8
 
 #EXTINF:-1 group-title="Развлечение", Большая Азия HD
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
@@ -143,11 +125,8 @@ https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
 #EXTINF:-1 group-title="Развлечение" tvg-id="tv-brics", TV BRICS HD
 http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 
- #EXTINF:-1 group-title="Развлечение" tvg-id="tv-brics", CGTN
-http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-
-#EXTINF:-1 group-title="Развлечение", Наука 2.0
-http://2.57.217.85:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="Развлечение", CGTN
+https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 
 #EXTINF:-1 tvg-id="prodvizhenie" group-title="Развлечение", Продвижение
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
@@ -226,9 +205,6 @@ https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=Mj
 #EXTINF:-1 group-title="Спорт", TENNIS CHANNEL
 https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
 
-#EXTINF:-1 tvg-id="cmore-golf" group-title="Спорт", Golf Channel English
-http://78.130.250.2:8023/play/a02q/index.m3u8
-
 #EXTINF:-1 group-title="Спорт", Sky Sports Golf HD
 https://7pal.short.gy/ssportsgf
 
@@ -281,8 +257,6 @@ http://188.225.31.197/bpk-tv/000000213/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000000134/tve/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-id="domkino", Дом кино
-http://46.8.46.14/domkino/index.m3u8
-
 
 
 #EXTINF:-1 group-title="Кино", viju+ Premiere
@@ -312,20 +286,14 @@ http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinokomedia", Кинокомедия HD
 http://46.8.46.14/kinokomedia/index.m3u8
 
-
-
 #EXTINF:-1 group-title="Кино" tvg-id="kinopokaz", Кинопоказ
 http://95.66.188.74/Kinopokaz/mono.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-id="kinopremiera-hd", Кинопремьера HD
 http://87.76.32.36:8001/kinopremyerahd
 
-
-
 #EXTINF:-1 group-title="Кино" tvg-id="kinosemiya", Киносемья HD
 http://194.32.242.245/kinosemyahd/index.m3u8
-
-
 
 #EXTINF:-1 group-title="Кино" tvg-id="kinoxit", Кинохит HD
 http://195.158.223.132:8008/Kinohit
@@ -338,10 +306,6 @@ http://46.8.46.14/Nashe_Lubimoe_Kino/index.m3u8
 
 #EXTINF:-1 group-title="Кино", Мир сериала
 http://46.8.46.14/MirSeriala/index.m3u8
-
-
-
-
 
 #EXTINF:-1 group-title="Кино", Остросюжетное
 http://188.190.222.53/Ostrosugetnoe_HD/index.m3u8
@@ -596,5 +560,11 @@ http://gr.seetv.cc/play/6093/FB4F94DA00C3BE0/video.m3u8
 #EXTGRP:Кино 4K
 http://gr.seetv.cc/play/8766/FB4F94DA00C3BE0/video.m3u8
 
+#EXTINF:-1, Турция в 4K
+#EXTGRP: Screen
+https://river-4-422.rtbcdn.ru/hls-vod/2GEzZO74xwfDYntaZapGJw/1766856694/1848/0x5000cca2842313e4/1295d7750d224feba3eede8e73f16f7a.mp4.m3u8?i=3840x2160_25103
+#EXTINF:-1, Узбекистан 4K
+#EXTGRP: Screen
+https://river-3-346.rtbcdn.ru/hls-vod/4daiHNFbDeD3UpI2rrGGFA/1766856690/2596/0x5000039ce84046b5/22c69726f20b43069bf4793004fa3c27.mp4.m3u8?i=3840x2160_21010
 
 
