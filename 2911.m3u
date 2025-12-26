@@ -191,7 +191,13 @@ https://7pal.short.gy/ssportsgf
 https://autopilot.catcast.tv/content/40381/index.m3u8
 
 #EXTINF:-1 group-title="Кино", Кино2.
-http://vipketseyket.top:8080/VIP012551751015248500/434917de402f/132476
+http://de.online24.pm/play/242/5FD91ED329C33F6/video.m3u8
+
+#EXTINF:-1 group-title="Кино", Кино3.
+http://de.online24.pm/play/990/5FD91ED329C33F6/video.m3u8
+
+#EXTINF:-1 group-title="Кино", Кино4.
+http://de.online24.pm/play/6891/5FD91ED329C33F6/video.m3u8
 
 
 #EXTINF:-1 group-title="Кино",BCU Kinorating HD
@@ -549,6 +555,7 @@ https://river-4-422.rtbcdn.ru/hls-vod/2GEzZO74xwfDYntaZapGJw/1766856694/1848/0x5
 #EXTINF:-1, Узбекистан 4K
 #EXTGRP: Screen
 https://river-3-346.rtbcdn.ru/hls-vod/4daiHNFbDeD3UpI2rrGGFA/1766856690/2596/0x5000039ce84046b5/22c69726f20b43069bf4793004fa3c27.mp4.m3u8?i=3840x2160_21010
+
 
 
 
