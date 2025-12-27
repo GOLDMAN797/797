@@ -221,18 +221,8 @@ http://93.170.254.17/Kinosvidanie/index.m3u8
 
 
 
-
-#EXTINF:-1 group-title="Кино" tvg-id="sony-turbo",.Black
-http://188.225.31.197/bpk-tv/000000520/tve/index.m3u8
-
-#EXTINF:-1 group-title="Кино" tvg-id="sony-tv", .Red
-http://188.225.31.197/bpk-tv/000000213/tve/index.m3u8
-
-#EXTINF:-1 group-title="Кино" tvg-id="sony-scifi", .Sci-Fi
-http://188.225.31.197/bpk-tv/000000134/tve/index.m3u8
-
 #EXTINF:-1 group-title="Кино" tvg-id="domkino", Дом кино
-
+https://flussonic.salomtv.uz/domkino/video.m3u8
 
 #EXTINF:-1 group-title="Кино", viju+ Premiere
 http://2.57.217.85:8000/play/a03f/index.m3u8
@@ -244,7 +234,7 @@ http://2.57.217.85:8000/play/a03e/index.m3u8
 http://2.57.217.85:8000/play/a03d/index.m3u8
 
 #EXTINF:-1 group-title="Кино", TV1000
-http://193.25.8.59:8000/TV1000
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=skwCBBPQc1VqswPDggBfkQ&e=1767154362&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
 #EXTINF:-1 group-title="Кино", TV1000 Русское кино
 http://193.25.8.59:8000/TV1000RU
@@ -541,6 +531,7 @@ https://river-4-422.rtbcdn.ru/hls-vod/2GEzZO74xwfDYntaZapGJw/1766856694/1848/0x5
 #EXTINF:-1, Узбекистан 4K
 #EXTGRP: Screen
 https://river-3-346.rtbcdn.ru/hls-vod/4daiHNFbDeD3UpI2rrGGFA/1766856690/2596/0x5000039ce84046b5/22c69726f20b43069bf4793004fa3c27.mp4.m3u8?i=3840x2160_21010
+
 
 
 
