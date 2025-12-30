@@ -139,7 +139,7 @@ http://85.11.144.6:6060/play/a08w/index.m3u8
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
 
 #EXTINF:-1 group-title="Развлечение" tvg-id="extreme-sports", Extreme sports
-
+http://195.26.83.96:7029/play/a008
 
 #EXTINF:-1 group-title="Спорт", Матч! Ф1
 http://45.145.32.13:20440/match_futbol_1_hd/index.m3u8?token=test
@@ -335,6 +335,12 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 group-title="Кино", Cartoon Classics
 http://95.66.188.74/Cartoon_Classics/index.m3u8
 
+#EXTINF:-1 group-title="Кино", 4K: KINO ᵁᴴᴰ
+http://king4k.tv:80/play/live.php?mac=A0:BB:3E:2B:23:18&stream=484460&extension=ts
+
+#EXTINF:-1 group-title="Кино", 4K: ULTRA CINEMA
+http://king4k.tv:80/play/live.php?mac=A0:BB:3E:2B:23:18&stream=1544312&extension=ts
+
 #EXTINF:-1 tvg-id="euronews" group-title="Новости", EuroNews
 https://flussonic.salomtv.uz/EURONEWS/video.m3u8
 
@@ -351,6 +357,7 @@ https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="nhk-world" group-title="Новости", NHK World Japan
+
 
 
 
