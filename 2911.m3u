@@ -63,6 +63,16 @@ http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 group-title="Развлечение", Red Bull TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 
+#EXTINF:-1 group-title="Развлечение", M1
+https://43d129f5f27a459c9905c5e874866316.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-MiamiTV/35cb51aa-065b-4cb7-8ce6-5e6ee5ebceb3/0.m3u8
+
+#EXTINF:-1 group-title="Развлечение", M2
+https://47a5d1da46b54926a272de4c51610d1e.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-JennyLive/a98b934f-8473-42b9-8c28-691a92555320/0.m3u8
+
+#EXTINF:-1 group-title="Развлечение", M3
+https://c3555fbfd6f24b7984b6f0e24540353e.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/VivaLive-Fashion/cb19aa83-402f-4ee1-b4b3-9ba775f503f0/0.m3u8
+
+
 #EXTINF:-1 group-title="Fashion", Fashion TV HD
 http://fashion.mediacdn.ru/cdn/fashiontv/tracks-v1a1/mono.m3u8
 
@@ -357,6 +367,7 @@ https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="nhk-world" group-title="Новости", NHK World Japan
+
 
 
 
