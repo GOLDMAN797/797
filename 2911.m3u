@@ -14,7 +14,7 @@ http://85.192.10.131/hls/5kanal/playlist.m3u8
 #EXTINF:-1 group-title="Эфир" tvg-id="kultura", Россия Культура
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 group-title="Эфир" tvg-id="rossia-24", Россия 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:-1 group-title="Эфир" tvg-id="sts", СТС
 http://95.66.188.74/CTC_HD/mono.m3u8
 #EXTINF:-1 group-title="Эфир" tvg-id="rentv", РенТВ
@@ -35,6 +35,12 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 group-title="Эфир" tvg-id="tv3-ru", ТВ3
 http://31.131.141.195:8000/play/a002/index.m3u8
+
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="discovery-channel", Discovery Channel
+https://tv.tvcdnpotok.com/BhEqS_j2KdnBaNVFL76Fnw/520/1767361582/index.m3u8
+#EXTINF:-1 group-title="Развлечение", History 2
+https://tv.tvcdnpotok.com/YMK7ShaMCZECPO4QCBruEA/224/1767361534/index.m3u8
 
 #EXTINF:-1 group-title="Развлечение" tvg-id="discovery-channel", Discovery Channel
 http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
@@ -357,6 +363,7 @@ https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="nhk-world" group-title="Новости", NHK World Japan
+
 
 
 
