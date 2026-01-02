@@ -10,31 +10,33 @@ http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
 #EXTINF:-1 group-title="Эфир" tvg-id="5kanal-ru", Пятый канал
-http://85.192.10.131/hls/5kanal/playlist.m3u8
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/5kanal/video.m3u8
 #EXTINF:-1 group-title="Эфир" tvg-id="kultura", Россия Культура
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 group-title="Эфир" tvg-id="rossia-24", Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:-1 group-title="Эфир" tvg-id="sts", СТС
-http://95.66.188.74/CTC_HD/mono.m3u8
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/ctc-hd/video.m3u8
 #EXTINF:-1 group-title="Эфир" tvg-id="rentv", РенТВ
-http://185.46.16.239:8000/REN_TV
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/ren-tv-hd/video.m3u8
 #EXTINF:-1 group-title="Эфир" tvg-id="piatnica", Пятница
-https://vod.tuva.ru/friday/index.m3u8
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/piatnica-hd/video.m3u8
 #EXTINF:-1 group-title="Эфир" tvg-id="tnt", ТНТ HD
 http://95.66.188.74/TNT_HD/mono.m3u8
 #EXTINF:-1 group-title="Эфир" tvg-id="tnt4", ТНТ4
 http://95.66.188.74/THT4/mono.m3u8
 #EXTINF:-1 group-title="Эфир" tvg-id="tvcentr", ТВЦ
-http://31.131.141.195:8000/play/1100/index.m3u8
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/tvc-hd/video.m3u8
 #EXTINF:-1 group-title="Эфир" tvg-id="zvezda", Звезда
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Эфир" tvg-id="mir", Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="Эфир" tvg-id="vmeste-rf", Вместе-РФ HD
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+#EXTINF:-1 group-title="Эфир", OTP HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/otr-hd/video.m3u8
 #EXTINF:-1 group-title="Эфир" tvg-id="tv3-ru", ТВ3
-http://31.131.141.195:8000/play/a002/index.m3u8
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/tv3-hd/video.m3u8
 
 
 #EXTINF:-1 group-title="Развлечение", Discovery Channel
@@ -87,6 +89,9 @@ https://fl1001.bozztv.com/ushba-m9/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Fashion", Global Fashion Channel
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/cdbe280e-0aea-4bbe-861f-fd115abcfec7_1080p.m3u8
+
+#EXTINF:-1 group-title="Fashion", Global
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/playboy-tv/video.m3u8
 
 #EXTINF:-1 group-title="Развлечение", RTG HD
 http://95.66.188.74/RTGHD/index.m3u8
@@ -202,6 +207,9 @@ http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
 #EXTINF:-1 group-title="Кино", Cinema HD
 http://95.66.188.74/Cinema/mono.m3u8
 
+#EXTINF:-1 group-title="Кино", Hollywood HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/mgm-hd/video.m3u8
+
 #EXTINF:-1 group-title="Кино" tvg-id="evrokino", Еврокино
 http://vod.tuva.ru/eurokino/index.m3u8
 
@@ -226,6 +234,12 @@ http://95.66.188.74/Kinoseriya/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinosvidanie", Киносвидание
 http://93.170.254.17/Kinosvidanie/index.m3u8
 
+#EXTINF:-1 group-title="Кино" tvg-id="kinosemiya", Киносемья HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/kinosemja-hd/video.m3u8
+
+#EXTINF:-1 group-title="Кино" tvg-id="kinokomedia", Кинокомедия HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/kinokomedia-hd/video.m3u8
+
 
 
 #EXTINF:-1 group-title="Кино" tvg-id="domkino", Дом кино
@@ -241,10 +255,13 @@ http://2.57.217.85:8000/play/a03e/index.m3u8
 http://2.57.217.85:8000/play/a03d/index.m3u8
 
 #EXTINF:-1 group-title="Кино", TV1000
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=skwCBBPQc1VqswPDggBfkQ&e=1767154362&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/tv1000-hd/video.m3u8
+
+#EXTINF:-1 group-title="Кино", TV1000 action
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/tv1000-action-hd/video.m3u8
 
 #EXTINF:-1 group-title="Кино", TV1000 Русское кино
-http://193.25.8.59:8000/TV1000RU
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/tv1000-russkoje-hd/video.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-id="illuzion-plus", Иллюзион+
 http://188.225.31.197/bpk-tv/000004582/tve/index.m3u8
@@ -255,8 +272,6 @@ http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kino-tv", Кино ТВ HD
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Кино" tvg-id="kinokomedia", Кинокомедия HD
-http://46.8.46.14/kinokomedia/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-id="kinopokaz", Кинопоказ
 http://95.66.188.74/Kinopokaz/mono.m3u8
@@ -264,8 +279,7 @@ http://95.66.188.74/Kinopokaz/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinopremiera-hd", Кинопремьера HD
 http://87.76.32.36:8001/kinopremyerahd
 
-#EXTINF:-1 group-title="Кино" tvg-id="kinosemiya", Киносемья HD
-http://194.32.242.245/kinosemyahd/index.m3u8
+
 
 #EXTINF:-1 group-title="Кино" tvg-id="kinoxit", Кинохит HD
 http://195.158.223.132:8008/Kinohit
@@ -303,8 +317,17 @@ http://195.9.195.3:8080/hls/204708.m3u8
 #EXTINF:-1 group-title="Кино", 2FILMAX
 http://195.9.195.3:8080/hls/204717.m3u8
 
-#EXTINF:-1 group-title="Кино", FAN HD
-http://46.8.46.14/FAN/index.m3u8
+#EXTINF:-1 group-title="Кино", KINOJAM 1
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/kinojam1-hd/video.m3u8
+
+#EXTINF:-1 group-title="Кино", KINOJAM 2
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/kinojam2-hd/video.m3u8
+
+#EXTINF:-1 group-title="Кино", Family Jam HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/family-jam-hd/video.m3u8
+
+#EXTINF:-1 group-title="Кино", VHS-ка сериал
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/vhs-serial-hd/video.m3u8
 
 #EXTINF:-1 group-title="Кино", FilmBox
 http://188.190.222.53/FilmBOX/index.m3u8
@@ -315,8 +338,7 @@ http://94.232.127.28:8080/foxlife/index.m3u8
 #EXTINF:-1 group-title="Кино", Go3 Films HD
 http://94.232.127.28:8080/tv1000premium/index.m3u8
 
-#EXTINF:-1 group-title="Кино", Hollywood HD
-http://194.32.242.245/hollywoodhd/index.m3u8
+
 
 #EXTINF:-1 group-title="Кино", Kino24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
@@ -367,6 +389,7 @@ https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="nhk-world" group-title="Новости", NHK World Japan
+
 
 
 
