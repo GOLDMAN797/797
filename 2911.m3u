@@ -37,7 +37,7 @@ https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/play
 http://31.131.141.195:8000/play/a002/index.m3u8
 
 
-#EXTINF:-1 group-title="Развлечение" tvg-id="discovery-channel", Discovery Channel
+#EXTINF:-1 group-title="Развлечение", Discovery Channel
 https://tv.tvcdnpotok.com/BhEqS_j2KdnBaNVFL76Fnw/520/1767361582/index.m3u8
 #EXTINF:-1 group-title="Развлечение", History 2
 https://tv.tvcdnpotok.com/YMK7ShaMCZECPO4QCBruEA/224/1767361534/index.m3u8
@@ -45,16 +45,16 @@ https://tv.tvcdnpotok.com/YMK7ShaMCZECPO4QCBruEA/224/1767361534/index.m3u8
 #EXTINF:-1 group-title="Развлечение" tvg-id="discovery-channel", Discovery Channel
 http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
 
-#EXTINF:-1 group-title="Развлечение" tvg-id="nauka-20", Наука HD
+#EXTINF:-1 group-title="Развлечение", Наука HD
 http://hls127.freeott.top:8080/NAUKA/mono.m3u8
 
-#EXTINF:-1 group-title="Развлечение" tvg-id="2na2", 2x2
+#EXTINF:-1 group-title="Развлечение", 2x2
 http://89.232.68.194:8080/2x2/tracks-v3a1/index.m3u8
 
-#EXTINF:-1 group-title="Новости" tvg-id="moskva-24", Москва 24
+#EXTINF:-1 group-title="Новости", Москва 24
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
 
-#EXTINF:-1 group-title="Новости" tvg-id="360-podmoskovie", 360° HD
+#EXTINF:-1 group-title="Новости", 360° HD
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 group-title="Новости", Известия HD
@@ -363,6 +363,7 @@ https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="nhk-world" group-title="Новости", NHK World Japan
+
 
 
 
