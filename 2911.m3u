@@ -39,10 +39,14 @@ http://31.131.141.195:8000/play/a002/index.m3u8
 
 #EXTINF:-1 group-title="Развлечение", Discovery Channel
 https://tv.tvcdnpotok.com/BhEqS_j2KdnBaNVFL76Fnw/520/1767361582/index.m3u8
+
+#EXTINF:-1 group-title="Развлечение", History
+http://188.225.31.197/bpk-tv/000001000/tve/index.m3u8
+
 #EXTINF:-1 group-title="Развлечение", History 2
 https://tv.tvcdnpotok.com/YMK7ShaMCZECPO4QCBruEA/224/1767361534/index.m3u8
 
-#EXTINF:-1 group-title="Развлечение" tvg-id="discovery-channel", Discovery Channel
+#EXTINF:-1 group-title="Развлечение", Discovery Channel
 http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
 
 #EXTINF:-1 group-title="Развлечение", Наука HD
@@ -58,7 +62,7 @@ https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 group-title="Новости", Известия HD
-http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 
 #EXTINF:-1 group-title="Новости", ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
@@ -117,9 +121,6 @@ http://188.225.31.197/bpk-tv/000000286/tve/index.m3u8
 #EXTINF:-1 group-title="Развлечение" tvg-id="moya-planeta", Моя планета HD
 http://95.66.188.74/MoyaPlanetaHD/mono.m3u8
 
-#EXTINF:-1 group-title="Развлечение" tvg-id="history", History
-http://188.225.31.197/bpk-tv/000001000/tve/index.m3u8
-
 #EXTINF:-1 group-title="Развлечение", Viasat Explore HD
 http://188.225.31.197/bpk-tv/000004157/tve/index.m3u8
 
@@ -135,6 +136,9 @@ http://188.225.31.197/bpk-tv/000004474/tve/index.m3u8
 #EXTINF:-1 group-title="Развлечение" tvg-id="kuxnia-tv", КУХНЯ-ТВ
 http://95.66.188.74/Kuhnya/mono.m3u8
 
+#EXTINF:-1 group-title="Развлечение", Еда
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Eda
+
 #EXTINF:-1 group-title="Развлечение" tvg-id="ntv-style", НТВ Стиль
 https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 
@@ -145,7 +149,7 @@ http://85.11.144.6:6060/play/a08w/index.m3u8
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
 
 #EXTINF:-1 group-title="Развлечение" tvg-id="extreme-sports", Extreme sports
-http://195.26.83.96:7029/play/a008
+http://45.11.139.43:8555/extsport/index.m3u8
 
 #EXTINF:-1 group-title="Спорт", Матч! Ф1
 http://45.145.32.13:20440/match_futbol_1_hd/index.m3u8?token=test
@@ -363,6 +367,7 @@ https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="nhk-world" group-title="Новости", NHK World Japan
+
 
 
 
