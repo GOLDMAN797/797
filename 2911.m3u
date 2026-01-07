@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG_LITE"
+#EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.one/epg2.xml.gz"
 
 #EXTINF:-1 group-title="Эфир" tvg-id="pervy", Первый канал
 http://95.66.188.74/PerviyHD/mono.m3u8
@@ -39,19 +39,19 @@ http://tchaikovsky.af-stream.com:8080/s/za8acfq4/otr-hd/video.m3u8
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/tv3-hd/video.m3u8
 
 
-#EXTINF:-1 group-title="Развлечение", Discovery Channel
+#EXTINF:-1 group-title="Развлечение" tvg-id="discovery-channel", Discovery Channel
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/discovery-hd/video.m3u8
 
-#EXTINF:-1 group-title="Развлечение", History
+#EXTINF:-1 group-title="Развлечение" tvg-id="history"	, History
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/history-hd/video.m3u8
 
-#EXTINF:-1 group-title="Развлечение", History 2
+#EXTINF:-1 group-title="Развлечение" tvg-id="history", History 2
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/h2-hd/video.m3u8
 
 #EXTINF:-1 group-title="Развлечение", Discovery Channel
 http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
 
-#EXTINF:-1 group-title="Развлечение", Наука HD
+#EXTINF:-1 group-title="Развлечение", Наука 2.0
 http://hls127.freeott.top:8080/NAUKA/mono.m3u8
 
 #EXTINF:-1 group-title="Развлечение", 2x2
@@ -153,11 +153,11 @@ http://45.11.139.43:8555/extsport/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1
 http://cdntv.online/low/9mlxywika2/55.m3u8
 
-#EXTINF:-1 group-title="Спорт", Матч! Ф 2
-http://45.145.32.13:20440/match_futbol_2_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 2
+http://188.191.160.238:7780/udp/239.195.3.17:1234
 
-#EXTINF:-1 group-title="Спорт", Матч! Ф 3
-http://45.145.32.13:20440/match_futbol_3_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 3
+http://185.57.68.33/110/mpegts
 
 
 #EXTINF:-1 group-title="Спорт", Setanta Sports 1 HD
@@ -377,6 +377,7 @@ https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="nhk-world" group-title="Новости", NHK World Japan
+
 
 
 
