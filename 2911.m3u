@@ -78,8 +78,11 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv
 #EXTINF:-1 group-title="Fashion", Fashion TV HD
 http://fashion.mediacdn.ru/cdn/fashiontv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Fashion", World Fashion
+#EXTINF:-1 group-title="Fashion", World Fashion Channel
 http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
+
+#EXTINF:-1 group-title="Fashion", Fashion and LifeStyle
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/fashion-hd/video.m3u8
 
 #EXTINF:-1 group-title="Fashion", World Fashion Channel En
 http://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
@@ -90,8 +93,8 @@ https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/
 #EXTINF:-1 group-title="Развлечение", RTG HD
 http://95.66.188.74/RTGHD/index.m3u8
 
-#EXTINF:-1 group-title="Развлечение", Кавказ 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
+#EXTINF:-1 group-title="Развлечение", Mezzo Live HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/mezzo-hd/video.m3u8
 
 #EXTINF:-1 group-title="Развлечение", Большая Азия HD
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
@@ -99,8 +102,8 @@ https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлечение", Неизвестная Россия HD
 http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Развлечение" tvg-id="silkway", Silk Way HD
-
+#EXTINF:-1 group-title="Развлечение" tvg-id="silkway", HGTV HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/hgtv-hd/video.m3u8
 
 #EXTINF:-1 group-title="Развлечение" tvg-id="tv-brics", TV BRICS HD
 http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
@@ -126,11 +129,23 @@ http://188.225.31.197/bpk-tv/000004157/tve/index.m3u8
 #EXTINF:-1 group-title="Развлечение", Viasat History HD
 http://188.225.31.197/bpk-tv/000005528/tve/index.m3u8
 
+#EXTINF:-1 group-title="Развлечение", viju Planet HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/viasat-history-hd-test/video.m3u8
+
+#EXTINF:-1 group-title="Развлечение", viju Explore HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/viasat-explore-hd/video.m3u8
+
+#EXTINF:-1 group-title="Развлечение", CuriosityStream
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/curiosity-stream-hd/video.m3u8
+
 #EXTINF:-1 group-title="Развлечение", National Geographic
 http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
 
 #EXTINF:-1 group-title="Развлечение", Nat Geo Wild HD
 http://188.225.31.197/bpk-tv/000004474/tve/index.m3u8
+
+#EXTINF:-1 group-title="Развлечение", Food Network HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/food-network-hd/video.m3u8
 
 #EXTINF:-1 group-title="Развлечение" tvg-id="kuxnia-tv", КУХНЯ-ТВ
 http://95.66.188.74/Kuhnya/mono.m3u8
@@ -141,8 +156,8 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Eda
 #EXTINF:-1 group-title="Развлечение" tvg-id="ntv-style", НТВ Стиль
 https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 group-title="Развлечение", MTV
-http://85.11.144.6:6060/play/a08w/index.m3u8
+#EXTINF:-1 group-title="Развлечение", Womens Magazine HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/womens-magazine-hd/video.m3u8
 
 #EXTINF:-1 tvg-id="inter-it" group-title="Спорт", Inter TV
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
@@ -158,7 +173,6 @@ http://188.191.160.238:7780/udp/239.195.3.17:1234
 
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3
 http://185.57.68.33/110/mpegts
-
 
 #EXTINF:-1 group-title="Спорт", Setanta Sports 1 HD
 http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
@@ -211,25 +225,25 @@ http://vod.tuva.ru/eurokino/index.m3u8
 http://95.66.188.74/MosfilmHD/index.m3u8
 
 #EXTINF:-1 group-title="Кино", Дом кино
-https://flussonic.salomtv.uz/domkino/video.m3u8
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/dom-kino/video.m3u8
 
 #EXTINF:-1 group-title="Кино", Дом Кино Премиум
-http://95.66.188.74/DomKinoPremiumHD/index.m3u8
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/dom-kino-premium-hd/video.m3u8
 
 #EXTINF:-1 group-title="Кино", Мужское кино
-http://95.66.188.74/MuzhskoeKinoHD/mono.m3u8
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/muzhskoe-kino-hd/video.m3u8
 
 #EXTINF:-1 group-title="Кино", Наше новое кино
-http://95.66.188.74/NasheNovoeKino/mono.m3u8
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/nashe-novoe-kino-hd/video.m3u8
 
 #EXTINF:-1 group-title="Кино", Киномикс
-http://95.66.188.74/Kinomiks/mono.m3u8
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/kinomix-hd/video.m3u8
 
 #EXTINF:-1 group-title="Кино", Киносерия
-http://95.66.188.74/Kinoseriya/mono.m3u8
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/mnogo-tv-hd/video.m3u8
 
 #EXTINF:-1 group-title="Кино", Киносвидание
-http://93.170.254.17/Kinosvidanie/index.m3u8
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/kinosvidanije-hd/video.m3u8
 
 #EXTINF:-1 group-title="Кино", Киносемья
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/kinosemja-hd/video.m3u8
@@ -242,6 +256,9 @@ http://tchaikovsky.af-stream.com:8080/s/za8acfq4/kinohit-hd/video.m3u8
 
 #EXTINF:-1 group-title="Кино", Кинопремьера HD
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/kinopremiera-hd/video.m3u8
+
+#EXTINF:-1 group-title="Кино", Родное кино
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/rodnoje_kino/video.m3u8
 
 #EXTINF:-1 group-title="Кино", Кинопоказ
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/kinopokaz-hd/video.m3u8
@@ -274,35 +291,49 @@ http://188.225.31.197/bpk-tv/000004582/tve/index.m3u8
 http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
 
 #EXTINF:-1 group-title="Кино", Кино ТВ HD
-http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/kino-tv-hd/video.m3u8
 
+#EXTINF:-1 group-title="Кино", Viasat Kino Action HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/viasat-kino-action-hd/video.m3u8
+
+#EXTINF:-1 group-title="Кино", Viasat Kino Comedy HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/viasat-kino-comedy-hd/video.m3u8
+
+#EXTINF:-1 group-title="Кино", Viasat Kino World HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/tv1000-world-kino-hd/video.m3u8
 
 #EXTINF:-1 group-title="Кино", Комедийное HD
-http://188.190.222.53/Kinopokaz_HD2/index.m3u8
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/komedijnoe-hd/video.m3u8
+
+#EXTINF:-1 group-title="Кино", Премиальное HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/kino-premium-hd/video.m3u8
+
+#EXTINF:-1 group-title="Кино", Остросюжетное HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/ostrosujetnoe-hd/video.m3u8
+
+#EXTINF:-1 group-title="Кино", Блокбастер HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/blokbaster-hd/video.m3u8
 
 #EXTINF:-1 group-title="Кино", Любимое кино
-http://46.8.46.14/Nashe_Lubimoe_Kino/index.m3u8
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/lubimoe-kino-hd/video.m3u8
 
-#EXTINF:-1 group-title="Кино", Мир сериала
-http://46.8.46.14/MirSeriala/index.m3u8
-
-#EXTINF:-1 group-title="Кино", Остросюжетное
-http://188.190.222.53/Ostrosugetnoe_HD/index.m3u8
-
-#EXTINF:-1 group-title="Кино", Родное кино
-http://84.54.128.52:9090/play/a009/index.m3u8
+#EXTINF:-1 group-title="Кино", Советская Киноклассика HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/sovetskaya-kinoclassica-hd/video.m3u8
 
 #EXTINF:-1 group-title="Кино", ТВ21
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/tv-xxi/video.m3u8
+
+#EXTINF:-1 group-title="Кино", Amedia Hit
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/amedia-hit-hd/video.m3u8
+
+#EXTINF:-1 group-title="Кино", Amedia Premium
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/amedia-premium-hd/video.m3u8
 
 #EXTINF:-1 group-title="Кино", Amedia 1
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/amedia1-hd/video.m3u8
 
 #EXTINF:-1 group-title="Кино", Amedia 2
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/amedia-2-hd/video.m3u8
-
-#EXTINF:-1 group-title="Кино", Amedia Premium
-http://tchaikovsky.af-stream.com:8080/s/za8acfq4/amedia-premium-hd/video.m3u8
 
 #EXTINF:-1 group-title="Кино", 1FILMAX
 http://195.9.195.3:8080/hls/204708.m3u8
@@ -319,17 +350,19 @@ http://tchaikovsky.af-stream.com:8080/s/za8acfq4/kinojam2-hd/video.m3u8
 #EXTINF:-1 group-title="Кино", Family Jam HD
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/family-jam-hd/video.m3u8
 
+#EXTINF:-1 group-title="Кино", VHS-ка
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/vhska-hd/video.m3u8
+
 #EXTINF:-1 group-title="Кино", VHS-ка сериал
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/vhs-serial-hd/video.m3u8
 
 #EXTINF:-1 group-title="Кино", TV XXI
-
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/tv-xxi/video.m3u8
 
 #EXTINF:-1 group-title="Кино", FX Life
-
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/fox-life-hd/video.m3u8
 
 #EXTINF:-1 group-title="Кино", Go3 Films HD
-
 
 
 
@@ -337,7 +370,7 @@ http://tchaikovsky.af-stream.com:8080/s/za8acfq4/vhs-serial-hd/video.m3u8
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 
 #EXTINF:-1 group-title="Кино", Plan_B HD
-http://195.64.140.147:10082/82
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/plan-b-hd/video.m3u8
 
 #EXTINF:-1 group-title="Кино", Start Air HD
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
@@ -345,8 +378,7 @@ https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:-1 group-title="Кино", Start World HD
 https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 
-#EXTINF:-1 group-title="Кино", VHS-ка
-http://95.66.188.74/VHS/index.m3u8
+
 
 #EXTINF:-1 group-title="Кино",  TvBoom-ViP
 https://kb.catcast.tv/content/49702/index.m3u8
@@ -377,6 +409,7 @@ https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="nhk-world" group-title="Новости", NHK World Japan
+
 
 
 
