@@ -411,6 +411,208 @@ http://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="nhk-world" group-title="Новости", NHK World Japan
 
 
+#EXTM3U
+
+####################
+# Rick and Morty
+####################
+
+########## SEASON 1 ##########
+
+#EXTINF:-1 tvg-id="rickmorty.s01e01" group-title="Rick and Morty / Season 1", Рик и Морти — S01E01 — Пилот
+https://s8.opravar.online/content/stream/films/rick_and_morty_s01e01_pilot_416913/hls/1080/index.m3u8
+
+#EXTINF:-1 tvg-id="rickmorty.s01e02" group-title="Rick and Morty / Season 1", Рик и Морти — S01E02 — Пёс-газонокосильщик
+https://s8.opravar.online/content/stream/films/rick_and_morty_s01e02_pyosgazonokosilshhik_416914/hls/1080/index.m3u8
+
+#EXTINF:-1 tvg-id="rickmorty.s01e03" group-title="Rick and Morty / Season 1", Рик и Морти — S01E03 — Анатомический парк
+https://s8.opravar.online/vod/films/rick_and_morty_s01e03_anatomicheskij_park_416915/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="rickmorty.s01e04" group-title="Rick and Morty / Season 1", Рик и Морти — S01E04 — М. Найт Шьямалан-инопланетяне!
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s01e05" group-title="Rick and Morty / Season 1", Рик и Морти — S01E05 — Мистер Мисикс и разрушение
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s01e06" group-title="Rick and Morty / Season 1", Рик и Морти — S01E06 — Зелье Рика №9
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s01e07" group-title="Rick and Morty / Season 1", Рик и Морти — S01E07 — Воспитание Газорпазорпа
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s01e08" group-title="Rick and Morty / Season 1", Рик и Морти — S01E08 — Риксти минуты
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s01e09" group-title="Rick and Morty / Season 1", Рик и Морти — S01E09 — Что-то риковое грядёт
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s01e10" group-title="Rick and Morty / Season 1", Рик и Морти — S01E10 — Близкие контакты риковой степени
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s01e11" group-title="Rick and Morty / Season 1", Рик и Морти — S01E11 — Риксовая вечеринка
+URL_HERE
+
+
+########## SEASON 2 ##########
+
+#EXTINF:-1 tvg-id="rickmorty.s02e01" group-title="Rick and Morty / Season 2", Рик и Морти — S02E01 — Рик во времени
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s02e02" group-title="Rick and Morty / Season 2", Рик и Морти — S02E02 — Ночной забег Морти
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s02e03" group-title="Rick and Morty / Season 2", Рик и Морти — S02E03 — Автоэротическая ассимиляция
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s02e04" group-title="Rick and Morty / Season 2", Рик и Морти — S02E04 — Вселенский кабель 2
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s02e05" group-title="Rick and Morty / Season 2", Рик и Морти — S02E05 — Смотри, кто теперь чистит
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s02e06" group-title="Rick and Morty / Season 2", Рик и Морти — S02E06 — Рики должны быть безумными
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s02e07" group-title="Rick and Morty / Season 2", Рик и Морти — S02E07 — Большой переполох в Маленьком Санчесе
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s02e08" group-title="Rick and Morty / Season 2", Рик и Морти — S02E08 — Телевизионные межвставки
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s02e09" group-title="Rick and Morty / Season 2", Рик и Морти — S02E09 — Посмотри, кто сейчас чистит
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s02e10" group-title="Rick and Morty / Season 2", Рик и Морти — S02E10 — Свадебные разрушители
+URL_HERE
+
+
+########## SEASON 3 ##########
+
+#EXTINF:-1 tvg-id="rickmorty.s03e01" group-title="Rick and Morty / Season 3", Рик и Морти — S03E01 — Побег из риковой тюрьмы
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s03e02" group-title="Rick and Morty / Season 3", Рик и Морти — S03E02 — Рикмантизация Каменного века
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s03e03" group-title="Rick and Morty / Season 3", Рик и Морти — S03E03 — Огурчик Рик
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s03e04" group-title="Rick and Morty / Season 3", Рик и Морти — S03E04 — Вендикаторы 3: Возвращение Мира
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s03e05" group-title="Rick and Morty / Season 3", Рик и Морти — S03E05 — Заговор Виндикаторов
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s03e06" group-title="Rick and Morty / Season 3", Рик и Морти — S03E06 — Риклантис смешение
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s03e07" group-title="Rick and Morty / Season 3", Рик и Морти — S03E07 — Истории риксового Морти
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s03e08" group-title="Rick and Morty / Season 3", Рик и Морти — S03E08 — Морти в Атлантиде
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s03e09" group-title="Rick and Morty / Season 3", Рик и Морти — S03E09 — Взлёт и падение Риксанции
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s03e10" group-title="Rick and Morty / Season 3", Рик и Морти — S03E10 — Рикчурий день
+URL_HERE
+
+
+########## SEASON 4 ##########
+
+#EXTINF:-1 tvg-id="rickmorty.s04e01" group-title="Rick and Morty / Season 4", Рик и Морти — S04E01 — Грань Томорта
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s04e02" group-title="Rick and Morty / Season 4", Рик и Морти — S04E02 — Старик и сиденье
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s04e03" group-title="Rick and Morty / Season 4", Рик и Морти — S04E03 — Одна команда, один Морти
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s04e04" group-title="Rick and Morty / Season 4", Рик и Морти — S04E04 — Когти смерти
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s04e05" group-title="Rick and Morty / Season 4", Рик и Морти — S04E05 — Рик и Морти против Генокончателя
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s04e06" group-title="Rick and Morty / Season 4", Рик и Морти — S04E06 — Никогда не рикни меня
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s04e07" group-title="Rick and Morty / Season 4", Рик и Морти — S04E07 — Промортиус
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s04e08" group-title="Rick and Morty / Season 4", Рик и Морти — S04E08 — Эпизод с чаном кислоты
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s04e09" group-title="Rick and Morty / Season 4", Рик и Морти — S04E09 — Риктурн Джерри
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s04e10" group-title="Rick and Morty / Season 4", Рик и Морти — S04E10 — Звёздный Морти: Возвращение Джерри
+URL_HERE
+
+
+########## SEASON 5 ##########
+
+#EXTINF:-1 tvg-id="rickmorty.s05e01" group-title="Rick and Morty / Season 5", Рик и Морти — S05E01 — Морти и Нимфомантические кроны
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s05e02" group-title="Rick and Morty / Season 5", Рик и Морти — S05E02 — Морти и Смертельная любовь
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s05e03" group-title="Rick and Morty / Season 5", Рик и Морти — S05E03 — Планета вина и Морти
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s05e04" group-title="Rick and Morty / Season 5", Рик и Морти — S05E04 — Спрей Рик
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s05e05" group-title="Rick and Morty / Season 5", Рик и Морти — S05E05 — Амортиканский грайк
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s05e06" group-title="Rick and Morty / Season 5", Рик и Морти — S05E06 — Рик и Морти в аду
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s05e07" group-title="Rick and Morty / Season 5", Рик и Морти — S05E07 — Готический Морти
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s05e08" group-title="Rick and Morty / Season 5", Рик и Морти — S05E08 — Риктернал Френдшайн
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s05e09" group-title="Rick and Morty / Season 5", Рик и Морти — S05E09 — Забытый Морти
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s05e10" group-title="Rick and Morty / Season 5", Рик и Морти — S05E10 — Рикмурай Джек
+URL_HERE
+
+
+########## SEASON 6 ##########
+
+#EXTINF:-1 tvg-id="rickmorty.s06e01" group-title="Rick and Morty / Season 6", Рик и Морти — S06E01 — Солярис Рик
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s06e02" group-title="Rick and Morty / Season 6", Рик и Морти — S06E02 — Рик: хорошо, Морти: плохо
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s06e03" group-title="Rick and Morty / Season 6", Рик и Морти — S06E03 — Бетик Твист
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s06e04" group-title="Rick and Morty / Season 6", Рик и Морти — S06E04 — Ночной Морти
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s06e05" group-title="Rick and Morty / Season 6", Рик и Морти — S06E05 — Финал Дино
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s06e06" group-title="Rick and Morty / Season 6", Рик и Морти — S06E06 — Джурик Морти
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s06e07" group-title="Rick and Morty / Season 6", Рик и Морти — S06E07 — Полный мета Джек
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s06e08" group-title="Rick and Morty / Season 6", Рик и Морти — S06E08 — Анализ Рика
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s06e09" group-title="Rick and Morty / Season 6", Рик и Морти — S06E09 — Эпизод перед Рождеством
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s06e10" group-title="Rick and Morty / Season 6", Рик и Морти — S06E10 — Рикционный финал
+URL_HERE
+
+
+########## SEASON 7 ##########
+
+#EXTINF:-1 tvg-id="rickmorty.s07e01" group-title="Rick and Morty / Season 7", Рик и Морти — S07E01 — Как мы дошли до жизни такой
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s07e02" group-title="Rick and Morty / Season 7", Рик и Морти — S07E02 — Морти против Рика
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s07e03" group-title="Rick and Morty / Season 7", Рик и Морти — S07E03 — Возвращение Джерри
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s07e04" group-title="Rick and Morty / Season 7", Рик и Морти — S07E04 — Вселенский разлом
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s07e05" group-title="Rick and Morty / Season 7", Рик и Морти — S07E05 — Забытый Рик
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s07e06" group-title="Rick and Morty / Season 7", Рик и Морти — S07E06 — Рик против Рика
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s07e07" group-title="Rick and Morty / Season 7", Рик и Морти — S07E07 — Морти и судьба
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s07e08" group-title="Rick and Morty / Season 7", Рик и Морти — S07E08 — Последний портал
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s07e09" group-title="Rick and Morty / Season 7", Рик и Морти — S07E09 — Цена бесконечности
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s07e10" group-title="Rick and Morty / Season 7", Рик и Морти — S07E10 — Финал Рика
+URL_HERE
+
+
+########## SEASON 8 ##########
+
+#EXTINF:-1 tvg-id="rickmorty.s08e01" group-title="Rick and Morty / Season 8", Рик и Морти — S08E01 — Название будет объявлено
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s08e02" group-title="Rick and Morty / Season 8", Рик и Морти — S08E02 — Название будет объявлено
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s08e03" group-title="Rick and Morty / Season 8", Рик и Морти — S08E03 — Название будет объявлено
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s08e04" group-title="Rick and Morty / Season 8", Рик и Морти — S08E04 — Название будет объявлено
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s08e05" group-title="Rick and Morty / Season 8", Рик и Морти — S08E05 — Название будет объявлено
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s08e06" group-title="Rick and Morty / Season 8", Рик и Морти — S08E06 — Название будет объявлено
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s08e07" group-title="Rick and Morty / Season 8", Рик и Морти — S08E07 — Название будет объявлено
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s08e08" group-title="Rick and Morty / Season 8", Рик и Морти — S08E08 — Название будет объявлено
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s08e09" group-title="Rick and Morty / Season 8", Рик и Морти — S08E09 — Название будет объявлено
+URL_HERE
+#EXTINF:-1 tvg-id="rickmorty.s08e10" group-title="Rick and Morty / Season 8", Рик и Морти — S08E10 — Название будет объявлено
+URL_HERE
+
 
 
 
