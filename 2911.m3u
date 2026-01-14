@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG,http://epg.one/epg2.xml.gz"
+#EXTM3U url-tvg="http://epg.one/epg2.xml.gz"
 
 #EXTINF:-1 group-title="Эфир" tvg-id="pervy" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/e/ec/Логотип_«Первого_канала».svg", Первый канал
 http://95.66.188.74/PerviyHD/mono.m3u8
@@ -31,9 +31,9 @@ http://tchaikovsky.af-stream.com:8080/s/za8acfq4/tvc-hd/video.m3u8
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Эфир" tvg-id="mir", Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 group-title="Эфир" tvg-id="vmeste-rf", Вместе-РФ HD
+#EXTINF:-1 group-title="Эфир" tvg-id="vmeste-rf", Вместе-РФ
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
-#EXTINF:-1 group-title="Эфир", OTP HD
+#EXTINF:-1 group-title="Эфир", OTP
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/otr-hd/video.m3u8
 #EXTINF:-1 group-title="Эфир" tvg-id="tv3-ru", ТВ3
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/tv3-hd/video.m3u8
@@ -42,10 +42,10 @@ http://tchaikovsky.af-stream.com:8080/s/za8acfq4/tv3-hd/video.m3u8
 #EXTINF:-1 group-title="Развлечение" tvg-id="discovery-channel", Discovery Channel
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/discovery-hd/video.m3u8
 
-#EXTINF:-1 group-title="Развлечение" tvg-id="history"	, History
+#EXTINF:-1 group-title="Развлечение" tvg-id="history", History
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/history-hd/video.m3u8
 
-#EXTINF:-1 group-title="Развлечение" tvg-id="history", History 2
+#EXTINF:-1 group-title="Развлечение", H2
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/h2-hd/video.m3u8
 
 #EXTINF:-1 group-title="Развлечение", Discovery Channel
@@ -123,9 +123,6 @@ http://188.225.31.197/bpk-tv/000000286/tve/index.m3u8
 #EXTINF:-1 group-title="Развлечение" tvg-id="moya-planeta", Моя планета HD
 http://95.66.188.74/MoyaPlanetaHD/mono.m3u8
 
-#EXTINF:-1 group-title="Развлечение", Viasat Explore HD
-http://188.225.31.197/bpk-tv/000004157/tve/index.m3u8
-
 #EXTINF:-1 group-title="Развлечение", Viasat History HD
 http://188.225.31.197/bpk-tv/000005528/tve/index.m3u8
 
@@ -141,7 +138,7 @@ http://tchaikovsky.af-stream.com:8080/s/za8acfq4/curiosity-stream-hd/video.m3u8
 #EXTINF:-1 group-title="Развлечение", National Geographic
 http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
 
-#EXTINF:-1 group-title="Развлечение", Nat Geo Wild HD
+#EXTINF:-1 group-title="Развлечение", Nat Geo Wild
 http://188.225.31.197/bpk-tv/000004474/tve/index.m3u8
 
 #EXTINF:-1 group-title="Развлечение", Food Network HD
@@ -162,9 +159,6 @@ http://tchaikovsky.af-stream.com:8080/s/za8acfq4/womens-magazine-hd/video.m3u8
 #EXTINF:-1 tvg-id="inter-it" group-title="Спорт", Inter TV
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
 
-#EXTINF:-1 group-title="Развлечение" tvg-id="extreme-sports", Extreme sports
-http://45.11.139.43:8555/extsport/index.m3u8
-
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1
 http://cdntv.online/low/9mlxywika2/55.m3u8
 
@@ -180,10 +174,10 @@ http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Setanta Sports 2 HD
 http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="eurosport1" group-title="Спорт", Eurosport 1 HD
+#EXTINF:-1 group-title="Спорт", Eurosport 1 HD
 http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="eurosport2" group-title="Спорт", Eurosport 2 HD
+#EXTINF:-1 group-title="Спорт", Eurosport 2 HD
 https://flussonic.salomtv.uz/eurosport_2/video.m3u8
 
 #EXTINF:-1 group-title="Спорт", Sky Sports F1
@@ -320,9 +314,6 @@ http://tchaikovsky.af-stream.com:8080/s/za8acfq4/lubimoe-kino-hd/video.m3u8
 #EXTINF:-1 group-title="Кино", Советская Киноклассика HD
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/sovetskaya-kinoclassica-hd/video.m3u8
 
-#EXTINF:-1 group-title="Кино", ТВ21
-http://tchaikovsky.af-stream.com:8080/s/za8acfq4/tv-xxi/video.m3u8
-
 #EXTINF:-1 group-title="Кино", Amedia Hit
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/amedia-hit-hd/video.m3u8
 
@@ -362,10 +353,6 @@ http://tchaikovsky.af-stream.com:8080/s/za8acfq4/tv-xxi/video.m3u8
 #EXTINF:-1 group-title="Кино", FX Life
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/fox-life-hd/video.m3u8
 
-#EXTINF:-1 group-title="Кино", Go3 Films HD
-
-
-
 #EXTINF:-1 group-title="Кино", Kino24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 
@@ -377,8 +364,6 @@ https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 
 #EXTINF:-1 group-title="Кино", Start World HD
 https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
-
-
 
 #EXTINF:-1 group-title="Кино",  TvBoom-ViP
 https://kb.catcast.tv/content/49702/index.m3u8
@@ -393,10 +378,10 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 http://95.66.188.74/Cartoon_Classics/index.m3u8
 
 
-#EXTINF:-1 tvg-id="euronews" group-title="Новости", EuroNews
+#EXTINF:-1 group-title="Новости", EuroNews
 https://flussonic.salomtv.uz/EURONEWS/video.m3u8
 
-#EXTINF:-1 tvg-id="deutsche-welle-ru" group-title="Новости", DW Russia
+#EXTINF:-1 group-title="Новости", DW Russia
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 
 #EXTINF:-1 group-title="Новости", CNN
@@ -408,5 +393,4 @@ https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="Новости", RT News HD
 http://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="nhk-world" group-title="Новости", NHK World Japan
-
+#EXTINF:-1 group-title="Новости", NHK World Japan
