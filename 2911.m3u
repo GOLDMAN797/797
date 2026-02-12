@@ -66,7 +66,7 @@ http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/track
 #EXTINF:-1 group-title="Новости" tvg-id="2271", Известия HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 
-#EXTINF:-1 group-title="Новости", ТАСС
+#EXTINF:-1 group-title="Новости" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/TASS_logo_2020.svg/1280px-TASS_logo_2020.svg.png", ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Новости" tvg-id="743", РБК HD
@@ -108,7 +108,7 @@ http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлечение" tvg-id="silkway", HGTV HD
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/hgtv-hd/video.m3u8
 
-#EXTINF:-1 group-title="Развлечение" tvg-id="tv-brics", TV BRICS HD
+#EXTINF:-1 group-title="Развлечение" tvg-id="tv-brics" tvg-logo="https://images.iptv.rt.ru/images/ch4do9bmhk079s3jqc4g.png", TV BRICS HD 
 http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 
 #EXTINF:-1 group-title="Развлечение" tvg-id="2268", CGTN
@@ -1166,6 +1166,7 @@ https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 
 #EXTINF:-1 group-title="Новости" tvg-id="921", NHK World Japan
+
 
 
 
