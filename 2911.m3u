@@ -226,7 +226,7 @@ http://tchaikovsky.af-stream.com:8080/s/za8acfq4/vip-megahit-hd/video.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="1011", viju+ Comedy
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/vip-comedy-hd/video.m3u8
 
-#EXTINF:-1 group-title="Кино" tvg-id="2832", viju+ Serial
+#EXTINF:-1 group-title="Кино", viju+ Serial
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/vip-serial-hd/video.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-id="127", TV1000
@@ -1212,6 +1212,7 @@ http://tchaikovsky.af-stream.com:8080/s/za8acfq4/cnbc-us-hd/video.m3u8
 
 #EXTINF:-1 group-title="Новости", NBC HD
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/nbc-us-hd/video.m3u8
+
 
 
 
