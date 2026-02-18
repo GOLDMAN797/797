@@ -404,8 +404,8 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 
 
 
-#EXTINF:-1 group-title="movie home",Гарри поттер и фиолософский камень
-file://MAKENZI/zona/Harry_Potter/1._Harry_Potter_and_the_Sorcerers_Stone_(2001).mkv
+#EXTINF:-1 group-title="The Killing 1 (vod)", Убийство (2011) Pilot 1s.1e
+file://MAKENZI/zona/The_Killing/S01/The.Killing.S01e01.Rus.Lostfilm.Tv.mp4
 
 #EXTINF:-1 group-title="MOVIE",Джон Уик 2 [США/2017]
 http://dmi3y-tv6.ru/hls/film/DJONUIK2.m3u8
@@ -1202,6 +1202,7 @@ http://tchaikovsky.af-stream.com:8080/s/za8acfq4/cnbc-us-hd/video.m3u8
 
 #EXTINF:-1 group-title="Новости", NBC HD
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/nbc-us-hd/video.m3u8
+
 
 
 
