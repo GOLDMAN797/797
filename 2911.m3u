@@ -22,7 +22,7 @@ http://tchaikovsky.af-stream.com:8080/s/za8acfq4/ren-tv-hd/video.m3u8
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/piatnica-hd/video.m3u8
 #EXTINF:-1 group-title="Эфир" tvg-id="353", ТНТ HD
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/tnt-hd/video.m3u8
-#EXTINF:-1 group-title="Эфир" tvg-id="7978", ТНТ 4
+#EXTINF:-1 group-title="Эфир" tvg-id="7978", ТНТ4
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/tnt4-hd/video.m3u8
 #EXTINF:-1 group-title="Эфир" tvg-id="649", ТВЦ
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/tvc-hd/video.m3u8
@@ -107,7 +107,7 @@ http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлечение" tvg-id="silkway", HGTV HD
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/hgtv-hd/video.m3u8
 
-#EXTINF:-1 group-title="Развлечение" tvg-id="tv-brics" tvg-logo="https://images.iptv.rt.ru/images/ch4do9bmhk079s3jqc4g.png", TV BRICS HD 
+#EXTINF:-1 group-title="Развлечение" tvg-id="tv-brics", TVBRICS 
 http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 
 #EXTINF:-1 group-title="Развлечение" tvg-id="2268", CGTN
@@ -158,7 +158,7 @@ http://tchaikovsky.af-stream.com:8080/s/za8acfq4/ntv-style-hd/video.m3u8
 #EXTINF:-1 group-title="Развлечение", Womens Magazine HD
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/womens-magazine-hd/video.m3u8
 
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Inter-Milan-PNG-HD-Quality.png", Inter TV
+#EXTINF:-1 group-title="Спорт" 	tvg-id="inter-it" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Inter-Milan-PNG-HD-Quality.png", InterTV
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
 
 #EXTINF:-1 group-title="Спорт" tvg-id="2044", Матч! Футбол 1
@@ -401,11 +401,6 @@ http://tchaikovsky.af-stream.com:8080/s/za8acfq4/legenda-hd/video.m3u8
 #EXTINF:-1 group-title="Кино", Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 
-
-
-
-#EXTINF:-1 group-title="The Killing 1 (movie)", Убийство [2011] Pilot 1s.1e
-file://MAKENZI/zona/The_Killing/S01/S01e01.mp4
 
 #EXTINF:-1 group-title="MOVIE",Джон Уик 2 [США/2017]
 http://dmi3y-tv6.ru/hls/film/DJONUIK2.m3u8
@@ -1202,6 +1197,7 @@ http://tchaikovsky.af-stream.com:8080/s/za8acfq4/cnbc-us-hd/video.m3u8
 
 #EXTINF:-1 group-title="Новости", NBC HD
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/nbc-us-hd/video.m3u8
+
 
 
 
