@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.one/epg2.xml.gz", url-tvg="https://iptvx.one/epg_noarch.xml.gz"
+#EXTM3U url-tvg="http://epg.one/epg2.xml.gz, https://iptvx.one/epg.xml.gz, http://tchaikovsky.af-stream.com:8080/epg.xml.gz"
 
 #EXTINF:-1 group-title="Эфир" tvg-id="146" tvg-logo="http://epg.one/img2/146.png", Первый канал
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/pervyj-hd/video.m3u8
@@ -1197,6 +1197,7 @@ http://tchaikovsky.af-stream.com:8080/s/za8acfq4/cnbc-us-hd/video.m3u8
 
 #EXTINF:-1 group-title="Новости", NBC HD
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/nbc-us-hd/video.m3u8
+
 
 
 
