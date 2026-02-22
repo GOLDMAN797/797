@@ -1,7 +1,8 @@
-#EXTM3U url-tvg="http://epg.one/epg2.xml.gz, https://iptvx.one/epg.xml.gz, http://tchaikovsky.af-stream.com:8080/epg.xml.gz"
+#EXTM3U url-tvg="http://epg.one/epg2.xml.gz, https://iptvx.one/epg/epg_lite.xml.gz"
 
-#EXTINF:-1 group-title="Эфир" tvg-id="146" tvg-logo="http://epg.one/img2/146.png", Первый канал
+#EXTINF:-1 group-title="Эфир" tvg-id="146" tvg-rec="7" catchup-days="7",Первый канал
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/pervyj-hd/video.m3u8
+
 #EXTINF:-1 group-title="Эфир" tvg-id="711", Россия
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 group-title="Эфир" tvg-id="2051", Матч!
@@ -10,8 +11,10 @@ http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/ntv-hd/video.m3u8
 #EXTINF:-1 group-title="Эфир" tvg-id="427", Пятый канал
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/5kanal/video.m3u8
-#EXTINF:-1 group-title="Эфир" tvg-id="187", Россия Культура
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+
+#EXTINF:-1 group-title="Эфир" tvg-id="187"  tvg-rec="7" catchup-days="7",Россия Культура
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/rossija-k-hd/video.m3u8
+
 #EXTINF:-1 group-title="Эфир" tvg-id="1683", Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:-1 group-title="Эфир" tvg-id="79", СТС
@@ -28,14 +31,20 @@ http://tchaikovsky.af-stream.com:8080/s/za8acfq4/tnt4-hd/video.m3u8
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/tvc-hd/video.m3u8
 #EXTINF:-1 group-title="Эфир" tvg-id="405", Звезда
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Эфир" tvg-id="726", Мир
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="Эфир" tvg-id="726" tvg-rec="7" catchup-days="7",Мир
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/mir-hd/video.m3u8
+#EXTINF:-1 group-title="Эфир"  tvg-id="mir-24-hd" tvg-rec="7" catchup-days="7",Мир 24
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/mir-24-hd/video.m3u8
 #EXTINF:-1 group-title="Эфир" tvg-id="vmeste-rf", Вместе-РФ
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 group-title="Эфир" tvg-id="1000", OTP
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/otr-hd/video.m3u8
 #EXTINF:-1 group-title="Эфир" tvg-id="698", ТВ3
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/tv3-hd/video.m3u8
+
+#EXTINF:0 group-title="Эфир" tvg-id="domashnij-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/7bc33d68f1a03e4c22e08dd077a58fd7.png" tvg-rec="7" catchup-days="7",Домашний HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/domashnij-hd/video.m3u8
+
 
 
 #EXTINF:-1 group-title="Развлечение" tvg-id="325", Discovery Channel
@@ -47,11 +56,12 @@ http://tchaikovsky.af-stream.com:8080/s/za8acfq4/history-hd/video.m3u8
 #EXTINF:-1 group-title="Развлечение" tvg-id="2356", H2
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/h2-hd/video.m3u8
 
-#EXTINF:-1 group-title="Развлечение" tvg-id="325", Discovery Channel
-http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
+#EXTINF:-1 group-title="Развлечение" tvg-id="animal-planet-hd" tvg-rec="7" catchup-days="7",Animal Planet HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/animal-planet-hd/video.m3u8
 
 #EXTINF:-1 group-title="Развлечение" tvg-id="723", Наука 2.0
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/nauka-hd/video.m3u8
+
 
 #EXTINF:-1 group-title="Развлечение" tvg-id="323", 2x2
 http://89.232.68.194:8080/2x2/tracks-v3a1/index.m3u8
@@ -80,7 +90,7 @@ http://fashion.mediacdn.ru/cdn/fashiontv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Fashion", World Fashion Channel
 http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 
-#EXTINF:-1 group-title="Fashion" tvg-id="2383", Fashion and LifeStyle
+#EXTINF:-1 group-title="Fashion" tvg-id="2383" tvg-logo="https://af-play.com/storage/images/pack_logos/77c2872b228d56d289edf8ebf42d36d5.png" tvg-rec="0" catchup-days="0",Fashion and LifeStyle HD
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/fashion-hd/video.m3u8
 
 #EXTINF:-1 group-title="Fashion" tvg-id="2242", World Fashion Channel En
@@ -92,23 +102,30 @@ https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/
 #EXTINF:-1 group-title="Fashion", Global Channel
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/playboy-tv/video.m3u8
 
-#EXTINF:-1 group-title="Развлечение" tvg-id="648", RTG HD
-http://tchaikovsky.af-stream.com:8080/s/za8acfq4/rtg/video.m3u8
+#EXTINF:-1 group-title="Развлечение" tvg-id="648" tvg-rec="7" catchup-days="7",RTG HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/rtg-hd/video.m3u8
 
-#EXTINF:-1 group-title="Развлечение" tvg-id="801", Mezzo Live HD
-http://tchaikovsky.af-stream.com:8080/s/za8acfq4/mezzo-hd/video.m3u8
+#EXTINF:-1 group-title="Развлечение" tvg-id="sankt-peterburg-hd" tvg-rec="7" catchup-days="7",Санкт-Петербург HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/sankt-peterburg-hd/video.m3u8
 
-#EXTINF:-1 group-title="Развлечение" tvg-id="2417", Большая Азия HD
-https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлечение" tvg-id="centralnoe-tv" tvg-rec="7" catchup-days="7",Центральное телевидение
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/centralnoe-tv/video.m3u8
 
-#EXTINF:-1 group-title="Развлечение" tvg-id="9015", Неизвестная Россия HD
-http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлечение" tvg-id="2417" tvg-rec="7" catchup-days="7",Большая Азия HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/big-asia-hd/video.m3u8
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="9015" tvg-rec="7" catchup-days="7",Неизвестная Россия HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/neizvestnaya-rossia-hd/video.m3u8
 
 #EXTINF:-1 group-title="Развлечение" tvg-id="silkway", HGTV HD
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/hgtv-hd/video.m3u8
 
-#EXTINF:-1 group-title="Развлечение" tvg-id="tv-brics", TVBRICS 
-http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
+#EXTINF:-1 group-title="Развлечение" tvg-id="tv-brics" tvg-logo="https://iptvx.one/picons/tv-brics.png" ,TV BRICS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="my-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/54dc1db91ca6fdbbbc9aee4758dace25.png" tvg-rec="7" catchup-days="7",Мы HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/my-hd/video.m3u8
 
 #EXTINF:-1 group-title="Развлечение" tvg-id="2268", CGTN
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
@@ -116,8 +133,26 @@ https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3
 #EXTINF:-1 tvg-id="prodvizhenie" group-title="Развлечение", Продвижение
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 
-#EXTINF:-1 group-title="Развлечение" tvg-id="2457", Точка РФ
+#EXTINF:-1 group-title="Развлечение" tvg-id="2457" tvg-rec="7" catchup-days="7",Точка РФ HD
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/hd-life/video.m3u8
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="t24" tvg-rec="7" catchup-days="7",Техно 24
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/t24/video.m3u8
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="nauka-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/nauka-hd.png" tvg-rec="7" catchup-days="7",Наука HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/nauka-hd/video.m3u8
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="nano-hd" tvg-rec="7" catchup-days="7",Nano HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/nano-hd/video.m3u8
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="galaxy-hd" tvg-rec="7" catchup-days="7",Galaxy HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/galaxy-hd/video.m3u8
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="eureka-hd" tvg-rec="7" catchup-days="7",Первый космический HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/eureka-hd/video.m3u8
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="da-vinci-learning" tvg-rec="7" catchup-days="7",Da Vinci
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/da-vinci-learning/video.m3u8
 
 #EXTINF:-1 group-title="Развлечение" tvg-id="2444", МУЖСКОЙ
 http://188.225.31.197/bpk-tv/000000286/tve/index.m3u8
@@ -128,7 +163,7 @@ http://tchaikovsky.af-stream.com:8080/s/za8acfq4/moya-planeta-hd/video.m3u8
 #EXTINF:-1 group-title="Развлечение" tvg-id="277", Viasat History HD
 http://188.225.31.197/bpk-tv/000005528/tve/index.m3u8
 
-#EXTINF:-1 group-title="Развлечение", viju Planet HD
+#EXTINF:-1 group-title="Развлечение" tvg-id="viasat-history-hd-test" tvg-rec="7" catchup-days="7",Viju+ planet HD
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/viasat-history-hd-test/video.m3u8
 
 #EXTINF:-1 group-title="Развлечение" tvg-id="521", viju Explore HD
@@ -136,6 +171,21 @@ http://tchaikovsky.af-stream.com:8080/s/za8acfq4/viasat-explore-hd/video.m3u8
 
 #EXTINF:-1 group-title="Развлечение", Curiosity Stream
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/curiosity-stream-hd/video.m3u8
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="travel-channel-hd" tvg-rec="7" catchup-days="7",Travel Channel HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/travel-channel-hd/video.m3u8
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="travel-adventure-hd" tvg-rec="7" catchup-days="7",Travel+Adventure HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/travel-adventure-hd/video.m3u8
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="teletravel-hd" tvg-rec="7" catchup-days="7",Приключения HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/teletravel-hd/video.m3u8
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="the-explorers-hd" tvg-rec="7" catchup-days="7",The Explorers HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/the-explorers-hd/video.m3u8
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="glazami-turista-hd" tvg-rec="7" catchup-days="7",Глазами Туриста HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/glazami-turista-hd/video.m3u8
 
 #EXTINF:-1 group-title="Развлечение" tvg-id="102", National Geographic
 http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
@@ -155,8 +205,23 @@ http://tchaikovsky.af-stream.com:8080/s/za8acfq4/eda/video.m3u8
 #EXTINF:-1 group-title="Развлечение" tvg-id="ntv-style", НТВ Стиль
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/ntv-style-hd/video.m3u8
 
+#EXTINF:-1 group-title="Развлечение" tvg-id="arsenal-hd" tvg-rec="7" catchup-days="7",Арсенал HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/arsenal-hd/video.m3u8
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="oruzhie" tvg-rec="7" catchup-days="7",Оружие
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/oruzhie/video.m3u8
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="365-dnej" tvg-rec="7" catchup-days="7",365 Дней
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/365-dnej/video.m3u8
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="voprosy-otvety" tvg-rec="7" catchup-days="7",Вопросы и ответы
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/voprosy-otvety/video.m3u8
+
 #EXTINF:-1 group-title="Развлечение", Womens Magazine HD
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/womens-magazine-hd/video.m3u8
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="zhivi-hd" tvg-rec="7" catchup-days="7",Живи HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/zhivi-hd/video.m3u8
 
 #EXTINF:-1 group-title="Спорт" 	tvg-id="inter-it" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Inter-Milan-PNG-HD-Quality.png", InterTV
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
@@ -200,9 +265,18 @@ https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=Mj
 #EXTINF:-1 group-title="Спорт", TENNIS CHANNEL
 https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="kultura" group-title="архив", Россия Культура (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+
+#EXTINF:-1 group-title="Музыка" tvg-id="mezzo-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/mezzo-hd.png" tvg-rec="0" catchup-days="0",Mezzo Live HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/mezzo-hd/video.m3u8
+
+#EXTINF:-1 group-title="Музыка" tvg-id="jazz-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/10ed5242ec8ab66b19bf4518169b41b6.png" tvg-rec="0" catchup-days="0",Jazz HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/jazz-hd/video.m3u8
+
+#EXTINF:-1 group-title="Музыка" tvg-id="one-by-russia-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/df7d252bf9b14d3b7b07e88b28ddbf2a.png" tvg-rec="0" catchup-days="0",One by Russia HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/one-by-russia-hd/video.m3u8
+
+#EXTINF:-1 group-title="Музыка" tvg-id="mtv-live-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/eb31b39863b7585d65773e9b16538ac5.png" tvg-rec="0" catchup-days="0",MTV HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/mtv-live-hd/video.m3u8
 
 
 #EXTINF:-1 group-title="Кино" tvg-id="1013", viju+ Premiere
@@ -231,16 +305,16 @@ http://tchaikovsky.af-stream.com:8080/s/za8acfq4/tv1000-russkoje-hd/video.m3u8
 #EXTINF:-1 group-title="Кино",BCU Kinorating
 http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
 
-#EXTINF:-1 group-title="Кино",BCU Stars
-http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="trash-hd" tvg-rec="7" catchup-days="7",Trash HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/trash-hd/video.m3u8
 
-#EXTINF:-1 group-title="Кино" tvg-id="2754", Cinema
+#EXTINF:-1 group-title="Кино" tvg-id="2754"  tvg-rec="7" catchup-days="7",Cinema
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/cinema-hd/video.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-id="934", Hollywood
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/mgm-hd/video.m3u8
 
-#EXTINF:-1 group-title="Кино" tvg-id="352", Еврокино
+#EXTINF:-1 group-title="Кино" tvg-id="352"  tvg-rec="7" catchup-days="7",Еврокино
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/evrokino-hd/video.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-id="3357", Мосфильм. Золотая коллекция
@@ -391,6 +465,9 @@ http://tchaikovsky.af-stream.com:8080/s/za8acfq4/start-world-hd/video.m3u8
 
 #EXTINF:-1 group-title="Кино", Комедия
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/russkaja-comedija/video.m3u8
+
+#EXTINF:-1 group-title="Кино" tvg-id="vremya" tvg-logo="https://af-play.com/storage/images/pack_logos/923ce8cc696cfeaf31d4c4fc284526dd.png" tvg-rec="7" catchup-days="7",Время
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/vremya/video.m3u8
 
 #EXTINF:-1 group-title="Кино",  TvBoom-ViP
 https://kb.catcast.tv/content/49702/index.m3u8
@@ -1197,6 +1274,7 @@ http://tchaikovsky.af-stream.com:8080/s/za8acfq4/cnbc-us-hd/video.m3u8
 
 #EXTINF:-1 group-title="Новости", NBC HD
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/nbc-us-hd/video.m3u8
+
 
 
 
