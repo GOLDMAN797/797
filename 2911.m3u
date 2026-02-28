@@ -270,12 +270,6 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="mezzo-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/mezzo-hd.png" tvg-rec="0" catchup-days="0",Mezzo Live HD
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/mezzo-hd/video.m3u8
 
-#EXTINF:-1 group-title="Музыка" tvg-id="jazz-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/10ed5242ec8ab66b19bf4518169b41b6.png" tvg-rec="0" catchup-days="0",Jazz HD
-http://tchaikovsky.af-stream.com:8080/s/za8acfq4/jazz-hd/video.m3u8
-
-#EXTINF:-1 group-title="Музыка" tvg-id="one-by-russia-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/df7d252bf9b14d3b7b07e88b28ddbf2a.png" tvg-rec="0" catchup-days="0",One by Russia HD
-http://tchaikovsky.af-stream.com:8080/s/za8acfq4/one-by-russia-hd/video.m3u8
-
 #EXTINF:-1 group-title="Музыка" tvg-id="mtv-live-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/eb31b39863b7585d65773e9b16538ac5.png" tvg-rec="0" catchup-days="0",MTV HD
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/mtv-live-hd/video.m3u8
 
@@ -1275,6 +1269,7 @@ http://tchaikovsky.af-stream.com:8080/s/za8acfq4/cnbc-us-hd/video.m3u8
 
 #EXTINF:-1 group-title="Новости", NBC HD
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/nbc-us-hd/video.m3u8
+
 
 
 
