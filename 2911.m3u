@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz, http://epg.one/epg2.xml.gz"
+#EXTM3U url-tvg="http://epg.one/epg2.xml.gz, https://iptvx.one/epg/epg_lite.xml.gz"
 
 #EXTINF:-1 group-title="Эфир" tvg-id="146" tvg-rec="7" catchup-days="7",Первый канал
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/pervyj-hd/video.m3u8
@@ -42,7 +42,7 @@ http://tchaikovsky.af-stream.com:8080/s/za8acfq4/otr-hd/video.m3u8
 #EXTINF:-1 group-title="Эфир" tvg-id="698", ТВ3
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/tv3-hd/video.m3u8
 
-#EXTINF:0 group-title="Эфир" tvg-id="domashnij-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/7bc33d68f1a03e4c22e08dd077a58fd7.png" tvg-rec="7" catchup-days="7",Домашний HD
+#EXTINF:0 group-title="Эфир" tvg-id="domashnij-hd" tvg-rec="7" catchup-days="7",Домашний HD
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/domashnij-hd/video.m3u8
 
 
@@ -58,10 +58,6 @@ http://tchaikovsky.af-stream.com:8080/s/za8acfq4/h2-hd/video.m3u8
 
 #EXTINF:-1 group-title="Развлечение" tvg-id="animal-planet-hd" tvg-rec="7" catchup-days="7",Animal Planet HD
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/animal-planet-hd/video.m3u8
-
-#EXTINF:-1 group-title="Развлечение" tvg-id="723", Наука 2.0
-http://tchaikovsky.af-stream.com:8080/s/za8acfq4/nauka-hd/video.m3u8
-
 
 #EXTINF:-1 group-title="Развлечение" tvg-id="323", 2x2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -118,14 +114,14 @@ http://tchaikovsky.af-stream.com:8080/s/za8acfq4/big-asia-hd/video.m3u8
 #EXTINF:-1 group-title="Развлечение" tvg-id="9015" tvg-rec="7" catchup-days="7",Неизвестная Россия HD
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/neizvestnaya-rossia-hd/video.m3u8
 
-#EXTINF:-1 group-title="Развлечение" tvg-id="silkway", HGTV HD
+#EXTINF:-1 group-title="Развлечение", HGTV HD
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/hgtv-hd/video.m3u8
 
 #EXTINF:-1 group-title="Развлечение" tvg-id="tv-brics" tvg-logo="https://iptvx.one/picons/tv-brics.png" ,TV BRICS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Развлечение" tvg-id="my-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/54dc1db91ca6fdbbbc9aee4758dace25.png" tvg-rec="7" catchup-days="7",Мы HD
+#EXTINF:-1 group-title="Развлечение" tvg-id="my-hd" tvg-rec="7" catchup-days="7",Мы HD
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/my-hd/video.m3u8
 
 #EXTINF:-1 group-title="Развлечение" tvg-id="2268", CGTN
@@ -134,13 +130,13 @@ https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3
 #EXTINF:-1 tvg-id="prodvizhenie" group-title="Развлечение", Продвижение
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 
-#EXTINF:-1 group-title="Развлечение" tvg-id="2457" tvg-rec="7" catchup-days="7",Точка РФ HD
+#EXTINF:-1 group-title="Развлечение" tvg-rec="7" catchup-days="7",Точка РФ HD
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/hd-life/video.m3u8
 
 #EXTINF:-1 group-title="Развлечение" tvg-id="t24" tvg-rec="7" catchup-days="7",Техно 24
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/t24/video.m3u8
 
-#EXTINF:-1 group-title="Развлечение" tvg-id="nauka-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/nauka-hd.png" tvg-rec="7" catchup-days="7",Наука HD
+#EXTINF:-1 group-title="Развлечение" tvg-id="nauka-hd" tvg-rec="7" catchup-days="7",Наука HD
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/nauka-hd/video.m3u8
 
 #EXTINF:-1 group-title="Развлечение" tvg-id="nano-hd" tvg-rec="7" catchup-days="7",Nano HD
@@ -165,7 +161,7 @@ http://tchaikovsky.af-stream.com:8080/s/za8acfq4/moya-planeta-hd/video.m3u8
 http://188.225.31.197/bpk-tv/000005528/tve/index.m3u8
 
 #EXTINF:-1 group-title="Развлечение" tvg-id="viasat-history-hd-test" tvg-rec="7" catchup-days="7",Viju+ planet HD
-http://tchaikovsky.af-stream.com:8080/s/za8acfq4/viasat-history-hd-test/video.m3u8
+
 
 #EXTINF:-1 group-title="Развлечение" tvg-id="521", viju Explore HD
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/viasat-explore-hd/video.m3u8
@@ -267,10 +263,10 @@ https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=Mj
 https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
 
 
-#EXTINF:-1 group-title="Музыка" tvg-id="mezzo-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/mezzo-hd.png" tvg-rec="0" catchup-days="0",Mezzo Live HD
+#EXTINF:-1 group-title="Музыка" tvg-id="mezzo-hd" tvg-rec="0" catchup-days="0",Mezzo Live HD
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/mezzo-hd/video.m3u8
 
-#EXTINF:-1 group-title="Музыка" tvg-id="mtv-live-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/eb31b39863b7585d65773e9b16538ac5.png" tvg-rec="0" catchup-days="0",MTV HD
+#EXTINF:-1 group-title="Музыка" tvg-id="mtv-live-hd" tvg-rec="0" catchup-days="0",MTV HD
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/mtv-live-hd/video.m3u8
 
 
@@ -294,11 +290,6 @@ http://tchaikovsky.af-stream.com:8080/s/za8acfq4/tv1000-action-hd/video.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-id="267", TV1000 Русское кино
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/tv1000-russkoje-hd/video.m3u8
-
-
-
-#EXTINF:-1 group-title="Кино",BCU Kinorating
-http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-id="trash-hd" tvg-rec="7" catchup-days="7",Trash HD
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/trash-hd/video.m3u8
@@ -1269,6 +1260,7 @@ http://tchaikovsky.af-stream.com:8080/s/za8acfq4/cnbc-us-hd/video.m3u8
 
 #EXTINF:-1 group-title="Новости", NBC HD
 http://tchaikovsky.af-stream.com:8080/s/za8acfq4/nbc-us-hd/video.m3u8
+
 
 
 
