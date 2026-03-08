@@ -1,0 +1,1367 @@
+#EXTM3U url-tvg="http://epg.one/epg2.xml.gz, https://iptvx.one/epg/epg_lite.xml.gz"
+
+#EXTINF:-1 group-title="Эфир" tvg-id="146" tvg-rec="7" catchup-days="7",Первый канал
+
+
+#EXTINF:-1 group-title="Эфир" tvg-id="711", Россия
+http://dmi3y-tv6.ru/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
+
+#EXTINF:-1 group-title="Эфир" tvg-id="2051", Матч!
+http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+
+#EXTINF:-1 group-title="Эфир" tvg-id="162", НТВ
+http://dmi3y-tv6.ru/hls/T2/CH_NTVHD.m3u8
+
+#EXTINF:-1 group-title="Эфир" tvg-id="427", Пятый канал
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+
+#EXTINF:-1 group-title="Эфир" tvg-id="187",Россия Культура
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+
+#EXTINF:-1 group-title="Эфир" tvg-id="1683", Россия 24
+http://dmi3y-tv6.ru/hls/smotrim/T2/CH_RUSSIA24HD.m3u8
+
+#EXTINF:-1 group-title="Эфир" tvg-id="79", СТС
+http://31.131.141.195:8000/play/2030/index.m3u8
+
+#EXTINF:-1 group-title="Эфир" tvg-id="18", РенТВ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+
+#EXTINF:-1 group-title="Эфир" tvg-id="1003", Пятница
+https://vod.tuva.ru/friday/index.m3u8
+
+#EXTINF:-1 group-title="Эфир" tvg-id="353", ТНТ HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/tnt-hd/video.m3u8
+
+#EXTINF:-1 group-title="Эфир" tvg-id="tnt4", ТНТ4
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+
+#EXTINF:-1 group-title="Эфир" tvg-id="649", ТВЦ
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Эфир" tvg-id="405", Звезда
+http://dmi3y-tv6.ru/hls/T2/CH_ZVEZDAHD.m3u8
+
+#EXTINF:-1 group-title="Эфир" tvg-id="726",Мир
+http://dmi3y-tv6.ru/hls/T2/CH_MIRHD.m3u8
+
+#EXTINF:-1 group-title="Эфир" tvg-id="vmeste-rf", Вместе-РФ
+http://dmi3y-tv6.ru/hls/CH_VMESTERFHD.m3u8
+
+#EXTINF:-1 group-title="Эфир" tvg-id="1000", OTP
+https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_OTR_KLNG_FILIAL/variant.m3u8
+
+#EXTINF:-1 group-title="Эфир" tvg-id="698", ТВ3
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+
+#EXTINF:0 group-title="Эфир" tvg-id="domashnij-hd",Домашний HD
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+
+
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="325", Discovery Channel
+
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="1394", History
+
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="2356", H2
+
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="animal-planet-hd" tvg-rec="7" catchup-days="7",Animal Planet HD
+
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="323",2x2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+
+#EXTINF:-1 group-title="Новости" tvg-id="334",Москва 24
+http://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe.m3u8
+
+#EXTINF:-1 group-title="Новости" tvg-id="doverie",Москва Доверие
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
+
+#EXTINF:-1 group-title="Новости" tvg-id="2265", 360°
+http://dmi3y-tv6.ru/hls/CH_360TVHD.m3u8
+
+#EXTINF:-1 group-title="Эфир"  tvg-id="mir-24-hd",Мир 24
+http://dmi3y-tv6.ru/hls/CH_MIR24HD.m3u8
+
+#EXTINF:-1 group-title="Новости" tvg-id="2271", Известия HD
+http://dmi3y-tv6.ru/hls/CH_I3BECTIYAHD.m3u8
+
+#EXTINF:-1 group-title="Новости", ТАСС
+https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Новости" tvg-id="743", РБК
+http://dmi3y-tv6.ru/hls/CH_RBKHD.m3u8
+
+#EXTINF:-1 group-title="Новости",РЖД ТВ
+http://dmi3y-tv6.ru/hls/CH_RZHDTVHD.m3u8
+
+#EXTINF:-1 tvg-id="russky-ekstrim" group-title="Развлечение" ,Russian Extreme
+http://195.26.83.96:7029/play/a008
+
+#EXTINF:-1 group-title="Развлечение", Red Bull TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
+
+#EXTINF:-1 group-title="Fashion" tvg-id="2491", Fashion TV HD
+http://fashion.mediacdn.ru/cdn/fashiontv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Fashion", World Fashion Channel
+http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
+
+#EXTINF:-1 group-title="Fashion" tvg-id="2383",Fashion and LifeStyle HD
+
+
+#EXTINF:-1 group-title="Fashion" tvg-id="2242", World Fashion Channel En
+http://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
+
+#EXTINF:-1 group-title="Fashion", Global Fashion Channel
+https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/cdbe280e-0aea-4bbe-861f-fd115abcfec7_1080p.m3u8
+
+#EXTINF:-1 group-title="Fashion", Global Channel
+
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="648" tvg-rec="7" catchup-days="7",RTG HD
+
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="sankt-peterburg-hd" tvg-rec="7" catchup-days="7",Санкт-Петербург HD
+
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="centralnoe-tv" tvg-rec="7" catchup-days="7",Центральное телевидение
+
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="2417" tvg-rec="7" catchup-days="7",Большая Азия HD
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="9015",Неизвестная Россия
+http://dmi3y-tv6.ru/hls/CH_UNKNOWN_RUSSIAHD.m3u8
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="silkway" ,Silk Way
+https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8
+
+#EXTINF:-1 group-title="Развлечение", HGTV HD
+
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="tv-brics" tvg-logo="https://iptvx.one/picons/tv-brics.png" ,TV BRICS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="my-hd" tvg-rec="7" catchup-days="7",Мы HD
+
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="2268", CGTN
+https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
+
+#EXTINF:-1 tvg-id="prodvizhenie" group-title="Развлечение", Продвижение
+http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
+
+#EXTINF:-1 group-title="Развлечение",8 канал
+http://dmi3y-tv6.ru/hls/CH_8CHANNELHD.m3u8
+
+#EXTINF:-1 group-title="Развлечение" tvg-rec="7" catchup-days="7",Точка РФ HD
+
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="t24",Техно 24
+http://158.101.222.193:88/georgia_play.php?id=24techno
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="nauka-hd",Наука HD
+http://dmi3y-tv6.ru/hls/CH_NAUKA20.m3u8
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="nano-hd" tvg-rec="7" catchup-days="7",Nano HD
+http://s1.tv-nano.com/Nano_rec/index.m3u8
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="galaxy-hd" tvg-rec="7" catchup-days="7",Galaxy HD
+
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="eureka-hd" tvg-rec="7" catchup-days="7",Первый космический HD
+
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="da-vinci-learning" tvg-rec="7" catchup-days="7",Da Vinci
+
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="2444", МУЖСКОЙ
+http://188.225.31.197/bpk-tv/000000286/tve/index.m3u8
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="675", Моя планета
+http://dmi3y-tv6.ru/hls/CH_MOYA_PLANETA.m3u8
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="277", Viasat History HD
+http://188.225.31.197/bpk-tv/000005528/tve/index.m3u8
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="viasat-history-hd-test" tvg-rec="7" catchup-days="7",Viju+ planet HD
+
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="521", viju Explore HD
+
+
+#EXTINF:-1 group-title="Развлечение", Curiosity Stream
+
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="travel-channel-hd" tvg-rec="7" catchup-days="7",Travel Channel HD
+
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="travel-adventure-hd" tvg-rec="7" catchup-days="7",Travel+Adventure HD
+
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="teletravel-hd" tvg-rec="7" catchup-days="7",Приключения HD
+
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="the-explorers-hd" tvg-rec="7" catchup-days="7",The Explorers HD
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/manifest.m3u8
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="glazami-turista-hd",Глазами Туриста
+https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="102", National Geographic
+http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="223", Nat Geo Wild
+http://188.225.31.197/bpk-tv/000004474/tve/index.m3u8
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="2741", Food Time
+http://31148.rafail1982.uz/Eda_Premium_HD/index.m3u8
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="614", КУХНЯ-ТВ
+
+
+#EXTINF:-1 group-title="Развлечение", Еда
+
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="ntv-style", НТВ Стиль
+http://dmi3y-tv6.ru/hls/CH_NTVSTIL.m3u8
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="arsenal-hd" tvg-rec="7" catchup-days="7",Арсенал HD
+
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="oruzhie" tvg-rec="7" catchup-days="7",Оружие
+
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="365-dnej" tvg-rec="7" catchup-days="7",365 Дней
+
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="tolk",Толк
+https://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="voprosy-otvety",Вопросы и ответы
+https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Развлечение", Womens Magazine HD
+
+
+#EXTINF:-1 group-title="Развлечение" tvg-id="zhivi-hd" tvg-rec="7" catchup-days="7",Живи HD
+
+
+#EXTINF:-1 group-title="Спорт" 	tvg-id="inter-it" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Inter-Milan-PNG-HD-Quality.png", InterTV
+https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
+
+#EXTINF:-1 group-title="Спорт" tvg-id="2044", Матч! Футбол 1
+http://cdntv.online/low/9mlxywika2/55.m3u8
+
+#EXTINF:-1 group-title="Спорт" tvg-id="1042", Матч! Футбол 2
+http://188.191.160.238:7780/udp/239.195.3.17:1234
+
+#EXTINF:-1 group-title="Спорт" tvg-id="2005", Матч! Футбол 3
+http://185.57.68.33/110/mpegts
+
+#EXTINF:-1 group-title="Спорт" tvg-id="7517", Setanta Sports 1 HD
+http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Спорт" tvg-id="2363", Setanta Sports 2 HD
+http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Спорт" tvg-id="2052", Eurosport 1 HD
+http://87.76.32.36:8001/eurosport1hd
+
+#EXTINF:-1 group-title="Спорт", Eurosport 2 HD
+https://flussonic.salomtv.uz/eurosport_2/video.m3u8
+
+#EXTINF:-1 group-title="Спорт" tvg-id="4656", Sky Sports F1
+https://bl.rutube.ru/livestream/e5df6984021365a58b3ba22dab2f670a/index.m3u8?s=q6A8YumKVXTF4z7kUCastQ&e=2065612807&scheme=https
+
+#EXTINF:-1 group-title="Спорт", Sky Sports Football
+https://7pal.short.gy/ssportsfb
+
+#EXTINF:-1 group-title="Спорт", Sky Sports Premier League
+https://7pal.short.gy/ssportspl
+
+#EXTINF:-1 group-title="Спорт" tvg-id="9400", Sky Sports Tennis
+https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=ifOXNnoFfmLuPfl0_55zrQ&e=2065612806&scheme=https
+
+#EXTINF:-1 group-title="Спорт", Sky Sports Main Event
+https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=MjUFKPM6Lq4m2-b9EgXQoA&e=2066649298&scheme=https
+
+#EXTINF:-1 group-title="Спорт", TENNIS CHANNEL
+https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
+
+
+#EXTINF:-1 group-title="Музыка" tvg-id="mezzo-hd" tvg-rec="0" catchup-days="0",Mezzo Live HD
+
+
+#EXTINF:-1 group-title="Музыка" tvg-id="mtv-live-hd" tvg-rec="0" catchup-days="0",MTV HD
+
+
+#EXTINF:-1 tvg-id="tnt-music" group-title="Музыка" ,FON music
+http://dmi3y-tv6.ru/hls/CH_TNTMUSICHD.m3u8
+
+#EXTINF:-1 group-title="Кино",СМОТРИМ Кино и сериалы
+http://dmi3y-tv6.ru/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
+
+#EXTINF:-1 group-title="Кино" tvg-id="1013", viju+ Premiere
+
+
+#EXTINF:-1 group-title="Кино" tvg-id="1012", viju+ Megahit
+
+
+#EXTINF:-1 group-title="Кино" tvg-id="1011", viju+ Comedy
+
+
+#EXTINF:-1 group-title="Кино", viju+ Serial
+
+
+#EXTINF:-1 group-title="Кино" tvg-id="127", TV1000
+
+
+#EXTINF:-1 group-title="Кино" tvg-id="125", TV1000 action
+
+
+#EXTINF:-1 group-title="Кино" tvg-id="267", TV1000 Русское кино
+
+
+#EXTINF:-1 group-title="Кино" tvg-id="trash-hd" tvg-rec="7" catchup-days="7",Trash HD
+
+
+#EXTINF:-1 group-title="Кино" tvg-id="2754" ,Cinema
+http://catchup.videoline.ru/cinema/playlist.m3u8
+
+#EXTINF:-1 group-title="Кино" tvg-id="934", Hollywood
+https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Кино" tvg-id="352",Еврокино
+http://dmi3y-tv6.ru/hls/CH_EVROKINO.m3u8
+
+#EXTINF:-1 group-title="Кино" tvg-id="3357", Мосфильм. Золотая коллекция
+
+
+#EXTINF:-1 group-title="Кино" tvg-id="834", Дом кино
+https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Кино" tvg-id="2020", Дом Кино Премиум
+
+
+#EXTINF:-1 group-title="Кино", Мужское кино
+
+
+#EXTINF:-1 group-title="Кино" tvg-id="485", Наше новое кино
+
+
+#EXTINF:-1 group-title="Кино" tvg-id="644", Киномикс
+
+
+#EXTINF:-1 group-title="Кино" tvg-id="799", Киносерия
+
+
+#EXTINF:-1 group-title="Кино" tvg-id="462", Киносвидание
+
+
+#EXTINF:-1 group-title="Кино" tvg-id="987", Киносемья
+
+
+#EXTINF:-1 group-title="Кино" tvg-id="821", Кинокомедия
+
+
+#EXTINF:-1 group-title="Кино" tvg-id="542", Кинохит HD
+
+
+#EXTINF:-1 group-title="Кино" tvg-id="566", Кинопремьера HD
+
+
+#EXTINF:-1 group-title="Кино" tvg-id="12", Родное кино
+
+
+#EXTINF:-1 group-title="Кино" tvg-id="2834", Кинопоказ
+
+
+
+
+
+
+#EXTINF:-1 group-title="Кино" tvg-id="2403", Иллюзион+
+
+
+#EXTINF:-1 group-title="Кино", Кино 1 Int.
+http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
+
+#EXTINF:-1 group-title="Кино" tvg-id="1037", Кино ТВ
+http://dmi3y-tv6.ru/hls/CH_KINOTV.m3u8
+
+#EXTINF:-1 group-title="Кино", Viasat Kino Action HD
+
+
+#EXTINF:-1 group-title="Кино", Viasat Kino Comedy HD
+
+
+#EXTINF:-1 group-title="Кино", Viasat Kino World HD
+
+
+#EXTINF:-1 group-title="Кино", Комедийное HD
+
+
+#EXTINF:-1 group-title="Кино", Премиальное HD
+
+
+#EXTINF:-1 group-title="Кино", Остросюжетное HD
+
+
+#EXTINF:-1 group-title="Кино", Блокбастер HD
+
+
+#EXTINF:-1 group-title="Кино", Любимое кино
+
+
+#EXTINF:-1 group-title="Кино", Советская Киноклассика HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/sovetskaya-kinoclassica-hd/video.m3u8
+
+#EXTINF:-1 group-title="Кино" tvg-id="2007", Amedia Hit
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/amedia-hit-hd/video.m3u8
+
+#EXTINF:-1 group-title="Кино" tvg-id="1372", Amedia Premium
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/amedia-premium-hd/video.m3u8
+
+#EXTINF:-1 group-title="Кино" tvg-id="1371", Amedia 1
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/amedia1-hd/video.m3u8
+
+#EXTINF:-1 group-title="Кино" tvg-id="2492", Amedia 2
+
+
+#EXTINF:-1 group-title="Кино", .black
+http://176.118.197.125/Black/index.m3u8
+
+#EXTINF:-1 group-title="Кино", .sci-fi
+http://86.57.209.210/Sci-Fi/index.m3u8
+
+#EXTINF:-1 group-title="Кино", .red
+http://188.225.31.197/bpk-tv/000000213/tve/index.m3u8
+
+#EXTINF:-1 group-title="Кино", Suspense HD
+
+
+
+
+#EXTINF:-1 group-title="Кино" tvg-id="4466", KINOJAM 1
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/kinojam1-hd/video.m3u8
+
+#EXTINF:-1 group-title="Кино" tvg-id="4467", KINOJAM 2
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/kinojam2-hd/video.m3u8
+
+#EXTINF:-1 group-title="Кино" tvg-id="7902", Family Jam HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/family-jam-hd/video.m3u8
+
+#EXTINF:-1 group-title="Кино", Detective Jam HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/detective-jam-hd/video.m3u8
+
+
+
+#EXTINF:-1 group-title="Кино", VHS-ка
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/vhska-hd/video.m3u8
+
+#EXTINF:-1 group-title="Кино" tvg-id="11345", VHS-ка сериал
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/vhs-serial-hd/video.m3u8
+
+#EXTINF:-1 group-title="Кино" tvg-id="309", TV XXI
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/tv-xxi/video.m3u8
+
+#EXTINF:-1 group-title="Кино", FX Life
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/fox-life-hd/video.m3u8
+
+#EXTINF:-1 group-title="Кино", Kino24
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+
+#EXTINF:-1 group-title="Кино" tvg-id="6643", Plan_B HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/plan-b-hd/video.m3u8
+
+#EXTINF:-1 group-title="Кино", Start Air HD
+http://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
+
+#EXTINF:-1 group-title="Кино", Start World HD
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/start-world-hd/video.m3u8
+
+#EXTINF:-1 group-title="Кино", Комедия
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/russkaja-comedija/video.m3u8
+
+#EXTINF:-1 group-title="Кино" tvg-id="vremya" tvg-logo="https://af-play.com/storage/images/pack_logos/923ce8cc696cfeaf31d4c4fc284526dd.png" tvg-rec="7" catchup-days="7",Время
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/vremya/video.m3u8
+
+#EXTINF:-1 group-title="Кино",  TvBoom-ViP
+https://kb.catcast.tv/content/49702/index.m3u8
+
+#EXTINF:-1 group-title="Кино", Легенда
+http://tchaikovsky.af-stream.com:8080/s/za8acfq4/legenda-hd/video.m3u8
+
+#EXTINF:-1 group-title="Кино", Чип и Дейл
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+
+#EXTINF:-1 tvg-id="cityedem-kinoact"  group-title="Кино" ,Сити Эдем - КиноЭкшен
+https://cityeden.catcast.tv/content/41333/index.m3u8
+
+#EXTINF:-1 tvg-id="cityedem-kinoazia" group-title="Кино" ,Сити Эдем - КиноАзия
+https://cityeden.catcast.tv/content/34393/index.m3u8
+
+#EXTINF:-1 tvg-id="cityedem-kinoklas" group-title="Кино" ,Сити Эдем - КиноКлассика
+https://cityeden.catcast.tv/content/34185/index.m3u8
+
+#EXTINF:-1 tvg-id="cityedem-kinomist" group-title="Кино" ,Сити Эдем - КиноМистика
+https://cityeden.catcast.tv/content/40783/index.m3u8
+
+
+#EXTINF:-1 group-title="MOVIE",Джон Уик 2 [США/2017]
+http://dmi3y-tv6.ru/hls/film/DJONUIK2.m3u8
+#EXTINF:-1 group-title="MOVIE",Джон Уик 3 [США/2019]
+http://dmi3y-tv6.ru/hls/film/DJONUIK3.m3u8
+#EXTINF:-1 group-title="MOVIE",Другой мир [США/2003]
+http://dmi3y-tv6.ru/hls/film/DRUGOYMIR.m3u8
+#EXTINF:-1 group-title="MOVIE",Другой мир 2: Эволюция [США/2006]
+http://dmi3y-tv6.ru/hls/film/DRUGOYMIR2.m3u8
+#EXTINF:-1 group-title="MOVIE",Другой мир. Восстание ликанов [США/2008]
+http://dmi3y-tv6.ru/hls/film/DRUGOYMIR_VOSSTANIE_LIKANOV.m3u8
+#EXTINF:-1 group-title="MOVIE",Другой мир. Войны крови [США/2016]
+http://dmi3y-tv6.ru/hls/film/DRUGOYMIR_VOINY_KROVI.m3u8
+#EXTINF:-1 group-title="MOVIE",Прогулка среди могил [США/2014]
+http://dmi3y-tv6.ru/hls/film/PSM.m3u8
+#EXTINF:-1 group-title="MOVIE",Книга Илая [США/2010]
+http://dmi3y-tv6.ru/hls/film/KNIGAILAYA.m3u8
+#EXTINF:-1 group-title="MOVIE",Остров проклятых [США/2009]
+http://dmi3y-tv6.ru/hls/film/OP.m3u8
+#EXTINF:-1 group-title="MOVIE",Медальон [США/2012]
+http://dmi3y-tv6.ru/hls/film/MEDALON.m3u8
+#EXTINF:-1 group-title="MOVIE",Иностранец [США/2017]
+http://dmi3y-tv6.ru/hls/film/INOSTRANETZ.m3u8
+#EXTINF:-1 group-title="MOVIE",Репродукция [США/2018]
+http://dmi3y-tv6.ru/hls/film/REPRODUKCIYA.m3u8
+#EXTINF:-1 group-title="MOVIE",Ловушка времени [США/2017]
+http://dmi3y-tv6.ru/hls/film/LOVUSHKA_VREMENI.m3u8
+#EXTINF:-1 group-title="MOVIE",Морской бой [США/2012]
+http://dmi3y-tv6.ru/hls/film/MORSKOY_BOY.m3u8
+#EXTINF:-1 group-title="MOVIE",После нашей эры [США/2013]
+http://dmi3y-tv6.ru/hls/film/POSLE_NASHEY_ERY.m3u8
+#EXTINF:-1 group-title="MOVIE",Разлом времени [США/2017]
+http://dmi3y-tv6.ru/hls/film/RAZLOM_VREMENI.m3u8
+#EXTINF:-1 group-title="MOVIE",Соник в кино [США/2020]
+http://dmi3y-tv6.ru/hls/film/SONIC_V_KINO.m3u8
+#EXTINF:-1 group-title="MOVIE",Сквозь снег [США/2013]
+http://dmi3y-tv6.ru/hls/film/SKVOZ_SNEG.m3u8
+#EXTINF:-1 group-title="MOVIE",Ван Хельсинг [США/2004]
+http://dmi3y-tv6.ru/hls/film/VAN_HELSING.m3u8
+#EXTINF:-1 group-title="MOVIE",Черная дыра [США/2000]
+http://dmi3y-tv6.ru/hls/film/CHERNAYA_DYRA.m3u8
+#EXTINF:-1 group-title="MOVIE",Хроники Риддика [США/2004]
+http://dmi3y-tv6.ru/hls/film/HRONIKI_RIDDIKA.m3u8
+#EXTINF:-1 group-title="MOVIE",Дивергент [США/2014]
+http://dmi3y-tv6.ru/hls/film/DIVERGENT.m3u8
+#EXTINF:-1 group-title="MOVIE",Дивергент. глава 2: Инсургент [США/2015]
+http://dmi3y-tv6.ru/hls/film/DIVERGENT2_INSURGENT.m3u8
+#EXTINF:-1 group-title="MOVIE",Дивергент. глава 3: За стеной [США/2016]
+http://dmi3y-tv6.ru/hls/film/DIVERGENT3_ZA_STENOY.m3u8
+#EXTINF:-1 group-title="MOVIE",Морские паразиты [США/2019]
+http://dmi3y-tv6.ru/hls/film/MORSKIE_PARAZITY.m3u8
+#EXTINF:-1 group-title="MOVIE",47 ронинов [США/2013]
+http://dmi3y-tv6.ru/hls/film/47RONINOV.m3u8
+#EXTINF:-1 group-title="MOVIE",Джек Ричер [США/2012]
+http://dmi3y-tv6.ru/hls/film/DZHEK_RICHER.m3u8
+#EXTINF:-1 group-title="MOVIE",Джек Ричер 2: Никогда не возвращайся [США/2016]
+http://dmi3y-tv6.ru/hls/film/DZHEK_RICHER2.m3u8
+#EXTINF:-1 group-title="MOVIE",Смокинг [США/2002]
+http://dmi3y-tv6.ru/hls/film/SMOKING.m3u8
+#EXTINF:-1 group-title="MOVIE",Патруль времени [КИТАЙ/2010]
+http://dmi3y-tv6.ru/hls/film/PATRUL_VREMENI.m3u8
+#EXTINF:-1 group-title="MOVIE",Черная молния [РОССИЯ/2009]
+http://dmi3y-tv6.ru/hls/film/CHERNAYA_MOLNIYA.m3u8
+#EXTINF:-1 group-title="MOVIE",Интерстеллар [США/2014]
+http://dmi3y-tv6.ru/hls/film/INTERSTELLAR.m3u8
+#EXTINF:-1 group-title="MOVIE",Гемини [США/2019]
+http://dmi3y-tv6.ru/hls/film/GEMINI.m3u8
+#EXTINF:-1 group-title="MOVIE",Человек из стали [США/2013]
+http://dmi3y-tv6.ru/hls/film/CHELOVEK_IZ_STALI.m3u8
+#EXTINF:-1 group-title="MOVIE",Матрица [США/1999]
+http://dmi3y-tv6.ru/hls/film/THE_MATRIX.m3u8
+#EXTINF:-1 group-title="MOVIE",Матрица: Перезагрузка [США/2003]
+http://dmi3y-tv6.ru/hls/film/THE_MATRIX_PEREZAGRUZKA.m3u8
+#EXTINF:-1 group-title="MOVIE",Матрица: Революция [США/2003]
+http://dmi3y-tv6.ru/hls/film/THE_MATRIX_REVOLYUCIYA.m3u8
+#EXTINF:-1 group-title="MOVIE",Пол: Секретный материальчик [США/2011]
+http://dmi3y-tv6.ru/hls/film/POL_SEKRETNY_MATERIALCHIK.m3u8
+#EXTINF:-1 group-title="MOVIE",Потрошители [США/2009]
+http://dmi3y-tv6.ru/hls/film/POTROSHITELI.m3u8
+#EXTINF:-1 group-title="MOVIE",Дитя робота [США/2018]
+http://dmi3y-tv6.ru/hls/film/DITYA_ROBOTA.m3u8
+#EXTINF:-1 group-title="MOVIE",Где-то во времени [США/2018]
+http://dmi3y-tv6.ru/hls/film/GDETO_VO_VREMENI.m3u8
+#EXTINF:-1 group-title="MOVIE",Ремнант: Всё ещё вижу тебя [США/2018]
+http://dmi3y-tv6.ru/hls/film/REMNANT_VSE_ESHE_VIZHU_TEBYA.m3u8
+#EXTINF:-1 group-title="MOVIE",Пришелец [РОССИЯ/2018]
+http://dmi3y-tv6.ru/hls/film/PRISHELEC.m3u8
+#EXTINF:-1 group-title="MOVIE",Континуум [США/2014]
+http://dmi3y-tv6.ru/hls/film/KONTINUUM.m3u8
+#EXTINF:-1 group-title="MOVIE",Гравитация [США/2013]
+http://dmi3y-tv6.ru/hls/film/GRAVITACIYA.m3u8
+#EXTINF:-1 group-title="MOVIE",Обливион [США/2013]
+http://dmi3y-tv6.ru/hls/film/OBLIVION.m3u8
+#EXTINF:-1 group-title="MOVIE",Призрачный патруль [США/2013]
+http://dmi3y-tv6.ru/hls/film/PRIZRACHNY_PATRUL.m3u8
+#EXTINF:-1 group-title="MOVIE",Фантом [РОССИЯ/США/2011]
+http://dmi3y-tv6.ru/hls/film/FANTOM.m3u8
+#EXTINF:-1 group-title="MOVIE",Я легенда [США/2007]
+http://dmi3y-tv6.ru/hls/film/YA_LEGENDA.m3u8
+#EXTINF:-1 group-title="MOVIE",Нечто [США/2011]
+http://dmi3y-tv6.ru/hls/film/NECHTO.m3u8
+#EXTINF:-1 group-title="MOVIE",Призрак [РОССИЯ/2015]
+http://dmi3y-tv6.ru/hls/film/PRIZRAK.m3u8
+#EXTINF:-1 group-title="MOVIE",Призрак в доспехах [США/2017]
+http://dmi3y-tv6.ru/hls/film/PRIZRAK_V_DOSPEHAH.m3u8
+#EXTINF:-1 group-title="MOVIE",Кловерфилд 10 [США/2016]
+http://dmi3y-tv6.ru/hls/film/KLOVERFILD.m3u8
+#EXTINF:-1 group-title="MOVIE",Потерянный остров [РОССИЯ/2019]
+http://dmi3y-tv6.ru/hls/film/POTERYANNY_OSTROV.m3u8
+#EXTINF:-1 group-title="MOVIE",Джиперс Криперс [США/2001]
+http://dmi3y-tv6.ru/hls/film/DZHIPERS_KRIPERS.m3u8
+#EXTINF:-1 group-title="MOVIE",Поезд в Пусан [КОРЕЯ/2016]
+http://dmi3y-tv6.ru/hls/film/POEZDVPUSAN.m3u8
+#EXTINF:-1 group-title="MOVIE",Проклятие Спящей красавицы [США/2015]
+http://dmi3y-tv6.ru/hls/film/PROKLYATIESPYASHEYKRASAVITSY.m3u8
+#EXTINF:-1 group-title="MOVIE",Аниара: Космическая обитель [США/2018]
+http://dmi3y-tv6.ru/hls/film/ANIARA_KOSMICHESKAYAOBITEL.m3u8
+#EXTINF:-1 group-title="MOVIE",Ледяной капкан [США/2020]
+http://dmi3y-tv6.ru/hls/film/LEDYANOY_KAPKAN.m3u8
+#EXTINF:-1 group-title="MOVIE",Салют-7 [РОССИЯ/2017]
+http://dmi3y-tv6.ru/hls/film/SALYUT7.m3u8
+#EXTINF:-1 group-title="MOVIE",Мумия [США/1999]
+http://dmi3y-tv6.ru/hls/film/MUMIYA.m3u8
+#EXTINF:-1 group-title="MOVIE",Мумия возвращается [США/2001]
+http://dmi3y-tv6.ru/hls/film/MUMIYA_VOZVRASHAETSYA.m3u8
+#EXTINF:-1 group-title="MOVIE",Мумия: Гробница Императора Драконов [США/2008]
+http://dmi3y-tv6.ru/hls/film/MUMIYA_GROBNITSAIMPERATORADRAKONOV.m3u8
+#EXTINF:-1 group-title="MOVIE",Царь скорпионов [США/2002]
+http://dmi3y-tv6.ru/hls/film/TSAR_SKORPIONOV.m3u8
+#EXTINF:-1 group-title="MOVIE",Тёмная башня [США/2017]
+http://dmi3y-tv6.ru/hls/film/TEMNAYA_BASHNYA.m3u8
+#EXTINF:-1 group-title="MOVIE",Война миров Z [США/2013]
+http://dmi3y-tv6.ru/hls/film/VOYNA_MIROV_Z.m3u8
+#EXTINF:-1 group-title="MOVIE",Новый Человек-паук: Высокое напряжение [США/2014]
+http://dmi3y-tv6.ru/hls/film/NEW_CHELOVEK_PAUK_VYSOKOENAPRYAZHENIE.m3u8
+#EXTINF:-1 group-title="MOVIE",Человек-паук. Возвращение домой [США/2017]
+http://dmi3y-tv6.ru/hls/film/CHELOVEK_PAUK_VOZVRASHENIEDOMOY.m3u8
+#EXTINF:-1 group-title="MOVIE",Человек-паук: Вдали от дома [США/2019]
+http://dmi3y-tv6.ru/hls/film/CHELOVEK_PAUK_VDALI_OT_DOMA.m3u8
+#EXTINF:-1 group-title="MOVIE",Веном [США/2018]
+http://dmi3y-tv6.ru/hls/film/VENOM.m3u8
+#EXTINF:-1 group-title="MOVIE",Дитя человеческое [США/2006]
+http://dmi3y-tv6.ru/hls/film/DITYA_CHELOVECHESKOE.m3u8
+#EXTINF:-1 group-title="MOVIE",Водный мир [США/1995]
+http://dmi3y-tv6.ru/hls/film/VODNYI_MIR.m3u8
+#EXTINF:-1 group-title="MOVIE",Ёлки [РОССИЯ/2010]
+http://dmi3y-tv6.ru/hls/film/ELKI.m3u8
+#EXTINF:-1 group-title="MOVIE",Ёлки 2 [РОССИЯ/2011]
+http://dmi3y-tv6.ru/hls/film/ELKI2.m3u8
+#EXTINF:-1 group-title="MOVIE",Ёлки 3 [РОССИЯ/2013]
+http://dmi3y-tv6.ru/hls/film/ELKI3.m3u8
+#EXTINF:-1 group-title="MOVIE",Ёлки 1914 [РОССИЯ/2014]
+http://dmi3y-tv6.ru/hls/film/ELKI1914.m3u8
+#EXTINF:-1 group-title="MOVIE",Ёлки 5 [РОССИЯ/2016]
+http://dmi3y-tv6.ru/hls/film/ELKI5.m3u8
+#EXTINF:-1 group-title="MOVIE",Ёлки новые [РОССИЯ/2017]
+http://dmi3y-tv6.ru/hls/film/ELKI_NOVYE.m3u8
+#EXTINF:-1 group-title="MOVIE",Ёлки лохматые [РОССИЯ/2014]
+http://dmi3y-tv6.ru/hls/film/ELKI_LOHMATYE.m3u8
+#EXTINF:-1 group-title="MOVIE",Джунгли [РОССИЯ/2012]
+http://dmi3y-tv6.ru/hls/film/DZHUNGLI.m3u8
+#EXTINF:-1 group-title="MOVIE",Наша Russia: Яйца судьбы [РОССИЯ/2010]
+http://dmi3y-tv6.ru/hls/film/NASHA_RUSSIA_YAYTSASUDBY.m3u8
+#EXTINF:-1 group-title="MOVIE",Призрачный гонщик [США/2007]
+http://dmi3y-tv6.ru/hls/film/PRIZRACHNY_GONSHIK.m3u8
+#EXTINF:-1 group-title="MOVIE",Трансформеры [США/2007]
+http://dmi3y-tv6.ru/hls/film/TRANSFORMERY.m3u8
+#EXTINF:-1 group-title="MOVIE",Трансформеры 2: Месть падших [США/2009]
+http://dmi3y-tv6.ru/hls/film/TRANSFORMERY2.m3u8
+#EXTINF:-1 group-title="MOVIE",Трансформеры 3: Темная сторона Луны [США/2011]
+http://dmi3y-tv6.ru/hls/film/TRANSFORMERY3.m3u8
+#EXTINF:-1 group-title="MOVIE",Трансформеры 4: Эпоха истребления [США/2014]
+http://dmi3y-tv6.ru/hls/film/TRANSFORMERY4.m3u8
+#EXTINF:-1 group-title="MOVIE",Трансформеры 5: Последний рыцарь [США/2017]
+http://dmi3y-tv6.ru/hls/film/TRANSFORMERY5.m3u8
+#EXTINF:-1 group-title="MOVIE",Бамблби [США/2018]
+http://dmi3y-tv6.ru/hls/film/BAMBLBI.m3u8
+#EXTINF:-1 group-title="MOVIE",Последний киногерой [США/1993]
+http://dmi3y-tv6.ru/hls/film/POSLEDNIY_KINOGEROY.m3u8
+#EXTINF:-1 group-title="MOVIE",Терминатор. Да придет спаситель [США/2009]
+http://dmi3y-tv6.ru/hls/film/TERMINATOR_DA_PRIDET_SPASITEL.m3u8
+#EXTINF:-1 group-title="MOVIE",Терминатор: Генезис [США/2015]
+http://dmi3y-tv6.ru/hls/film/TERMINATOR_GENEZIS.m3u8
+#EXTINF:-1 group-title="MOVIE",Человек на Луне [США/2018]
+http://dmi3y-tv6.ru/hls/film/CHELOVEK_NA_LUNE.m3u8
+#EXTINF:-1 group-title="MOVIE",Боевой робот номер 4 [США/2020]
+http://dmi3y-tv6.ru/hls/film/BOEVOY_ROBOT_N4.m3u8
+#EXTINF:-1 group-title="MOVIE",Черепашки-ниндзя [США/2014]
+http://dmi3y-tv6.ru/hls/film/CHEREPASHKI_NINDZYA.m3u8
+#EXTINF:-1 group-title="MOVIE",Черепашки-ниндзя 2 [США/2016]
+http://dmi3y-tv6.ru/hls/film/CHEREPASHKI_NINDZYA2.m3u8
+#EXTINF:-1 group-title="MOVIE",Шестой день [США/2000]
+http://dmi3y-tv6.ru/hls/film/6_DEN.m3u8
+#EXTINF:-1 group-title="MOVIE",Хэнкок [США/2008]
+http://dmi3y-tv6.ru/hls/film/HENKOK.m3u8
+#EXTINF:-1 group-title="MOVIE",Назад в будущее 2 [США/1989]
+http://dmi3y-tv6.ru/hls/film/NAZAD_V_BUDUSHEE2.m3u8
+#EXTINF:-1 group-title="MOVIE",Кладбище домашних животных [США/2019]
+http://dmi3y-tv6.ru/hls/film/KLADBISHE_DOMASHNIH_ZHIVOTNYH.m3u8
+#EXTINF:-1 group-title="MOVIE",Дракулов [РОССИЯ/2021]
+http://dmi3y-tv6.ru/hls/film/DRAKULOV.m3u8
+#EXTINF:-1 group-title="MOVIE",Живое [США/2017]
+http://dmi3y-tv6.ru/hls/film/ZHIVOE.m3u8
+#EXTINF:-1 group-title="MOVIE",Охотники на ведьм [США/2012]
+http://dmi3y-tv6.ru/hls/film/OHOTNIKI_NA_VEDM.m3u8
+#EXTINF:-1 group-title="MOVIE",Звонок 2 [США/2005]
+http://dmi3y-tv6.ru/hls/film/ZVONOK2.m3u8
+#EXTINF:-1 group-title="MOVIE",Дом напротив [США/2016]
+http://dmi3y-tv6.ru/hls/film/DOM_NAPROTIV.m3u8
+#EXTINF:-1 group-title="MOVIE",Злой дух [КАНАДА/2017]
+http://dmi3y-tv6.ru/hls/film/ZLOY_DUH.m3u8
+#EXTINF:-1 group-title="MOVIE",Добро пожаловать в Зомбилэнд! [США/2009]
+http://dmi3y-tv6.ru/hls/film/DOBRO_POZHALOVAT_V_ZOMBILEND.m3u8
+#EXTINF:-1 group-title="MOVIE",Судная ночь 2 [США/2014]
+http://dmi3y-tv6.ru/hls/film/SUDNAYA_NOCH2.m3u8
+#EXTINF:-1 group-title="MOVIE",Судная ночь 3 [США/2016]
+http://dmi3y-tv6.ru/hls/film/SUDNAYA_NOCH3.m3u8
+#EXTINF:-1 group-title="MOVIE",Судная ночь навсегда [США/2021]
+http://dmi3y-tv6.ru/hls/film/SUDNAYA_NOCH_NAVSEGDA.m3u8
+#EXTINF:-1 group-title="MOVIE",Крик [США/1996]
+http://dmi3y-tv6.ru/hls/film/KRIK.m3u8
+#EXTINF:-1 group-title="MOVIE",Крик 2 [США/1997]
+http://dmi3y-tv6.ru/hls/film/KRIK2.m3u8
+#EXTINF:-1 group-title="MOVIE",Крик 3 [США/1997]
+http://dmi3y-tv6.ru/hls/film/KRIK3.m3u8
+#EXTINF:-1 group-title="MOVIE",Пиковая дама: Зазеркалье [РОССИЯ/2018]
+http://dmi3y-tv6.ru/hls/film/PIKOVAYA_DAMA_ZAZERKALE.m3u8
+#EXTINF:-1 group-title="MOVIE",мама! [США/2017]
+http://dmi3y-tv6.ru/hls/film/MAMA.m3u8
+#EXTINF:-1 group-title="MOVIE",Пассажиры [США/2016]
+http://dmi3y-tv6.ru/hls/film/PASSAZHIRY.m3u8
+#EXTINF:-1 group-title="MOVIE",Охотники за привидениями 2 [США/1989]
+http://dmi3y-tv6.ru/hls/film/OHOTNIKI_ZA_PRIVIDENIYAMI2.m3u8
+#EXTINF:-1 group-title="MOVIE",Другие [США/2001]
+http://dmi3y-tv6.ru/hls/film/DRUGIE.m3u8
+#EXTINF:-1 group-title="MOVIE",Девушка в поезде [США/2016]
+http://dmi3y-tv6.ru/hls/film/DEVUSHKA_V_POEZDE.m3u8
+#EXTINF:-1 group-title="MOVIE",Астрал 2 [США/2013]
+http://dmi3y-tv6.ru/hls/film/ASTRAL2.m3u8
+#EXTINF:-1 group-title="MOVIE",Астрал 3 [США/2015]
+http://dmi3y-tv6.ru/hls/film/ASTRAL3.m3u8
+#EXTINF:-1 group-title="MOVIE",Астрал 4: Последний ключ [США/2018]
+http://dmi3y-tv6.ru/hls/film/ASTRAL4.m3u8
+#EXTINF:-1 group-title="MOVIE",Вирус страха [США/2020]
+http://dmi3y-tv6.ru/hls/film/VIRUS_STRAHA.m3u8
+#EXTINF:-1 group-title="MOVIE",Слендермен [США/2018]
+http://dmi3y-tv6.ru/hls/film/SLENDERMEN.m3u8
+#EXTINF:-1 group-title="MOVIE",Детские игры 2 [США/1990]
+http://dmi3y-tv6.ru/hls/film/DETSKIE_IGRY2.m3u8
+#EXTINF:-1 group-title="MOVIE",Детские игры 3 [США/1991]
+http://dmi3y-tv6.ru/hls/film/DETSKIE_IGRY3.m3u8
+#EXTINF:-1 group-title="MOVIE",Потомство Чаки [США/2004]
+http://dmi3y-tv6.ru/hls/film/POTOMSTVO_CHAKI.m3u8
+#EXTINF:-1 group-title="MOVIE",Легенда Зорро [США/2005]
+http://dmi3y-tv6.ru/hls/film/LEGENDA_ZORRO.m3u8
+#EXTINF:-1 group-title="MOVIE",Хранитель времени [США/2011]
+http://dmi3y-tv6.ru/hls/film/HRANITEL_VREMENI.m3u8
+#EXTINF:-1 group-title="MOVIE",Капкан времени [США/2005]
+http://dmi3y-tv6.ru/hls/film/KAPKAN_VREMENI.m3u8
+#EXTINF:-1 group-title="MOVIE",Братья Гримм [США/2005]
+http://dmi3y-tv6.ru/hls/film/BRATYA_GRIMM.m3u8
+#EXTINF:-1 group-title="MOVIE",Ангелы Чарли 2: Только вперед [США/2003]
+http://dmi3y-tv6.ru/hls/film/ANGELY_CHARLI2.m3u8
+#EXTINF:-1 group-title="MOVIE",Ангелы Чарли [США/2019]
+http://dmi3y-tv6.ru/hls/film/ANGELY_CHARLI_2019.m3u8
+#EXTINF:-1 group-title="MOVIE",Джуманджи: Новый уровень [США/2019]
+http://dmi3y-tv6.ru/hls/film/DZHUMANDZHI_NEW_UROVEN.m3u8
+#EXTINF:-1 group-title="MOVIE",Доспехи бога: В поисках сокровищ [КНР/США/2017]
+http://dmi3y-tv6.ru/hls/film/DOSPEHIBOGA_V_POISKAH_SOKROVISH.m3u8
+#EXTINF:-1 group-title="MOVIE",Люди в черном [США/1997]
+http://dmi3y-tv6.ru/hls/film/LYUDI_V_CHERNOM.m3u8
+#EXTINF:-1 group-title="MOVIE",Люди в черном. Интернэшнл [США/2019]
+http://dmi3y-tv6.ru/hls/film/LYUDI_V_CHERNOM_INT.m3u8
+#EXTINF:-1 group-title="MOVIE",Агент Джонни Инглиш [США/2003]
+http://dmi3y-tv6.ru/hls/film/AGENT_DZHONNI_INGLISH.m3u8
+#EXTINF:-1 group-title="MOVIE",Агент Джонни Инглиш: Перезагрузка [США/2011]
+http://dmi3y-tv6.ru/hls/film/AGENT_DZHONNI_INGLISH_PEREZAGRUZKA.m3u8
+#EXTINF:-1 group-title="MOVIE",Время [США/2021]
+http://dmi3y-tv6.ru/hls/film/VREMYA.m3u8
+#EXTINF:-1 group-title="MOVIE",Форсаж 9 [США/2021]
+http://dmi3y-tv6.ru/hls/film/FORSAZH9.m3u8
+#EXTINF:-1 group-title="MOVIE",Ледокол [РОССИЯ/2016]
+http://dmi3y-tv6.ru/hls/film/LEDOKOL.m3u8
+#EXTINF:-1 group-title="MOVIE",Пришельцы на чердаке [США/2009]
+http://dmi3y-tv6.ru/hls/film/PRISHELTSY_NA_CHERDAKE.m3u8
+#EXTINF:-1 group-title="MOVIE",Знакомьтесь: Дэйв [США/2008]
+http://dmi3y-tv6.ru/hls/film/ZNAKOMTES_DEYV.m3u8
+#EXTINF:-1 group-title="MOVIE",Тысяча слов [США/2009]
+http://dmi3y-tv6.ru/hls/film/1000SLOV.m3u8
+#EXTINF:-1 group-title="MOVIE",Библиотекарь 2: Возвращение в Копи Царя Соломона [США/2006]
+http://dmi3y-tv6.ru/hls/film/BIBLIOTEKAR2.m3u8
+#EXTINF:-1 group-title="MOVIE",Библиотекарь 3: Проклятие иудовой чаши [США/2008]
+http://dmi3y-tv6.ru/hls/film/BIBLIOTEKAR3.m3u8
+#EXTINF:-1 group-title="MOVIE",Белоснежка и охотник [США/2012]
+http://dmi3y-tv6.ru/hls/film/BELOSNEZHKA_I_OHOTNIK.m3u8
+#EXTINF:-1 group-title="MOVIE",Затерянный мир [США/2009]
+http://dmi3y-tv6.ru/hls/film/ZATERYANNY_MIR.m3u8
+#EXTINF:-1 group-title="MOVIE",Разлом [США/2018]
+http://dmi3y-tv6.ru/hls/film/RAZLOM.m3u8
+#EXTINF:-1 group-title="MOVIE",Выкрутасы [РОССИЯ/2010]
+http://dmi3y-tv6.ru/hls/film/VYKRUTASY.m3u8
+#EXTINF:-1 group-title="MOVIE",День выборов [РОССИЯ/2007]
+http://dmi3y-tv6.ru/hls/film/DEN_VYBOROV.m3u8
+#EXTINF:-1 group-title="MOVIE",Плохие парни навсегда [США/2020]
+http://dmi3y-tv6.ru/hls/film/PLOHIE_PARNI_NAVSEGDA.m3u8
+#EXTINF:-1 group-title="MOVIE",Дом большой мамочки [США/2000]
+http://dmi3y-tv6.ru/hls/film/DOM_BOLSHOY_MAMOCHKI.m3u8
+#EXTINF:-1 group-title="MOVIE",Дом большой мамочки 2 [США/2006]
+http://dmi3y-tv6.ru/hls/film/DOM_BOLSHOY_MAMOCHKI2.m3u8
+#EXTINF:-1 group-title="MOVIE",Представь себе [США/2008]
+http://dmi3y-tv6.ru/hls/film/PREDSTAV_SEBE.m3u8
+#EXTINF:-1 group-title="MOVIE",Эван Всемогущий [США/2007]
+http://dmi3y-tv6.ru/hls/film/EVAN_VSEMOGUSHIY.m3u8
+#EXTINF:-1 group-title="MOVIE",Бросок кобры [США/2009]
+http://dmi3y-tv6.ru/hls/film/BROSOK_KOBRY.m3u8
+#EXTINF:-1 group-title="MOVIE",Бросок кобры 2 [США/2013]
+http://dmi3y-tv6.ru/hls/film/BROSOK_KOBRY2.m3u8
+#EXTINF:-1 group-title="MOVIE",Стартрек: Бесконечность [США/2016]
+http://dmi3y-tv6.ru/hls/film/STARTREK_BESKONECHNOST.m3u8
+#EXTINF:-1 group-title="MOVIE",Миссия невыполнима [США/1996]
+http://dmi3y-tv6.ru/hls/film/MISSIYA_NEVYPOLNIMA.m3u8
+#EXTINF:-1 group-title="MOVIE",Миссия невыполнима 2 [США/2000]
+http://dmi3y-tv6.ru/hls/film/MISSIYA_NEVYPOLNIMA2.m3u8
+#EXTINF:-1 group-title="MOVIE",Миссия невыполнима 3 [США/2006]
+http://dmi3y-tv6.ru/hls/film/MISSIYA_NEVYPOLNIMA3.m3u8
+#EXTINF:-1 group-title="MOVIE",Миссия невыполнима: Протокол Фантом [США/2011]
+http://dmi3y-tv6.ru/hls/film/MISSIYA_NEVYPOLNIMA_PROTOKOL_FANTOM.m3u8
+#EXTINF:-1 group-title="MOVIE",Миссия невыполнима: Племя изгоев [США/2015]
+http://dmi3y-tv6.ru/hls/film/MISSIYA_NEVYPOLNIMA_PLEMYA_IZGOEV.m3u8
+#EXTINF:-1 group-title="MOVIE",Миссия невыполнима: Последствия [США/2018]
+http://dmi3y-tv6.ru/hls/film/MISSIYA_NEVYPOLNIMA_POSLEDSTVIYA.m3u8
+#EXTINF:-1 group-title="MOVIE",Лара Крофт: Расхитительница гробниц [США/2001]
+http://dmi3y-tv6.ru/hls/film/LARA_KROFT_RASHITITELNITSA_GROBNITS.m3u8
+#EXTINF:-1 group-title="MOVIE",Лара Крофт: Расхитительница гробниц 2 Колыбель жизни [США/2003]
+http://dmi3y-tv6.ru/hls/film/LARA_KROFT_RASHITITELNITSA_GROBNITS2.m3u8
+#EXTINF:-1 group-title="MOVIE",Аферисты Дик и Джейн [США/2005]
+http://dmi3y-tv6.ru/hls/film/AFERISTY_DIK_I_DZHEYN.m3u8
+#EXTINF:-1 group-title="MOVIE",Лемони Сникет. 33 несчастья [США/2004]
+http://dmi3y-tv6.ru/hls/film/LEMONI_SNIKET_33NESCHASTYA.m3u8
+#EXTINF:-1 group-title="MOVIE",Бетховен [США/1992]
+http://dmi3y-tv6.ru/hls/film/BETHOVEN.m3u8
+#EXTINF:-1 group-title="MOVIE",Бетховен 2 [США/1993]
+http://dmi3y-tv6.ru/hls/film/BETHOVEN2.m3u8
+#EXTINF:-1 group-title="MOVIE",Двое: я и моя тень [США/1995]
+http://dmi3y-tv6.ru/hls/film/DVOE_YA_I_MOYA_TEN.m3u8
+#EXTINF:-1 group-title="MOVIE",Детсадовский полицейский [США/1990]
+http://dmi3y-tv6.ru/hls/film/DETSADOVSKIY_POLITSEYSKIY.m3u8
+#EXTINF:-1 group-title="MOVIE",Зелёная миля [США/1999]
+http://dmi3y-tv6.ru/hls/film/ZELYONAYA_MILYA.m3u8
+#EXTINF:-1 group-title="MOVIE",Факультет [США/1998]
+http://dmi3y-tv6.ru/hls/film/FAKULTET.m3u8
+#EXTINF:-1 group-title="MOVIE",От заката до рассвета [США/1995]
+http://dmi3y-tv6.ru/hls/film/OT_ZAKATA_DO_RASSVETA.m3u8
+#EXTINF:-1 group-title="MOVIE",Мачете [США/2010]
+http://dmi3y-tv6.ru/hls/film/MACHETE.m3u8
+#EXTINF:-1 group-title="MOVIE",Мачете убивает [США/2013]
+http://dmi3y-tv6.ru/hls/film/MACHETE_UBIVAET.m3u8
+#EXTINF:-1 group-title="MOVIE",Двухсотлетний человек [США/1999]
+http://dmi3y-tv6.ru/hls/film/200LETNIY_CHELOVEK.m3u8
+#EXTINF:-1 group-title="MOVIE",Искусственный разум [США/2001]
+http://dmi3y-tv6.ru/hls/film/ISKUSSTVENNY_RAZUM.m3u8
+#EXTINF:-1 group-title="MOVIE",Особое мнение [США/2002]
+http://dmi3y-tv6.ru/hls/film/OSOBOE_MNENIE.m3u8
+#EXTINF:-1 group-title="MOVIE",Инопланетянин [США/1982]
+http://dmi3y-tv6.ru/hls/film/INOPLANETYANIN.m3u8
+#EXTINF:-1 group-title="MOVIE",Невезучие [США/2003]
+http://dmi3y-tv6.ru/hls/film/NEVEZUCHIE.m3u8
+#EXTINF:-1 group-title="MOVIE",Мышиная охота [США/1997]
+http://dmi3y-tv6.ru/hls/film/MYSHINAYA_OHOTA.m3u8
+#EXTINF:-1 group-title="MOVIE",Моя ужасная няня [США/2005]
+http://dmi3y-tv6.ru/hls/film/MOYA_UZHASNAYA_NYANYA.m3u8
+#EXTINF:-1 group-title="MOVIE",Моя ужасная няня 2 [США/2010]
+http://dmi3y-tv6.ru/hls/film/MOYA_UZHASNAYA_NYANYA2.m3u8
+#EXTINF:-1 group-title="MOVIE",Повелитель стихий [США/2010]
+http://dmi3y-tv6.ru/hls/film/POVELITEL_STIHIY.m3u8
+#EXTINF:-1 group-title="MOVIE",Каникулы строгого режима [РОССИЯ/2009]
+http://dmi3y-tv6.ru/hls/film/KANIKULY_STROGOGO_REZHIMA.m3u8
+#EXTINF:-1 group-title="MOVIE",Третий лишний [США/2012]
+http://dmi3y-tv6.ru/hls/film/3_LISHNIY.m3u8
+#EXTINF:-1 group-title="MOVIE",Третий лишний 2 [США/2015]
+http://dmi3y-tv6.ru/hls/film/3_LISHNIY2.m3u8
+#EXTINF:-1 group-title="MOVIE",Пиксели [США/2015]
+http://dmi3y-tv6.ru/hls/film/PIKSELI.m3u8
+#EXTINF:-1 group-title="MOVIE",Сокровище Амазонки [США/2003]
+http://dmi3y-tv6.ru/hls/film/SOKROVISHE_AMAZONKI.m3u8
+#EXTINF:-1 group-title="MOVIE",Бабушка лёгкого поведения [РОССИЯ/2017]
+http://dmi3y-tv6.ru/hls/film/BABUSHKA_LEGKOGO_POVEDENIYA.m3u8
+#EXTINF:-1 group-title="MOVIE",Кукла 2: Брамс [США/2020]
+http://dmi3y-tv6.ru/hls/film/KUKLA2_BRAMS.m3u8
+#EXTINF:-1 group-title="MOVIE",Проклятие: Кукла ведьмы [США/2018]
+http://dmi3y-tv6.ru/hls/film/PROKLYATIE_KUKLA_VEDMY.m3u8
+#EXTINF:-1 group-title="MOVIE",Каникулы президента [РОССИЯ/2018]
+http://dmi3y-tv6.ru/hls/film/KANIKULY_PREZIDENTA.m3u8
+#EXTINF:-1 group-title="MOVIE",Гороскоп на удачу [РОССИЯ/2015]
+http://dmi3y-tv6.ru/hls/film/GOROSKOP_NA_UDACHU.m3u8
+#EXTINF:-1 group-title="MOVIE",Напарник [РОССИЯ/2017]
+http://dmi3y-tv6.ru/hls/film/NAPARNIK.m3u8
+#EXTINF:-1 group-title="MOVIE",Вий [РОССИЯ/2014]
+http://dmi3y-tv6.ru/hls/film/VIY.m3u8
+#EXTINF:-1 group-title="MOVIE",Ной [США/2014]
+http://dmi3y-tv6.ru/hls/film/NOY.m3u8
+#EXTINF:-1 group-title="MOVIE",Ужастики [США/2015]
+http://dmi3y-tv6.ru/hls/film/UZHASTIKI.m3u8
+#EXTINF:-1 group-title="MOVIE",Паразиты [КОРЕЯ/2019]
+http://dmi3y-tv6.ru/hls/film/PARAZITY.m3u8
+#EXTINF:-1 group-title="MOVIE",Супергерои [ДОК/ВЕЛИКОБРИТАНИЯ/2018]
+http://dmi3y-tv6.ru/hls/film/SUPERGEROI.m3u8
+#EXTINF:-1 group-title="MOVIE",Халк [США/2003]
+http://dmi3y-tv6.ru/hls/film/HALK.m3u8
+#EXTINF:-1 group-title="MOVIE",Невероятный Халк [США/2008]
+http://dmi3y-tv6.ru/hls/film/NEVEROYATNY_HALK.m3u8
+#EXTINF:-1 group-title="MOVIE",Робот по имени Чаппи [США/2015]
+http://dmi3y-tv6.ru/hls/film/ROBOT_PO_IMENI_CHAPPI.m3u8
+#EXTINF:-1 group-title="MOVIE",Лекарство от здоровья [США/2017]
+http://dmi3y-tv6.ru/hls/film/LEKARSTVO_OT_ZDOROVYA.m3u8
+#EXTINF:-1 group-title="MOVIE",Русалка на суше [США/2019]
+http://dmi3y-tv6.ru/hls/film/RUSALKA_NA_SUSHE.m3u8
+#EXTINF:-1 group-title="MOVIE",Рассказы Русалочки [США/2018]
+http://dmi3y-tv6.ru/hls/film/RASSKAZY_RUSALOCHKI.m3u8
+#EXTINF:-1 group-title="MOVIE",Возвращение в Голубую лагуну [США/1991]
+http://dmi3y-tv6.ru/hls/film/VOZVRASHENIE_V_GOLUBUYU_LAGUNU.m3u8
+#EXTINF:-1 group-title="MOVIE",Убить Билла [США/2003]
+http://dmi3y-tv6.ru/hls/film/UBIT_BILLA.m3u8
+#EXTINF:-1 group-title="MOVIE",Убить Билла 2 [США/2004]
+http://dmi3y-tv6.ru/hls/film/UBIT_BILLA2.m3u8
+#EXTINF:-1 group-title="MOVIE",Проклятый дом [США/2018]
+http://dmi3y-tv6.ru/hls/film/PROKLYATY_DOM.m3u8
+#EXTINF:-1 group-title="MOVIE",Туннель: Опасно для жизни [НОРВЕГИЯ/2019]
+http://dmi3y-tv6.ru/hls/film/TUNNEL_OPASNO_DLYA_ZHIZNI.m3u8
+#EXTINF:-1 group-title="MOVIE",Бладшот [США/2020]
+http://dmi3y-tv6.ru/hls/film/BLADSHOT.m3u8
+#EXTINF:-1 group-title="MOVIE",Зеркала [США/2008]
+http://dmi3y-tv6.ru/hls/film/ZERKALA.m3u8
+#EXTINF:-1 group-title="MOVIE",Зеркала: Инкарнация [США/2020]
+http://dmi3y-tv6.ru/hls/film/ZERKALA_INKARNATSIYA.m3u8
+#EXTINF:-1 group-title="MOVIE",Все ждут Рождество: Люси против Крампуса [США/2018]
+http://dmi3y-tv6.ru/hls/film/VSE_ZHDUT_ROZHDESTVO.m3u8
+#EXTINF:-1 group-title="MOVIE",Все ждут Рождество 2: Люси и магический кристалл [США/2020]
+http://dmi3y-tv6.ru/hls/film/VSE_ZHDUT_ROZHDESTVO2.m3u8
+#EXTINF:-1 group-title="MOVIE",Альфа [США/2018]
+http://dmi3y-tv6.ru/hls/film/ALFA.m3u8
+#EXTINF:-1 group-title="MOVIE",Выживший [США/2015]
+http://dmi3y-tv6.ru/hls/film/VYZHIVSHIY.m3u8
+#EXTINF:-1 group-title="MOVIE",Поиск [США/2018]
+http://dmi3y-tv6.ru/hls/film/POISK.m3u8
+#EXTINF:-1 group-title="MOVIE",Омерзительная восьмерка [США/2015]
+http://dmi3y-tv6.ru/hls/film/OMERZITELNAYA_8.m3u8
+#EXTINF:-1 group-title="MOVIE",Снеговик [США/2017]
+http://dmi3y-tv6.ru/hls/film/SNEGOVIK.m3u8
+#EXTINF:-1 group-title="MOVIE",Восточный ветер [ГЕРМАНИЯ/2013]
+http://dmi3y-tv6.ru/hls/film/VOSTOCHNY_VETER.m3u8
+#EXTINF:-1 group-title="MOVIE",Восточный ветер 2 [ГЕРМАНИЯ/2015]
+http://dmi3y-tv6.ru/hls/film/VOSTOCHNY_VETER2.m3u8
+#EXTINF:-1 group-title="MOVIE",Восточный ветер 3: Наследие Оры [ГЕРМАНИЯ/2017]
+http://dmi3y-tv6.ru/hls/film/VOSTOCHNY_VETER3.m3u8
+#EXTINF:-1 group-title="MOVIE",Восточный ветер 4: Легенда о Воине [ГЕРМАНИЯ/2019]
+http://dmi3y-tv6.ru/hls/film/VOSTOCHNY_VETER4.m3u8
+#EXTINF:-1 group-title="MOVIE",Помогите. я уменьшил свою училку! [ГЕРМАНИЯ/2015]
+http://dmi3y-tv6.ru/hls/film/POMOGITE_YA_UMENSHIL_SVOYU_UCHILKU.m3u8
+#EXTINF:-1 group-title="MOVIE",Помогите. я уменьшил своих родителей! [ГЕРМАНИЯ/2018]
+http://dmi3y-tv6.ru/hls/film/POMOGITE_YA_UMENSHIL_SVOIH_RODITELEY.m3u8
+#EXTINF:-1 group-title="MOVIE",Женщина в черном [КАНАДА/2012]
+http://dmi3y-tv6.ru/hls/film/ZHENSHINA_V_CHERNOM.m3u8
+#EXTINF:-1 group-title="MOVIE",Женщина в черном 2: Ангел смерти [КАНАДА/2014]
+http://dmi3y-tv6.ru/hls/film/ZHENSHINA_V_CHERNOM2.m3u8
+#EXTINF:-1 group-title="MOVIE",Бегущий по лезвию 2049 [США/2017]
+http://dmi3y-tv6.ru/hls/film/BEGUSHIY_PO_LEZVIYU_2049.m3u8
+#EXTINF:-1 group-title="MOVIE",Ловец снов [США/2020]
+http://dmi3y-tv6.ru/hls/film/LOVETS_SNOV.m3u8
+#EXTINF:-1 group-title="MOVIE",Мара. Пожиратель снов [США/2018]
+http://dmi3y-tv6.ru/hls/film/MARA_POZHIRATEL_SNOV.m3u8
+#EXTINF:-1 group-title="MOVIE",Амулет [ВЕЛИКОБРИТАНИЯ/2020]
+http://dmi3y-tv6.ru/hls/film/AMULET.m3u8
+#EXTINF:-1 group-title="MOVIE",В земле [ВЕЛИКОБРИТАНИЯ/2021]
+http://dmi3y-tv6.ru/hls/film/V_ZEMLE.m3u8
+#EXTINF:-1 group-title="MOVIE",Полтергейст [США/2015]
+http://dmi3y-tv6.ru/hls/film/POLTERGEYST.m3u8
+#EXTINF:-1 group-title="MOVIE",Сплит [США/2017]
+http://dmi3y-tv6.ru/hls/film/SPLIT.m3u8
+#EXTINF:-1 group-title="MOVIE",Незваные [США/2008]
+http://dmi3y-tv6.ru/hls/film/NEZVANYE.m3u8
+#EXTINF:-1 group-title="MOVIE",Ю-571 [США/2000]
+http://dmi3y-tv6.ru/hls/film/YU_571.m3u8
+#EXTINF:-1 group-title="MOVIE",Пианист [ВЕЛИКОБРИТАНИЯ/2002]
+http://dmi3y-tv6.ru/hls/film/PIANIST.m3u8
+#EXTINF:-1 group-title="MOVIE",Отрыв [РОССИЯ/2018]
+http://dmi3y-tv6.ru/hls/film/OTRYV.m3u8
+#EXTINF:-1 group-title="MOVIE",Обитаемый остров [РОССИЯ/2008]
+http://dmi3y-tv6.ru/hls/film/OBITAEMY_OSTROV.m3u8
+#EXTINF:-1 group-title="MOVIE",Каратэ-пацан [КНР/США/2010]
+http://dmi3y-tv6.ru/hls/film/KARATE_PATSAN.m3u8
+#EXTINF:-1 group-title="MOVIE",Пробуждающая совесть [ДАНИЯ/2016]
+http://dmi3y-tv6.ru/hls/film/PROBUZHDAYUSHAYA_SOVEST.m3u8
+#EXTINF:-1 group-title="MOVIE",Пробуждающая совесть 2: Дар змеи [ДАНИЯ/2019]
+http://dmi3y-tv6.ru/hls/film/PROBUZHDAYUSHAYA_SOVEST2.m3u8
+#EXTINF:-1 group-title="MOVIE",Ужас Амитивилля [США/2005]
+http://dmi3y-tv6.ru/hls/film/UZHAS_AMITIVILLYA.m3u8
+#EXTINF:-1 group-title="MOVIE",Монстро [США/2008]
+http://dmi3y-tv6.ru/hls/film/MONSTRO.m3u8
+#EXTINF:-1 group-title="MOVIE",Капкан [США/2019]
+http://dmi3y-tv6.ru/hls/film/KAPKAN.m3u8
+#EXTINF:-1 group-title="MOVIE",Страна призраков [ФРАНЦИЯ/2018]
+http://dmi3y-tv6.ru/hls/film/STRANA_PRIZRAKOV.m3u8
+#EXTINF:-1 group-title="MOVIE",Синяя бездна 2 [США/2019]
+http://dmi3y-tv6.ru/hls/film/SINYAYA_BEZDNA2.m3u8
+#EXTINF:-1 group-title="MOVIE",Метро [РОССИЯ/2012]
+http://dmi3y-tv6.ru/hls/film/METRO.m3u8
+#EXTINF:-1 group-title="MOVIE",Миссия Серенити [США/2005]
+http://dmi3y-tv6.ru/hls/film/MISSIYA_SERENITI.m3u8
+#EXTINF:-1 group-title="MOVIE",Время первых [РОССИЯ/2017]
+http://dmi3y-tv6.ru/hls/film/VREMYA_PERVYH.m3u8
+#EXTINF:-1 group-title="MOVIE",Гагарин. Первый в космосе [РОССИЯ/2013]
+http://dmi3y-tv6.ru/hls/film/GAGARIN_1_V_KOSMOSE.m3u8
+#EXTINF:-1 group-title="MOVIE",Седьмой сын [РОССИЯ/2014]
+http://dmi3y-tv6.ru/hls/film/7_SYN.m3u8
+#EXTINF:-1 group-title="MOVIE",Механик [США/2010]
+http://dmi3y-tv6.ru/hls/film/MEHANIK.m3u8
+#EXTINF:-1 group-title="MOVIE",В осаде [США/1992]
+http://dmi3y-tv6.ru/hls/film/V_OSADE.m3u8
+#EXTINF:-1 group-title="MOVIE",В осаде 2: Темная территория [США/1995]
+http://dmi3y-tv6.ru/hls/film/V_OSADE2.m3u8
+#EXTINF:-1 group-title="MOVIE",Кинг Конг [США/2005]
+http://dmi3y-tv6.ru/hls/film/KING_KONG.m3u8
+#EXTINF:-1 group-title="MOVIE",Парк Юрского периода [США/1993]
+http://dmi3y-tv6.ru/hls/film/PARK_YURSKOGO_PERIODA.m3u8
+#EXTINF:-1 group-title="MOVIE",Парк Юрского периода 2: Затерянный мир [США/1997]
+http://dmi3y-tv6.ru/hls/film/PARK_YURSKOGO_PERIODA2.m3u8
+#EXTINF:-1 group-title="MOVIE",Парк Юрского периода 3 [США/2001]
+http://dmi3y-tv6.ru/hls/film/PARK_YURSKOGO_PERIODA3.m3u8
+#EXTINF:-1 group-title="MOVIE",Мир Юрского периода [США/2015]
+http://dmi3y-tv6.ru/hls/film/MIR_YURSKOGO_PERIODA.m3u8
+#EXTINF:-1 group-title="MOVIE",Атака Юрского периода [США/2012]
+http://dmi3y-tv6.ru/hls/film/ATAKA_YURSKOGO_PERIODA.m3u8
+#EXTINF:-1 group-title="MOVIE",Столкновение с бездной [США/1998]
+http://dmi3y-tv6.ru/hls/film/STOLKNOVENIE_S_BEZDNOY.m3u8
+#EXTINF:-1 group-title="MOVIE",Защитники [РОССИЯ/2016]
+http://dmi3y-tv6.ru/hls/film/ZASHITNIKI.m3u8
+#EXTINF:-1 group-title="MOVIE",Игра Эндера [США/2013]
+http://dmi3y-tv6.ru/hls/film/IGRA_ENDERA.m3u8
+#EXTINF:-1 group-title="MOVIE",Сторожевая застава [УКРАИНА/2017]
+http://dmi3y-tv6.ru/hls/film/STOROZHEVAYA_ZASTAVA.m3u8
+#EXTINF:-1 group-title="MOVIE",Охотники [США/2013]
+http://dmi3y-tv6.ru/hls/film/OHOTNIKI.m3u8
+#EXTINF:-1 group-title="MOVIE",Поворот не туда: Наследие [США/2021]
+http://dmi3y-tv6.ru/hls/film/POVOROT_NE_TUDA_NASLEDIE.m3u8
+#EXTINF:-1 group-title="MOVIE",Проклятие: Обитель смерти [США/2018]
+http://dmi3y-tv6.ru/hls/film/PROKLYATIE_OBITEL_SMERTI.m3u8
+#EXTINF:-1 group-title="MOVIE",Бесконечность [США/2021]
+http://dmi3y-tv6.ru/hls/film/BESKONECHNOST.m3u8
+#EXTINF:-1 group-title="MOVIE",За пределами Вселенной [ВЕЛИКОБРИТАНИЯ/2017]
+http://dmi3y-tv6.ru/hls/film/ZA_PREDELAMI_VSELENNOY.m3u8
+#EXTINF:-1 group-title="MOVIE",Портал [США/2020]
+http://dmi3y-tv6.ru/hls/film/PORTAL.m3u8
+#EXTINF:-1 group-title="MOVIE",Остров фантазий [США/2020]
+http://dmi3y-tv6.ru/hls/film/OSTROV_FANTAZIY.m3u8
+#EXTINF:-1 group-title="MOVIE",Горец [ВЕЛИКОБРИТАНИЯ/1986]
+http://dmi3y-tv6.ru/hls/film/GORETS.m3u8
+#EXTINF:-1 group-title="MOVIE",Горец 2: Оживление [ВЕЛИКОБРИТАНИЯ/1990]
+http://dmi3y-tv6.ru/hls/film/GORETS2.m3u8
+#EXTINF:-1 group-title="MOVIE",Горец 3: Последнее измерение [ВЕЛИКОБРИТАНИЯ/1994]
+http://dmi3y-tv6.ru/hls/film/GORETS3.m3u8
+#EXTINF:-1 group-title="MOVIE",Химера [США/2009]
+http://dmi3y-tv6.ru/hls/film/HIMERA.m3u8
+#EXTINF:-1 group-title="MOVIE",Отмель [США/2016]
+http://dmi3y-tv6.ru/hls/film/OTMEL.m3u8
+#EXTINF:-1 group-title="MOVIE",Снегурочка против всех [США/2021]
+http://dmi3y-tv6.ru/hls/film/SNEGUROCHKA_PROTIV_VSEH.m3u8
+#EXTINF:-1 group-title="MOVIE",Проклятие [США/2020]
+http://dmi3y-tv6.ru/hls/film/PROKLYATIE.m3u8
+#EXTINF:-1 group-title="MOVIE",Батарейки не прилагаются [США/1987]
+http://dmi3y-tv6.ru/hls/film/BATAREYKI_NE_PRILAGAYUTSYA.m3u8
+#EXTINF:-1 group-title="MOVIE",Заклинание [США/2020]
+http://dmi3y-tv6.ru/hls/film/ZAKLINANIE.m3u8
+#EXTINF:-1 group-title="MOVIE",Гори. гори ясно [США/2019]
+http://dmi3y-tv6.ru/hls/film/GORI_GORI_YASNO.m3u8
+#EXTINF:-1 group-title="MOVIE",Исчезнувшая [США/2014]
+http://dmi3y-tv6.ru/hls/film/ISCHEZNUVSHAYA.m3u8
+#EXTINF:-1 group-title="MOVIE",На пятьдесят оттенков темнее [США/2017]
+http://dmi3y-tv6.ru/hls/film/NA_50_OTTENKOV_TEMNEE.m3u8
+#EXTINF:-1 group-title="MOVIE",Девушка. которая застряла в паутине [США/2018]
+http://dmi3y-tv6.ru/hls/film/DEVUSHKA_KOTORAYA_ZASTRYALA_V_PAUTINE.m3u8
+#EXTINF:-1 group-title="MOVIE",Нападение на 13-й участок [США/2005]
+http://dmi3y-tv6.ru/hls/film/NAPADENIE_NA_13_UCHASTOK.m3u8
+#EXTINF:-1 group-title="MOVIE",Война миров [США/2005]
+http://dmi3y-tv6.ru/hls/film/VOYNA_MIROV.m3u8
+#EXTINF:-1 group-title="MOVIE",Курьер из Рая [РОССИЯ/2013]
+http://dmi3y-tv6.ru/hls/film/KURER_IZ_RAYA.m3u8
+#EXTINF:-1 group-title="MOVIE",Хранители [США/2009]
+http://dmi3y-tv6.ru/hls/film/HRANITELI.m3u8
+#EXTINF:-1 group-title="MOVIE",Когда звонит незнакомец [США/2006]
+http://dmi3y-tv6.ru/hls/film/KOGDA_ZVONIT_NEZNAKOMETS.m3u8
+#EXTINF:-1 group-title="MOVIE",Шальная карта [США/2014]
+http://dmi3y-tv6.ru/hls/film/SHALNAYA_KARTA.m3u8
+#EXTINF:-1 group-title="MOVIE",Голодные игры [США/2012]
+http://dmi3y-tv6.ru/hls/film/GOLODNYE_IGRY.m3u8
+#EXTINF:-1 group-title="MOVIE",Голодные игры: И вспыхнет пламя [США/2013]
+http://dmi3y-tv6.ru/hls/film/GOLODNYE_IGRY_I_VSPYHNET_PLAMYA.m3u8
+#EXTINF:-1 group-title="MOVIE",Tomb Raider. Лара Крофт [США/2018]
+http://dmi3y-tv6.ru/hls/film/TOMB_RAIDER_LARA_KROFT.m3u8
+#EXTINF:-1 group-title="MOVIE",Амундсен [США/2019]
+http://dmi3y-tv6.ru/hls/film/AMUNDSEN.m3u8
+#EXTINF:-1 group-title="MOVIE",Дракула [США/2014]
+http://dmi3y-tv6.ru/hls/film/DRAKULA.m3u8
+#EXTINF:-1 group-title="MOVIE",Геракл: Начало легенды [США/2014]
+http://dmi3y-tv6.ru/hls/film/GERAKL_NACHALO_LEGENDY.m3u8
+#EXTINF:-1 group-title="MOVIE",Штурм Белого дома [США/2013]
+http://dmi3y-tv6.ru/hls/film/SHTURM_BELOGO_DOMA.m3u8
+#EXTINF:-1 group-title="MOVIE",Рыжая Соня [США/1985]
+http://dmi3y-tv6.ru/hls/film/RYZHAYA_SONYA.m3u8
+#EXTINF:-1 group-title="MOVIE",Возмездие [США/2010]
+http://dmi3y-tv6.ru/hls/film/VOZMEZDIE.m3u8
+#EXTINF:-1 group-title="MOVIE",Челюсти [США/1975]
+http://dmi3y-tv6.ru/hls/film/CHELYUSTI.m3u8
+#EXTINF:-1 group-title="MOVIE",Челюсти 2 [США/1978]
+http://dmi3y-tv6.ru/hls/film/CHELYUSTI2.m3u8
+#EXTINF:-1 group-title="MOVIE",Привидение [США/1990]
+http://dmi3y-tv6.ru/hls/film/PRIVIDENIE.m3u8
+#EXTINF:-1 group-title="MOVIE",С меня хватит [США/2002]
+http://dmi3y-tv6.ru/hls/film/S_MENYA_HVATIT.m3u8
+#EXTINF:-1 group-title="MOVIE",Невидимка [США/2000]
+http://dmi3y-tv6.ru/hls/film/NEVIDIMKA.m3u8
+#EXTINF:-1 group-title="MOVIE",Тренер Картер [США/2005]
+http://dmi3y-tv6.ru/hls/film/TRENER_KARTER.m3u8
+#EXTINF:-1 group-title="MOVIE",Робин Гуд [США/2010]
+http://dmi3y-tv6.ru/hls/film/ROBIN_GUD.m3u8
+#EXTINF:-1 group-title="MOVIE",Страшно красив [США/2011]
+http://dmi3y-tv6.ru/hls/film/STRASHNO_KRASIV.m3u8
+#EXTINF:-1 group-title="MOVIE",Зелёный Шершень [США/2011]
+http://dmi3y-tv6.ru/hls/film/ZELENY_SHERSHEN.m3u8
+#EXTINF:-1 group-title="MOVIE",Территория [РОССИЯ/2014]
+http://dmi3y-tv6.ru/hls/film/TERRITORIYA.m3u8
+#EXTINF:-1 group-title="MOVIE",2012 [США/2009]
+http://dmi3y-tv6.ru/hls/film/2012.m3u8
+#EXTINF:-1 group-title="MOVIE",Проводник [РОССИЯ/2018]
+http://dmi3y-tv6.ru/hls/film/PROVODNIK.m3u8
+#EXTINF:-1 group-title="MOVIE",Ускорение [США/2015]
+http://dmi3y-tv6.ru/hls/film/USKORENIE.m3u8
+#EXTINF:-1 group-title="MOVIE",Демон внутри [США/2016]
+http://dmi3y-tv6.ru/hls/film/DEMON_VNUTRI.m3u8
+#EXTINF:-1 group-title="MOVIE",Пассажир [США/2018]
+http://dmi3y-tv6.ru/hls/film/PASSAZHIR.m3u8
+#EXTINF:-1 group-title="MOVIE",Он - дракон [РОССИЯ/2015]
+http://dmi3y-tv6.ru/hls/film/ON_DRAKON.m3u8
+#EXTINF:-1 group-title="MOVIE",Призрак дома на холме [США/1999]
+http://dmi3y-tv6.ru/hls/film/PRIZRAK_DOMA_NA_HOLME.m3u8
+#EXTINF:-1 group-title="MOVIE",Пес под прикрытием [США/2019]
+http://dmi3y-tv6.ru/hls/film/PES_POD_PRIKRYTIEM.m3u8
+#EXTINF:-1 group-title="MOVIE",Супер Такса [США/2015]
+http://dmi3y-tv6.ru/hls/film/SUPER_TAKSA.m3u8
+#EXTINF:-1 group-title="MOVIE",Титан [США/2018]
+http://dmi3y-tv6.ru/hls/film/TITAN.m3u8
+#EXTINF:-1 group-title="MOVIE",Пакт [США/2011]
+http://dmi3y-tv6.ru/hls/film/PAKT.m3u8
+#EXTINF:-1 group-title="MOVIE",Пакт 2 [США/2014]
+http://dmi3y-tv6.ru/hls/film/PAKT2.m3u8
+#EXTINF:-1 group-title="MOVIE",Лэйк Плэсид: Озеро страха [США/1999]
+http://dmi3y-tv6.ru/hls/film/LEYK_PLESID_OZERO_STRAHA.m3u8
+#EXTINF:-1 group-title="MOVIE",Трудная мишень [США/1993]
+http://dmi3y-tv6.ru/hls/film/TRUDNAYA_MISHEN.m3u8
+#EXTINF:-1 group-title="MOVIE",Инкассатор [США/2009]
+http://dmi3y-tv6.ru/hls/film/INKASSATOR.m3u8
+#EXTINF:-1 group-title="MOVIE",Школа выживания [США/2008]
+http://dmi3y-tv6.ru/hls/film/SHKOLA_VYZHIVANIYA.m3u8
+#EXTINF:-1 group-title="MOVIE",Отчаянный [США/1995]
+http://dmi3y-tv6.ru/hls/film/OTCHAYANNY.m3u8
+#EXTINF:-1 group-title="MOVIE",Патриот [США/2000]
+http://dmi3y-tv6.ru/hls/film/PATRIOT.m3u8
+#EXTINF:-1 group-title="MOVIE",Остров головорезов [США/1995]
+http://dmi3y-tv6.ru/hls/film/OSTROV_GOLOVOREZOV.m3u8
+#EXTINF:-1 group-title="MOVIE",Затура: Космическое приключение [США/2005]
+http://dmi3y-tv6.ru/hls/film/ZATURA_KOSMICHESKOE_PRIKLYUCHENIE.m3u8
+#EXTINF:-1 group-title="MOVIE",Морпехи [США/2005]
+http://dmi3y-tv6.ru/hls/film/MORPEHI.m3u8
+#EXTINF:-1 group-title="MOVIE",Птичка на проводе [США/1990]
+http://dmi3y-tv6.ru/hls/film/PTICHKA_NA_PROVODE.m3u8
+#EXTINF:-1 group-title="MOVIE",Легион [США/2010]
+http://dmi3y-tv6.ru/hls/film/LEGION.m3u8
+#EXTINF:-1 group-title="MOVIE",Святые из Бундока 2. День всех святых [США/2009]
+http://dmi3y-tv6.ru/hls/film/SVYATYE_IZ_BUNDOKA2.m3u8
+#EXTINF:-1 group-title="MOVIE",Лучший стрелок [США/1986]
+http://dmi3y-tv6.ru/hls/film/LUCHSHIY_STRELOK.m3u8
+#EXTINF:-1 group-title="MOVIE",Короли улиц [США/2008]
+http://dmi3y-tv6.ru/hls/film/KOROLI_ULITS.m3u8
+#EXTINF:-1 group-title="MOVIE",Красотки в бегах [США/2015]
+http://dmi3y-tv6.ru/hls/film/KRASOTKI_V_BEGAH.m3u8
+#EXTINF:-1 group-title="MOVIE",Голодный кролик атакует [США/2011]
+http://dmi3y-tv6.ru/hls/film/GOLODNY_KROLIK_ATAKUET.m3u8
+#EXTINF:-1 group-title="MOVIE",Последний рубеж [США/2013]
+http://dmi3y-tv6.ru/hls/film/POSLEDNIY_RUBEZH.m3u8
+#EXTINF:-1 group-title="MOVIE",Спасатели Малибу [ВЕЛИКОБРИТАНИЯ/2017]
+http://dmi3y-tv6.ru/hls/film/SPASATELI_MALIBU.m3u8
+#EXTINF:-1 group-title="MOVIE",Охранник [США/2006]
+http://dmi3y-tv6.ru/hls/film/OHRANNIK.m3u8
+#EXTINF:-1 group-title="MOVIE",Великолепная семёрка [США/2016]
+http://dmi3y-tv6.ru/hls/film/VELIKOLEPNAYA7.m3u8
+#EXTINF:-1 group-title="MOVIE",Код апокалипсиса [РОССИЯ/2007]
+http://dmi3y-tv6.ru/hls/film/KOD_APOKALIPSISA.m3u8
+#EXTINF:-1 group-title="MOVIE",Герой [КИТАЙ/2002]
+http://dmi3y-tv6.ru/hls/film/GEROY.m3u8
+#EXTINF:-1 group-title="MOVIE",Три метра над уровнем неба [ИСПАНИЯ/2010]
+http://dmi3y-tv6.ru/hls/film/3METRA_NAD_UROVNEM_NEBA.m3u8
+#EXTINF:-1 group-title="MOVIE",Анна [США/2019]
+http://dmi3y-tv6.ru/hls/film/ANNA.m3u8
+#EXTINF:-1 group-title="MOVIE",Расправа [США/2018]
+http://dmi3y-tv6.ru/hls/film/RASPRAVA.m3u8
+#EXTINF:-1 group-title="MOVIE",Образцовый самец 2 [США/2016]
+http://dmi3y-tv6.ru/hls/film/OBRAZTSOVY_SAMETS2.m3u8
+#EXTINF:-1 group-title="MOVIE",Смоки и Бандит [США/1977]
+http://dmi3y-tv6.ru/hls/film/SMOKI_I_BANDIT.m3u8
+#EXTINF:-1 group-title="MOVIE",Предвестники бури [США/2004]
+http://dmi3y-tv6.ru/hls/film/PREDVESTNIKI_BURI.m3u8
+#EXTINF:-1 group-title="MOVIE",В ночи [США/1985]
+http://dmi3y-tv6.ru/hls/film/V_NOCHI.m3u8
+#EXTINF:-1 group-title="MOVIE",На крючке [США/2008]
+http://dmi3y-tv6.ru/hls/film/NA_KRYUCHKE.m3u8
+#EXTINF:-1 group-title="MOVIE",Doom [США/2005]
+http://dmi3y-tv6.ru/hls/film/DOOM.m3u8
+#EXTINF:-1 group-title="MOVIE",Четыре пера [США/2002]
+http://dmi3y-tv6.ru/hls/film/CHETYRE_PERA.m3u8
+#EXTINF:-1 group-title="MOVIE",Сделка с дьяволом [США/2006]
+http://dmi3y-tv6.ru/hls/film/SDELKA_S_DYAVOLOM.m3u8
+#EXTINF:-1 group-title="MOVIE",Преступить черту [ИСПАНИЯ/2020]
+http://dmi3y-tv6.ru/hls/film/PRESTUPIT_CHERTU.m3u8
+#EXTINF:-1 group-title="MOVIE",Никто [США/2021]
+http://dmi3y-tv6.ru/hls/film/NIKTO.m3u8
+#EXTINF:-1 group-title="MOVIE",Дюна [США/1984]
+http://dmi3y-tv6.ru/hls/film/DYUNA_1984.m3u8
+#EXTINF:-1 group-title="MOVIE",Банда Келли [США/2003]
+http://dmi3y-tv6.ru/hls/film/BANDA_KELLI.m3u8
+#EXTINF:-1 group-title="MOVIE",Пипец 2 [США/2013]
+http://dmi3y-tv6.ru/hls/film/PIPETS2.m3u8
+#EXTINF:-1 group-title="MOVIE",Пушки Акимбо [ВЕЛИКОБРИТАНИЯ/2019]
+http://dmi3y-tv6.ru/hls/film/PUSHKI_AKIMBO.m3u8
+#EXTINF:-1 group-title="MOVIE",Лес самоубийц [США/2015]
+http://dmi3y-tv6.ru/hls/film/LES_SAMOUBIYTS.m3u8
+#EXTINF:-1 group-title="MOVIE",Перспектива [США/2018]
+http://dmi3y-tv6.ru/hls/film/PERSPEKTIVA.m3u8
+#EXTINF:-1 group-title="MOVIE",Обитель теней [ИСПАНИЯ/2017]
+http://dmi3y-tv6.ru/hls/film/OBITEL_TENEY.m3u8
+#EXTINF:-1 group-title="MOVIE",Космос [ВЕЛИКОБРИТАНИЯ/2019]
+http://dmi3y-tv6.ru/hls/film/KOSMOS.m3u8
+#EXTINF:-1 group-title="MOVIE",Машина [ВЕЛИКОБРИТАНИЯ/2013]
+http://dmi3y-tv6.ru/hls/film/MASHINA.m3u8
+#EXTINF:-1 group-title="MOVIE",Помешанный на времени [США/2018]
+http://dmi3y-tv6.ru/hls/film/POMESHANNY_NA_VREMENI.m3u8
+#EXTINF:-1 group-title="MOVIE",Эксперимент: Зло [США/2013]
+http://dmi3y-tv6.ru/hls/film/EKSPERIMENT_ZLO.m3u8
+#EXTINF:-1 group-title="MOVIE",Я. Франкенштейн [США/2013]
+http://dmi3y-tv6.ru/hls/film/YA_FRANKENSHTEYN.m3u8
+#EXTINF:-1 group-title="MOVIE",Оружейный барон [США/2005]
+http://dmi3y-tv6.ru/hls/film/ORUZHEYNY_BARON.m3u8
+#EXTINF:-1 group-title="MOVIE",Его собачье дело [США/2016]
+http://dmi3y-tv6.ru/hls/film/EGO_SOBACHE_DELO.m3u8
+#EXTINF:-1 group-title="MOVIE",Полночь на злаковом поле [США/2021]
+http://dmi3y-tv6.ru/hls/film/POLNOCH_NA_ZLAKOVOM_POLE.m3u8
+#EXTINF:-1 group-title="MOVIE",Приключения Паддингтона 2 [ВЕЛИКОБРИТАНИЯ/2017]
+http://dmi3y-tv6.ru/hls/film/PRIKLYUCHENIYA_PADDINGTONA2.m3u8
+#EXTINF:-1 group-title="MOVIE",Сингулярность [США/2017]
+http://dmi3y-tv6.ru/hls/film/SINGULYARNOST.m3u8
+#EXTINF:-1 group-title="MOVIE",Сердце из стали [КИТАЙ/2017]
+http://dmi3y-tv6.ru/hls/film/SERDCE_IZ_STALI.m3u8
+#EXTINF:-1 group-title="MOVIE",Валериан и город тысячи планет [США/2017]
+http://dmi3y-tv6.ru/hls/film/VALERIAN_I_GOROD_1000_PLANET.m3u8
+#EXTINF:-1 group-title="MOVIE",Хоббит: Нежданное путешествие [США/2012]
+http://dmi3y-tv6.ru/hls/film/HOBBIT_NEZHDANNOE_PUTESHESTVIE.m3u8
+#EXTINF:-1 group-title="MOVIE",Хоббит: Пустошь Смауга [США/2013]
+http://dmi3y-tv6.ru/hls/film/HOBBIT_PUSTOSH_SMAUGA.m3u8
+#EXTINF:-1 group-title="MOVIE",Хоббит: Битва пяти воинств [США/2014]
+http://dmi3y-tv6.ru/hls/film/HOBBIT_BITVA_5TI_VOINSTV.m3u8
+
+#EXTINF:-1 group-title="Новости" tvg-id="2266", EuroNews
+https://flussonic.salomtv.uz/EURONEWS/video.m3u8
+
+#EXTINF:-1 group-title="Новости", DW Russia
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
+
+#EXTINF:-1 group-title="Новости", CNN
+https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 group-title="Новости", BBC World News
+https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vpx7bvwjm7ao/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
+
+#EXTINF:-1 group-title="Новости", RT News
+http://dmi3y-tv6.ru/hls/CH_RTHD.m3u8
+
+#EXTINF:-1 group-title="Новости", Sky News Live HD
+
+
+#EXTINF:-1 group-title="Новости", ABC News HD
+
+
+#EXTINF:-1 group-title="Новости", CNBC HD
+
+
+#EXTINF:-1 group-title="Новости", NBC HD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
