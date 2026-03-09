@@ -116,7 +116,7 @@ http://fashion.mediacdn.ru/cdn/fashiontv/tracks-v1a1/mono.m3u8
 http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 
 #EXTINF:-1 group-title="Fashion" tvg-id="2383",Fashion and LifeStyle HD
-
+http://31.148.48.15/Fashion_One_HD/index.m3u8
 
 #EXTINF:-1 group-title="Fashion" tvg-id="2242", World Fashion Channel En
 http://cdn.wfc.tv/cdn/stream-eng-1080p.m3u8
@@ -1316,6 +1316,7 @@ http://dmi3y-tv6.ru/hls/CH_RTHD.m3u8
 
 
 #EXTINF:-1 group-title="Новости", NBC HD
+
 
 
 
