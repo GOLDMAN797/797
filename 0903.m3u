@@ -22,17 +22,17 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 http://dmi3y-tv6.ru/hls/smotrim/T2/CH_RUSSIA24HD.m3u8
 
 #EXTINF:-1 group-title="Эфир" tvg-id="79", СТС
-http://31.131.141.195:8000/play/2030/index.m3u8
+
 
 #EXTINF:-1 group-title="Эфир" tvg-id="18", РенТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 
 #EXTINF:-1 group-title="Эфир" tvg-id="1003", Пятница
-https://vod.tuva.ru/friday/index.m3u8
 
-#EXTINF:-1 group-title="Эфир" tvg-id="353", ТНТ HD
-http://tchaikovsky.af-stream.com:8080/s/za8acfq4/tnt-hd/video.m3u8
+
+#EXTINF:-1 group-title="Эфир" tvg-id="353", ТНТ
+http://185.46.16.239:8000/TNT
 
 #EXTINF:-1 group-title="Эфир" tvg-id="tnt4", ТНТ4
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -63,7 +63,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 
 
 #EXTINF:-1 group-title="Развлечение" tvg-id="325", Discovery Channel
-https://fl1001.bozztv.com/ushba28/index.m3u8
+http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
 
 #EXTINF:-1 group-title="Развлечение" tvg-id="1394", History
 
@@ -313,19 +313,19 @@ http://dmi3y-tv6.ru/hls/CH_TNTMUSICHD.m3u8
 http://dmi3y-tv6.ru/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-id="1013", viju+ Premiere
-
+https://stream2.somon.tv/vippremiera/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-id="1012", viju+ Megahit
-
+https://stream2.somon.tv/vipmegahit/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-id="1011", viju+ Comedy
-
+https://stream2.somon.tv/vipcomedy/index.m3u8
 
 #EXTINF:-1 group-title="Кино", viju+ Serial
-
+https://stream2.somon.tv/vipserial/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-id="127", TV1000
-
+http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-id="125", TV1000 action
 https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
@@ -343,7 +343,7 @@ https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-id="352",Еврокино
-http://dmi3y-tv6.ru/hls/CH_EVROKINO.m3u8
+http://158.101.222.193:88/georgia_play.php?id=eurokino
 
 #EXTINF:-1 group-title="Кино" tvg-id="3357", Мосфильм. Золотая коллекция
 
@@ -398,7 +398,7 @@ https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
 http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-id="1037", Кино ТВ
-http://dmi3y-tv6.ru/hls/CH_KINOTV.m3u8
+http://31.148.48.15:80/Kino_TV_HD/index.m3u8
 
 #EXTINF:-1 group-title="Кино", Viasat Kino Action HD
 
@@ -446,7 +446,7 @@ http://176.118.197.125/Black/index.m3u8
 http://86.57.209.210/Sci-Fi/index.m3u8
 
 #EXTINF:-1 group-title="Кино", .red
-http://188.225.31.197/bpk-tv/000000213/tve/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=red
 
 #EXTINF:-1 group-title="Кино", Suspense HD
 
@@ -476,20 +476,23 @@ http://188.225.31.197/bpk-tv/000000213/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="309", TV XXI
 
 
-#EXTINF:-1 group-title="Кино", FX Life
+#EXTINF:-1 group-title="Кино", FX
+http://188.225.31.197/bpk-tv/000004472/tve/index.m3u8
 
+#EXTINF:-1 group-title="Кино", FX life
+http://188.225.31.197/bpk-tv/000004471/tve/index.m3u8
 
 #EXTINF:-1 group-title="Кино", Kino24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-id="6643", Plan_B HD
-
+http://188.225.31.197/bpk-tv/000007625/tve/index.m3u8
 
 #EXTINF:-1 group-title="Кино", Start Air HD
 http://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 
 #EXTINF:-1 group-title="Кино", Start World HD
-
+http://188.225.31.197/bpk-tv/000007818/tve/index.m3u8
 
 #EXTINF:-1 group-title="Кино", Комедия
 
@@ -1316,6 +1319,7 @@ http://dmi3y-tv6.ru/hls/CH_RTHD.m3u8
 
 
 #EXTINF:-1 group-title="Новости", NBC HD
+
 
 
 
