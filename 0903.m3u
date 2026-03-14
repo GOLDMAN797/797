@@ -259,13 +259,13 @@ https://stream8.cinerama.uz/1419/tracks-v1a1/mono.m3u8
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
 
 #EXTINF:-1 group-title="Спорт" tvg-id="2044", Матч! Футбол 1
-http://cdntv.online/low/9mlxywika2/55.m3u8
+http://fastopen.live:8080/FcSgD9oNqT/6M4xot9jad/3982
 
 #EXTINF:-1 group-title="Спорт" tvg-id="1042", Матч! Футбол 2
-
+http://fastopen.live:8080/FcSgD9oNqT/6M4xot9jad/3981
 
 #EXTINF:-1 group-title="Спорт" tvg-id="2005", Матч! Футбол 3
-
+http://fastopen.live:8080/FcSgD9oNqT/6M4xot9jad/3980
 
 #EXTINF:-1 group-title="Спорт" tvg-id="7517", Setanta Sports 1 HD
 https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
