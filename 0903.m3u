@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml"
 
 #EXTINF:-1 group-title="Эфир" tvg-id="146",Первый канал
-http://31.148.48.15:80/Pervii_kanal_HD/index.m3u8
+http://cdntv.online/high/v6rf4syijn/1.m3u8
 
 #EXTINF:-1 group-title="Эфир" tvg-id="711", Россия 1
 http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
@@ -13,7 +13,7 @@ http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_
 http://dmi3y-tv6.ru/hls/T2/CH_NTVHD.m3u8
 
 #EXTINF:-1 group-title="Эфир" tvg-id="427", Пятый канал
-
+http://cdntv.online/high/v6rf4syijn/5.m3u8
 
 #EXTINF:-1 group-title="Эфир" tvg-id="187",Россия Культура
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
@@ -22,23 +22,22 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 http://dmi3y-tv6.ru/hls/smotrim/T2/CH_RUSSIA24HD.m3u8
 
 #EXTINF:-1 group-title="Эфир" tvg-id="79", СТС
-http://185.46.16.239:8000/STS
+http://cdntv.online/high/v6rf4syijn/13.m3u8
 
 #EXTINF:-1 group-title="Эфир" tvg-id="18", РенТВ
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+http://cdntv.online/high/v6rf4syijn/11.m3u8
 
 #EXTINF:-1 group-title="Эфир" tvg-id="1003", Пятница
-http://185.46.16.239:8000/Pyatnitsa
+http://cdntv.online/high/v6rf4syijn/16.m3u8
 
 #EXTINF:-1 group-title="Эфир" tvg-id="353", ТНТ
-http://185.46.16.239:8000/TNT
+http://cdntv.online/high/v6rf4syijn/19.m3u8
 
 #EXTINF:-1 group-title="Эфир" tvg-id="tnt4", ТНТ4
-http://31.148.48.15/TNT4/tracks-v1a1/mono.m3u8
+http://cdntv.online/high/v6rf4syijn/28.m3u8
 
 #EXTINF:-1 group-title="Эфир" tvg-id="649", ТВЦ
-http://5.188.221.43:8080/play/tv-centr
+http://cdntv.online/high/v6rf4syijn/10.m3u8
 
 #EXTINF:-1 group-title="Эфир" tvg-id="405", Звезда
 http://dmi3y-tv6.ru/hls/T2/CH_ZVEZDAHD.m3u8
@@ -50,21 +49,20 @@ http://dmitry-tv.ddns.net/hls/T2/CH_MIRHD.m3u8
 http://dmi3y-tv6.ru/hls/CH_VMESTERFHD.m3u8
 
 #EXTINF:-1 group-title="Эфир" tvg-id="1000", OTP
-https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_OTR_KLNG_FILIAL/variant.m3u8
+http://cdntv.online/high/v6rf4syijn/9.m3u8
 
 #EXTINF:-1 group-title="Эфир" tvg-id="698", ТВ3
-http://dmitry-tv.ddns.net/hls/T2/CH_TV3_4.m3u8
+http://cdntv.online/high/v6rf4syijn/15.m3u8
 
 #EXTINF:0 group-title="Эфир" tvg-id="domashnij-hd",Домашний
-http://193.25.8.59:8000/dom
-
+http://193.25.8.59:8000/domhttp://cdntv.online/high/v6rf4syijn/14.m3u8
 
 
 #EXTINF:-1 group-title="Развлечение" tvg-id="325", Discovery Channel
 http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
 
 #EXTINF:-1 group-title="Развлечение" tvg-id="1394", History
-
+http://cdntv.online/high/v6rf4syijn/443.m3u8
 
 #EXTINF:-1 group-title="Развлечение" tvg-id="2356", H2
 
@@ -191,13 +189,13 @@ http://188.225.31.197/bpk-tv/000000286/tve/index.m3u8
 https://stream8.cinerama.uz/1247/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Развлечение" tvg-id="277", Viasat History HD
-http://188.225.31.197/bpk-tv/000005528/tve/index.m3u8
+http://cdntv.online/high/v6rf4syijn/318.m3u8
 
-#EXTINF:-1 group-title="Развлечение" tvg-id="viasat-history-hd-test" tvg-rec="7" catchup-days="7",Viju+ planet HD
-
+#EXTINF:-1 group-title="Развлечение" tvg-id="viasat-history-hd-test" tvg-rec="7" catchup-days="7",Viju+ Nature
+http://cdntv.online/high/v6rf4syijn/319.m3u8
 
 #EXTINF:-1 group-title="Развлечение" tvg-id="521", viju Explore HD
-
+http://cdntv.online/high/v6rf4syijn/317.m3u8
 
 #EXTINF:-1 group-title="Развлечение", Curiosity Stream
 
@@ -260,13 +258,13 @@ https://stream8.cinerama.uz/1419/tracks-v1a1/mono.m3u8
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
 
 #EXTINF:-1 group-title="Спорт" tvg-id="2044", Матч! Футбол 1
-http://31.148.48.15/Match_Futbol_1_HD/index.m3u8
+http://cdntv.online/high/v6rf4syijn/55.m3u8
 
 #EXTINF:-1 group-title="Спорт" tvg-id="1042", Матч! Футбол 2
-http://31.148.48.15/Match_Futbol_2_HD/mono.m3u8
+http://cdntv.online/high/v6rf4syijn/56.m3u8
 
 #EXTINF:-1 group-title="Спорт" tvg-id="2005", Матч! Футбол 3
-http://185.57.68.33/110/mpegts
+http://cdntv.online/high/v6rf4syijn/57.m3u8
 
 #EXTINF:-1 group-title="Спорт" tvg-id="7517", Setanta Sports 1 HD
 https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
@@ -278,7 +276,7 @@ https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 http://b63fa420.ucomist.net/iptv/7FH9M9TCK4LU2H/141/index.m3u8
 
 #EXTINF:-1 group-title="Спорт", Eurosport 2 HD
-
+http://cdntv.online/high/v6rf4syijn/39.m3u8
 
 #EXTINF:-1 group-title="Спорт" tvg-id="4656", Sky Sports F1
 https://bl.rutube.ru/livestream/e5df6984021365a58b3ba22dab2f670a/index.m3u8?s=q6A8YumKVXTF4z7kUCastQ&e=2065612807&scheme=https
@@ -312,25 +310,25 @@ http://dmi3y-tv6.ru/hls/CH_TNTMUSICHD.m3u8
 http://dmi3y-tv6.ru/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-id="1013", viju+ Premiere
-http://185.46.16.239:8000/VIP_Premiere
+http://cdntv.online/high/v6rf4syijn/106.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-id="1012", viju+ Megahit
-http://185.46.16.239:8000/VIP_Megahit
+http://cdntv.online/high/v6rf4syijn/105.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-id="1011", viju+ Comedy
-http://188.225.31.197/bpk-tv/000000870/tve/index.m3u8
+http://cdntv.online/high/v6rf4syijn/104.m3u8
 
 #EXTINF:-1 group-title="Кино", viju+ Serial
-https://stream2.somon.tv/vipserial/index.m3u8
+http://cdntv.online/high/v6rf4syijn/107.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-id="127", TV1000
-http://176.96.241.40/TV1000/index.m3u8
+http://cdntv.online/high/v6rf4syijn/103.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-id="125", TV1000 action
-http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
+http://cdntv.online/high/v6rf4syijn/101.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-id="267", TV1000 Русское кино
-https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
+http://cdntv.online/high/v6rf4syijn/102.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-id="trash-hd" tvg-rec="7" catchup-days="7",Trash HD
 
@@ -351,7 +349,7 @@ http://178.134.1.158:8081/mosfilm/index.m3u8
 https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-id="2020", Дом Кино Премиум
-
+http://cdntv.online/high/v6rf4syijn/112.m3u8
 
 #EXTINF:-1 group-title="Кино", Мужское кино
 https://stream8.cinerama.uz/1237/tracks-v1a1/mono.m3u8
@@ -397,7 +395,7 @@ http://31.148.48.15/Kinopokaz/index.m3u8
 http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-id="1037", Кино ТВ
-http://185.46.16.239:8000/Kino_TV
+http://cdntv.online/high/v6rf4syijn/117.m3u8
 
 #EXTINF:-1 group-title="Кино", Viasat Kino Action HD
 
