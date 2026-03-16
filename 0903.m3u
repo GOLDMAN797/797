@@ -67,6 +67,9 @@ http://cdntv.online/high/v6rf4syijn/443.m3u8
 #EXTINF:-1 group-title="Развлечение" catchup="shift" catchup-days="3" timeshift="3" tvg-id="2356", H2
 http://cdntv.online/high/v6rf4syijn/986.m3u8
 
+#EXTINF:-1 group-title="Развлечение",Discovery Science
+http://boxviptv.net:25461/ceyhunaslanov/445566vvv/246
+
 #EXTINF:-1 group-title="Развлечение" catchup="shift" catchup-days="3" timeshift="3",Animal Planet
 http://cdntv.online/high/v6rf4syijn/296.m3u8
 
