@@ -33,7 +33,7 @@ http://cdntv.online/high/v6rf4syijn/35.m3u8
 #EXTINF:-1 group-title="Эфир" catchup="shift" catchup-days="3" timeshift="3" tvg-id="353", ТНТ
 http://cdntv.online/high/v6rf4syijn/19.m3u8
 
-#EXTINF:-1 group-title="Эфир" catchup="shift" catchup-days="3" timeshift="3" tvg-id="tnt4", ТНТ4
+#EXTINF:-1 group-title="Эфир" catchup="shift" catchup-days="3" timeshift="3" tvg-id="7978", ТНТ4
 http://cdntv.online/high/v6rf4syijn/28.m3u8
 
 #EXTINF:-1 group-title="Эфир" catchup="shift" catchup-days="3" timeshift="3" tvg-id="649", ТВЦ
