@@ -261,7 +261,7 @@ https://bl.rutube.ru/livestream/e5df6984021365a58b3ba22dab2f670a/index.m3u8?s=q6
 #EXTINF:-1 group-title="Sport", TENNIS CHANNEL
 https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
 
-#EXTINF:-1 tvg-id="tnt-music" group-title="Музыка" ,FON music
+#EXTINF:-1 tvg-id="tnt-music" group-title="Music" ,FON music
 http://dmi3y-tv6.ru/hls/CH_TNTMUSICHD.m3u8
 
 
