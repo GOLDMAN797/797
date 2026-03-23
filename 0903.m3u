@@ -15,8 +15,8 @@ http://dmi3y-tv6.ru/hls/T2/CH_NTVHD.m3u8
 #EXTINF:-1 group-title="Central" catchup="shift" catchup-days="3" timeshift="3" tvg-id="427", Пятый канал
 http://cdntv.online/high/v6rf4syijn/5.m3u8
 
-#EXTINF:-1 group-title="Central" catchup="shift" catchup-days="3" timeshift="3" tvg-id="187",Россия Культура
-http://cdntv.online/high/v6rf4syijn/6.m3u8
+#EXTINF:-1 group-title="Central" tvg-id="187",Россия Культура
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 
 #EXTINF:-1 group-title="Central" tvg-id="1683", Россия 24
 http://dmi3y-tv6.ru/hls/smotrim/T2/CH_RUSSIA24HD.m3u8
@@ -364,7 +364,18 @@ http://cdntv.online/high/v6rf4syijn/906.m3u8
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", День победы
 http://cdntv.online/high/v6rf4syijn/907.m3u8
 
-
+#EXTINF:-1 group-title="Cinema",Смотрим 100% Классика
+https://player.smotrim.ru/iframe/stream/live_id/78a66c7c-df38-4091-b2e1-9eeeb4c96338
+#EXTINF:-1 group-title="Cinema",Смотрим 100% Любовь
+https://player.smotrim.ru/iframe/stream/live_id/0d85159d-e782-4260-ac99-ac8c55df4248
+#EXTINF:-1 group-title="Cinema",Смотрим 100% Мужское
+https://player.smotrim.ru/iframe/stream/live_id/30acd0b6-e010-4230-bad1-3af77619226d
+#EXTINF:-1 group-title="Cinema",Смотрим 100% Праздник
+https://player.smotrim.ru/iframe/stream/live_id/0cff8c9f-76c8-4b4a-9f23-90aa5a542564
+#EXTINF:-1 group-title="Cinema",Смотрим 100% Факты
+https://player.smotrim.ru/iframe/stream/live_id/02cbebc5-c55d-4a02-9370-7330c9e5d34f
+#EXTINF:-1 group-title="Cinema",Смотрим Честный Детектив
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Cinema", Чип и Дейл
