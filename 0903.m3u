@@ -25,10 +25,10 @@ http://dmi3y-tv6.ru/hls/smotrim/T2/CH_RUSSIA24HD.m3u8
 http://cdntv.online/high/v6rf4syijn/13.m3u8
 
 #EXTINF:-1 group-title="Central" catchup="shift" catchup-days="3" timeshift="3" tvg-id="18", РенТВ
-http://cdntv.online/high/v6rf4syijn/11.m3u8
+https://streaming.televizor-24-tochka.ru/live/14.m3u8
 
 #EXTINF:-1 group-title="Central" catchup="shift" catchup-days="3" timeshift="3" tvg-id="1003", Пятница
-http://cdntv.online/high/v6rf4syijn/35.m3u8
+https://streaming.televizor-24-tochka.ru/live/19.m3u8
 
 #EXTINF:-1 group-title="Central" catchup="shift" catchup-days="3" timeshift="3" tvg-id="353", ТНТ
 http://cdntv.online/high/v6rf4syijn/19.m3u8
