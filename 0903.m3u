@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml"
 
 #EXTINF:-1 group-title="Central" catchup="shift" catchup-days="3" timeshift="3" tvg-id="146",Первый канал
-http://cdntv.online/high/v6rf4syijn/29.m3u8
+https://mhd140.iptv2022.com/x/HZJTpt-1b1jh-SATR7hD7g,1774362188/streaming/1kanalott-drm/324/5/tracks-v5a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Central" tvg-id="711", Россия 1
 http://dmi3y-tv6.ru/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
@@ -13,7 +13,7 @@ http://cdntv.online/high/v6rf4syijn/48.m3u8
 http://dmi3y-tv6.ru/hls/T2/CH_NTVHD.m3u8
 
 #EXTINF:-1 group-title="Central" catchup="shift" catchup-days="3" timeshift="3" tvg-id="427", Пятый канал
-http://cdntv.online/high/v6rf4syijn/5.m3u8
+https://mhd128.iptv2022.com/x/YsTMGw1YsRhlVyz-ByKRvg,1774362260/streaming/5kanalott-drm/324/5/tracks-v4a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Central" tvg-id="187",Россия Культура
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
