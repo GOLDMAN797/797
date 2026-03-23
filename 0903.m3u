@@ -68,7 +68,7 @@ http://cdntv.online/high/v6rf4syijn/443.m3u8
 http://cdntv.online/high/v6rf4syijn/986.m3u8
 
 #EXTINF:-1 group-title="Main",Discovery Science
-http://boxviptv.net:25461/ceyhunaslanov/445566vvv/246
+
 
 #EXTINF:-1 group-title="Main" catchup="shift" catchup-days="3" timeshift="3",Animal Planet
 http://cdntv.online/high/v6rf4syijn/296.m3u8
@@ -1138,6 +1138,22 @@ http://dmi3y-tv6.ru/hls/film/HOBBIT_PUSTOSH_SMAUGA.m3u8
 #EXTINF:-1 group-title="Movie",Хоббит: Битва пяти воинств [США/2014]
 http://dmi3y-tv6.ru/hls/film/HOBBIT_BITVA_5TI_VOINSTV.m3u8
 
+#EXTINF:-1 group-title="Movie",Задача трёх тел 1 серия
+https://svd4.kvb.cool/video_mp4/serials/BodynProblem/3dbd73855fed8e917ccdf021f02a8697/s01e01_720.mp4
+#EXTINF:-1 group-title="Movie",Задача трёх тел 2 серия
+https://svd4.kvb.cool/video_mp4/serials/BodynProblem/3dbd73855fed8e917ccdf021f02a8697/s01e02_720.mp4
+#EXTINF:-1 group-title="Movie",Задача трёх тел 3 серия
+https://svd4.kvb.cool/video_mp4/serials/BodynProblem/3dbd73855fed8e917ccdf021f02a8697/s01e03_720.mp4
+#EXTINF:-1 group-title="Movie",Задача трёх тел 4 серия
+https://svd4.kvb.cool/video_mp4/serials/BodynProblem/3dbd73855fed8e917ccdf021f02a8697/s01e04_720.mp4
+#EXTINF:-1 group-title="Movie",Задача трёх тел 5 серия
+https://svd4.kvb.cool/video_mp4/serials/BodynProblem/3dbd73855fed8e917ccdf021f02a8697/s01e05_720.mp4
+#EXTINF:-1 group-title="Movie",Задача трёх тел 6 серия
+https://svd4.kvb.cool/video_mp4/serials/BodynProblem/3dbd73855fed8e917ccdf021f02a8697/s01e06_720.mp4
+#EXTINF:-1 group-title="Movie",Задача трёх тел 7 серия
+https://svd4.kvb.cool/video_mp4/serials/BodynProblem/3dbd73855fed8e917ccdf021f02a8697/s01e07_720.mp4
+#EXTINF:-1 group-title="Movie",Задача трёх тел 8 серия
+https://svd4.kvb.cool/video_mp4/serials/BodynProblem/3dbd73855fed8e917ccdf021f02a8697/s01e08_720.mp4
 
 
 
