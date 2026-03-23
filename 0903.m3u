@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml"
 
 #EXTINF:-1 group-title="Central" tvg-id="146",Первый канал
-https://mhd140.iptv2022.com/x/HZJTpt-1b1jh-SATR7hD7g,1774362188/streaming/1kanalott-drm/324/5/tracks-v5a1/mono.ts.m3u8
+
 
 #EXTINF:-1 group-title="Central" tvg-id="146",Первый канал
-https://mhd140.iptv2022.com/x/mDYpZZkSzB6uqv5NYUwq6A,1774363706/streaming/1kanalott/324/5/tracks-v5a1/mono.ts.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_1TV.m3u8
 
 #EXTINF:-1 group-title="Central" tvg-id="711", Россия 1
 http://dmi3y-tv6.ru/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
