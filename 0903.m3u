@@ -107,7 +107,7 @@ http://dmi3y-tv6.ru/hls/CH_RBKHD.m3u8
 http://188.225.31.197/bpk-tv/000000039/tve/index.m3u8
 
 #EXTINF:-1 group-title="Main", Red Bull TV  
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 #EXTINF:-1 group-title="Fashion" tvg-id="2491", Fashion TV  
 http://fashion.mediacdn.ru/cdn/fashiontv/tracks-v1a1/mono.m3u8
@@ -148,8 +148,8 @@ https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
 #EXTINF:-1 group-title="Main" catchup="shift" catchup-days="3" timeshift="3", HGTV  
 http://cdntv.online/high/v6rf4syijn/1033.m3u8
 
-#EXTINF:-1 group-title="Main" catchup="shift" catchup-days="3" timeshift="3",TV BRICS
-http://cdntv.online/high/v6rf4syijn/447.m3u8
+#EXTINF:-1 group-title="Main",TV BRICS
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="Main" tvg-id="2268", CGTN
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
