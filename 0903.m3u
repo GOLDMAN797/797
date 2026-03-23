@@ -3,14 +3,14 @@
 #EXTINF:-1 group-title="Central" catchup="shift" catchup-days="3" timeshift="3" tvg-id="146",Первый канал
 http://cdntv.online/high/v6rf4syijn/29.m3u8
 
-#EXTINF:-1 group-title="Central" catchup="shift" catchup-days="3" timeshift="3" tvg-id="711", Россия 1
-http://cdntv.online/high/v6rf4syijn/33.m3u8
+#EXTINF:-1 group-title="Central" tvg-id="711", Россия 1
+http://dmi3y-tv6.ru/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
 
 #EXTINF:-1 group-title="Central" catchup="shift" catchup-days="3" timeshift="3" tvg-id="2051", Матч!
 http://cdntv.online/high/v6rf4syijn/48.m3u8
 
-#EXTINF:-1 group-title="Central" catchup="shift" catchup-days="3" timeshift="3" tvg-id="162", НТВ
-http://cdntv.online/high/v6rf4syijn/4.m3u8
+#EXTINF:-1 group-title="Central" tvg-id="162", НТВ
+http://dmi3y-tv6.ru/hls/T2/CH_NTVHD.m3u8
 
 #EXTINF:-1 group-title="Central" catchup="shift" catchup-days="3" timeshift="3" tvg-id="427", Пятый канал
 http://cdntv.online/high/v6rf4syijn/5.m3u8
@@ -18,8 +18,8 @@ http://cdntv.online/high/v6rf4syijn/5.m3u8
 #EXTINF:-1 group-title="Central" catchup="shift" catchup-days="3" timeshift="3" tvg-id="187",Россия Культура
 http://cdntv.online/high/v6rf4syijn/6.m3u8
 
-#EXTINF:-1 group-title="Central" catchup="shift" catchup-days="3" timeshift="3" tvg-id="1683", Россия 24
-http://cdntv.online/high/v6rf4syijn/7.m3u8
+#EXTINF:-1 group-title="Central" tvg-id="1683", Россия 24
+http://dmi3y-tv6.ru/hls/smotrim/T2/CH_RUSSIA24HD.m3u8
 
 #EXTINF:-1 group-title="Central" catchup="shift" catchup-days="3" timeshift="3" tvg-id="79", СТС
 http://cdntv.online/high/v6rf4syijn/13.m3u8
@@ -39,11 +39,11 @@ http://cdntv.online/high/v6rf4syijn/28.m3u8
 #EXTINF:-1 group-title="Central" catchup="shift" catchup-days="3" timeshift="3" tvg-id="649", ТВЦ
 http://cdntv.online/high/v6rf4syijn/10.m3u8
 
-#EXTINF:-1 group-title="Central" catchup="shift" catchup-days="3" timeshift="3" tvg-id="405", Звезда
-http://cdntv.online/high/v6rf4syijn/17.m3u8
+#EXTINF:-1 group-title="Central" tvg-id="405", Звезда
+http://dmi3y-tv6.ru/hls/T2/CH_ZVEZDAHD.m3u8
 
-#EXTINF:-1 group-title="Central" catchup="shift" catchup-days="3" timeshift="3" tvg-id="726",Мир
-http://cdntv.online/high/v6rf4syijn/18.m3u8
+#EXTINF:-1 group-title="Central" tvg-id="726",Мир
+http://dmi3y-tv6.ru/hls/T2/CH_MIRHD.m3u8
 
 #EXTINF:-1 group-title="Central" tvg-id="vmeste-rf", Вместе-РФ
 http://dmi3y-tv6.ru/hls/CH_VMESTERFHD.m3u8
@@ -80,10 +80,13 @@ http://cdntv.online/high/v6rf4syijn/466.m3u8
 http://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe.m3u8
 
 #EXTINF:-1 group-title="News" tvg-id="doverie",Москва Доверие
-http://cdntv.online/high/v6rf4syijn/582.m3u8
 
-#EXTINF:-1 group-title="News" catchup="shift" catchup-days="3" timeshift="3" tvg-id="2265", 360°
-http://cdntv.online/high/v6rf4syijn/275.m3u8
+#EXTINF:-1 group-title="News" ,Россия 1 (Нальчик)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nalchik/russia1-hd/index.m3u8
+
+
+#EXTINF:-1 group-title="News" tvg-id="2265", 360°
+http://dmi3y-tv6.ru/hls/CH_360TVHD.m3u8
 
 #EXTINF:-1 group-title="Central"  tvg-id="mir-24-hd",Мир 24
 http://dmi3y-tv6.ru/hls/CH_MIR24HD.m3u8
@@ -131,7 +134,7 @@ https://player.smotrim.ru/iframe/stream/live_id/1a30bc46-0b5f-4f48-a3df-97e33bde
 http://cdntv.online/high/v6rf4syijn/359.m3u8
 
 #EXTINF:-1 group-title="Main" tvg-id="2417",Большая Азия  
-https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+http://dmi3y-tv6.ru/hls/CH_BAZIYAHD720.m3u8
 
 #EXTINF:-1 group-title="Main" tvg-id="9015",Неизвестная Россия
 http://dmi3y-tv6.ru/hls/CH_UNKNOWN_RUSSIAHD.m3u8
@@ -156,7 +159,7 @@ http://cdntv.online/high/v6rf4syijn/305.m3u8
 http://cdntv.online/high/v6rf4syijn/354.m3u8
 
 #EXTINF:-1 group-title="Main" tvg-id="nauka-hd",Наука  
-https://stream8.cinerama.uz/1248/tracks-v1a1/mono.m3u8
+http://dmi3y-tv6.ru/hls/CH_NAUKA20.m3u8
 
 #EXTINF:-1 group-title="Main" catchup="shift" catchup-days="3" timeshift="3",Galaxy  
 http://cdntv.online/high/v6rf4syijn/366.m3u8
@@ -170,8 +173,8 @@ https://stream8.cinerama.uz/1415/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Main" tvg-id="2444", МУЖСКОЙ
 http://188.225.31.197/bpk-tv/000000286/tve/index.m3u8
 
-#EXTINF:-1 group-title="Main" catchup="shift" catchup-days="3" timeshift="3", Моя планета
-http://cdntv.online/high/v6rf4syijn/339.m3u8
+#EXTINF:-1 group-title="Main", Моя планета
+http://dmi3y-tv6.ru/hls/CH_MOYA_PLANETA.m3u8
 
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Travel+Adventure 
 http://cdntv.online/high/v6rf4syijn/316.m3u8
@@ -314,7 +317,7 @@ http://cdntv.online/high/v6rf4syijn/113.m3u8
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Иллюзион+
 http://cdntv.online/high/v6rf4syijn/114.m3u8
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Кино ТВ  
-http://cdntv.online/high/v6rf4syijn/117.m3u8
+http://dmi3y-tv6.ru/hls/CH_KINOTV.m3u8
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", КиноХит
 http://cdntv.online/high/v6rf4syijn/118.m3u8
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Кинокомедия
