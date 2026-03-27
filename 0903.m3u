@@ -9,14 +9,14 @@ http://dmi3y-tv6.ru/hls/DVB-T2/CH_1TV.m3u8
 #EXTINF:-1 group-title="Central" tvg-id="711", Россия 1
 http://dmi3y-tv6.ru/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
 
-#EXTINF:-1 group-title="Central" catchup="shift" catchup-days="3" timeshift="3" tvg-id="2051", Матч!
+#EXTINF:-1 group-title="Central" tvg-id="2051", Матч!
 http://cdntv.online/high/v6rf4syijn/48.m3u8
 
 #EXTINF:-1 group-title="Central" tvg-id="162", НТВ
 http://dmi3y-tv6.ru/hls/T2/CH_NTVHD.m3u8
 
-#EXTINF:-1 group-title="Central" catchup="shift" catchup-days="3" timeshift="3" tvg-id="427", Пятый канал
-https://mhd128.iptv2022.com/x/YsTMGw1YsRhlVyz-ByKRvg,1774362260/streaming/5kanalott-drm/324/5/tracks-v4a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Central" tvg-id="427", Пятый канал
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_5TV.m3u8
 
 #EXTINF:-1 group-title="Central" tvg-id="187",Россия Культура
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
@@ -24,23 +24,23 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 group-title="Central" tvg-id="1683", Россия 24
 http://dmi3y-tv6.ru/hls/smotrim/T2/CH_RUSSIA24HD.m3u8
 
-#EXTINF:-1 group-title="Central" catchup="shift" catchup-days="3" timeshift="3" tvg-id="79", СТС
-http://cdntv.online/high/v6rf4syijn/13.m3u8
+#EXTINF:-1 group-title="Central" tvg-id="79", СТС
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_STS.m3u8
 
-#EXTINF:-1 group-title="Central" catchup="shift" catchup-days="3" timeshift="3" tvg-id="18", РенТВ
+#EXTINF:-1 group-title="Central" tvg-id="18", РенТВ
 https://streaming.televizor-24-tochka.ru/live/14.m3u8
 
-#EXTINF:-1 group-title="Central" catchup="shift" catchup-days="3" timeshift="3" tvg-id="1003", Пятница
-https://streaming.televizor-24-tochka.ru/live/19.m3u8
+#EXTINF:-1 group-title="Central" tvg-id="1003", Пятница
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_FRIDAY.m3u8
 
-#EXTINF:-1 group-title="Central" catchup="shift" catchup-days="3" timeshift="3" tvg-id="353", ТНТ
-http://cdntv.online/high/v6rf4syijn/19.m3u8
+#EXTINF:-1 group-title="Central" tvg-id="353", ТНТ
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TNT.m3u8
 
-#EXTINF:-1 group-title="Central" catchup="shift" catchup-days="3" timeshift="3" tvg-id="7978", ТНТ4
-http://cdntv.online/high/v6rf4syijn/28.m3u8
+#EXTINF:-1 group-title="Central" tvg-id="7978", ТНТ4
+http://dmi3y-tv6.ru/hls/zabava/CH_TNT4.m3u8
 
-#EXTINF:-1 group-title="Central" catchup="shift" catchup-days="3" timeshift="3" tvg-id="649", ТВЦ
-https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Central" tvg-id="649", ТВЦ
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TVC.m3u8
 
 #EXTINF:-1 group-title="Central" tvg-id="405", Звезда
 http://dmi3y-tv6.ru/hls/T2/CH_ZVEZDAHD.m3u8
