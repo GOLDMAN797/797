@@ -108,7 +108,7 @@ http://188.225.31.197/bpk-tv/000000039/tve/index.m3u8
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 #EXTINF:-1 group-title="Fashion" tvg-id="2491", Fashion TV  
-
+https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Fashion",World Fashion Channel ru
 http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
@@ -159,7 +159,7 @@ http://cdntv.online/high/v6rf4syijn/305.m3u8
 http://cdntv.online/high/v6rf4syijn/354.m3u8
 
 #EXTINF:-1 group-title="Main" tvg-id="nauka-hd",Наука  
-
+https://stream8.cinerama.uz/1248/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Main" catchup="shift" catchup-days="3" timeshift="3",Galaxy  
 http://cdntv.online/high/v6rf4syijn/366.m3u8
@@ -182,8 +182,8 @@ http://cdntv.online/high/v6rf4syijn/316.m3u8
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Viju Explore
 http://cdntv.online/high/v6rf4syijn/317.m3u8
 
-#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Viju History
-http://cdntv.online/high/v6rf4syijn/318.m3u8
+#EXTINF:-1 group-title="Main", Viju History
+https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Viju Nature
 http://cdntv.online/high/v6rf4syijn/319.m3u8
@@ -229,9 +229,18 @@ https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Main", Womens Magazine 
 
+#EXTINF:-1 group-title="Main", Авто24
+https://stream8.cinerama.uz/1430/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Main", Драйв
+https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 group-title="Main" tvg-id="zhivi-hd",Живи
 https://stream8.cinerama.uz/1419/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, group-title="Sport",Матч! Планета
+https://stream8.cinerama.uz/1243/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sport" 	tvg-id="inter-it" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/Inter-Milan-PNG-HD-Quality.png", InterTV
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
@@ -291,8 +300,10 @@ http://cdntv.online/high/v6rf4syijn/97.m3u8
 http://cdntv.online/high/v6rf4syijn/99.m3u8
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", ТВ 21
 http://cdntv.online/high/v6rf4syijn/100.m3u8
-#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Viju TV1000 Action
-http://cdntv.online/high/v6rf4syijn/101.m3u8
+
+#EXTINF:-1 group-title="Cinema", Viju TV1000 Action
+https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Viju TV1000 Русское
 http://cdntv.online/high/v6rf4syijn/102.m3u8
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Viju TV1000
