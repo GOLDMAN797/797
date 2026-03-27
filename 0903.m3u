@@ -10,7 +10,7 @@ http://dmi3y-tv6.ru/hls/DVB-T2/CH_1TV.m3u8
 http://dmi3y-tv6.ru/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
 
 #EXTINF:-1 group-title="Central" tvg-id="2051", Матч!
-http://cdntv.online/high/v6rf4syijn/48.m3u8
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Central" tvg-id="162", НТВ
 http://dmi3y-tv6.ru/hls/T2/CH_NTVHD.m3u8
@@ -28,7 +28,7 @@ http://dmi3y-tv6.ru/hls/smotrim/T2/CH_RUSSIA24HD.m3u8
 http://dmi3y-tv6.ru/hls/DVB-T2/CH_STS.m3u8
 
 #EXTINF:-1 group-title="Central" tvg-id="18", РенТВ
-https://streaming.televizor-24-tochka.ru/live/14.m3u8
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_RENTV.m3u8
 
 #EXTINF:-1 group-title="Central" tvg-id="1003", Пятница
 http://dmi3y-tv6.ru/hls/DVB-T2/CH_FRIDAY.m3u8
@@ -51,17 +51,17 @@ http://dmi3y-tv6.ru/hls/T2/CH_MIRHD.m3u8
 #EXTINF:-1 group-title="Central" tvg-id="vmeste-rf", Вместе-РФ
 http://dmi3y-tv6.ru/hls/CH_VMESTERFHD.m3u8
 
-#EXTINF:-1 group-title="Central" catchup="shift" catchup-days="3" timeshift="3" tvg-id="1000", OTP
-http://cdntv.online/high/v6rf4syijn/9.m3u8
+#EXTINF:-1 group-title="Central" tvg-id="1000", OTP
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_OTR.m3u8
 
-#EXTINF:-1 group-title="Central" catchup="shift" catchup-days="3" timeshift="3" tvg-id="698", ТВ3
-http://cdntv.online/high/v6rf4syijn/15.m3u8
+#EXTINF:-1 group-title="Central" tvg-id="698", ТВ3
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_TV3.m3u8
 
-#EXTINF:0 group-title="Central" catchup="shift" catchup-days="3" timeshift="3" tvg-id="domashnij-hd",Домашний
-http://cdntv.online/high/v6rf4syijn/14.m3u8
+#EXTINF:0 group-title="Central" tvg-id="domashnij-hd",Домашний
+http://dmi3y-tv6.ru/hls/DVB-T2/CH_DOMASHNIY.m3u8
 
 
-#EXTINF:-1 group-title="Main" catchup="shift" catchup-days="3" timeshift="3" tvg-id="325", Discovery Channel
+#EXTINF:-1 group-title="Main" tvg-id="325", Discovery Channel
 http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
 
 #EXTINF:-1 group-title="Main" catchup="shift" catchup-days="3" timeshift="3" tvg-id="1394", History
@@ -76,8 +76,8 @@ http://cdntv.online/high/v6rf4syijn/986.m3u8
 #EXTINF:-1 group-title="Main" catchup="shift" catchup-days="3" timeshift="3",Animal Planet
 http://cdntv.online/high/v6rf4syijn/296.m3u8
 
-#EXTINF:-1 group-title="Main" catchup="shift" catchup-days="3" timeshift="3" tvg-id="323",2x2
-http://cdntv.online/high/v6rf4syijn/466.m3u8
+#EXTINF:-1 group-title="Main" tvg-id="323",2x2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 
 #EXTINF:-1 group-title="News" tvg-id="334",Москва 24
 http://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe.m3u8
@@ -110,7 +110,7 @@ http://188.225.31.197/bpk-tv/000000039/tve/index.m3u8
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 #EXTINF:-1 group-title="Fashion" tvg-id="2491", Fashion TV  
-http://fashion.mediacdn.ru/cdn/fashiontv/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 group-title="Fashion",World Fashion Channel ru
 http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
