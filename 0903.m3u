@@ -125,8 +125,8 @@ https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/
 #EXTINF:-1 group-title="Fashion", Fashion Channel
 https://fl1001.bozztv.com/ushba19/index.m3u8
 
-#EXTINF:-1 group-title="Main" tvg-id="648" catchup="shift" catchup-days="3" timeshift="3",RTG
-http://cdntv.online/high/v6rf4syijn/311.m3u8
+#EXTINF:-1 group-title="Main" tvg-id="648" ,RTG
+http://31.148.48.15/RTG_HD/index.m3u8
 
 #EXTINF:-1 group-title="Main" tvg-id="sankt-peterburg-hd",Санкт-Петербург  
 https://player.smotrim.ru/iframe/stream/live_id/1a30bc46-0b5f-4f48-a3df-97e33bde0aa8
@@ -211,7 +211,7 @@ http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000004474/tve/index.m3u8
 
 #EXTINF:-1 group-title="Main" tvg-id="2741", Food Time
-http://31148.rafail1982.uz/Eda_Premium_HD/index.m3u8
+http://31.148.48.15/Eda_Premium_HD/index.m3u8
 
 #EXTINF:-1 group-title="Main" tvg-id="614", КУХНЯ-ТВ
 https://stream8.cinerama.uz/1236/tracks-v1a1/mono.m3u8
@@ -222,7 +222,8 @@ http://dmi3y-tv6.ru/hls/CH_NTVSTIL.m3u8
 #EXTINF:-1 group-title="Main" tvg-id="arsenal-hd",Арсенал 
 https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Main" tvg-id="365-dnej" tvg-rec="7" catchup-days="7",365 Дней
+#EXTINF:-1 group-title="Main",365 Дней
+http://31.148.48.15/365_dney/index.m3u8
 
 #EXTINF:-1 group-title="Main" tvg-id="voprosy-otvety",Вопросы и ответы
 https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
