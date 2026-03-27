@@ -308,8 +308,10 @@ http://cdntv.online/high/v6rf4syijn/107.m3u8
 
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", A1
 http://cdntv.online/high/v6rf4syijn/109.m3u8
+
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Дом Кино
-http://cdntv.online/high/v6rf4syijn/111.m3u8
+http://176.96.241.40/DomKino/index.m3u8
+
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Дом кино Премиум 
 http://cdntv.online/high/v6rf4syijn/112.m3u8
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Еврокино
