@@ -1,9 +1,6 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml"
 
 #EXTINF:-1 group-title="Central" tvg-id="146",Первый канал
-
-
-#EXTINF:-1 group-title="Central" tvg-id="146",Первый канал
 http://dmi3y-tv6.ru/hls/DVB-T2/CH_1TV.m3u8
 
 #EXTINF:-1 group-title="Central" tvg-id="711", Россия 1
@@ -83,6 +80,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 http://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe.m3u8
 
 #EXTINF:-1 group-title="News" tvg-id="doverie",Москва Доверие
+http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 
 #EXTINF:-1 group-title="News" ,Россия 1 (Нальчик)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nalchik/russia1-hd/index.m3u8
@@ -97,7 +95,7 @@ http://dmi3y-tv6.ru/hls/CH_MIR24HD.m3u8
 #EXTINF:-1 group-title="News" tvg-id="2271", Известия  
 https://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 
-#EXTINF:-1 group-title="News", ТАСС
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/TASS_Logo_(Cyrillic)_2017.svg/1200px-TASS_Logo_(Cyrillic)_2017.svg.png", ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="News" tvg-id="743", РБК
@@ -154,15 +152,14 @@ http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Main" tvg-id="2268", CGTN
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 
-
 #EXTINF:-1 group-title="Main" catchup="shift" catchup-days="3" timeshift="3",Точка РФ  
 http://cdntv.online/high/v6rf4syijn/305.m3u8
 
-#EXTINF:-1 group-title="Main" catchup="shift" catchup-days="3" timeshift="3",Техно 24
+#EXTINF:-1 group-title="Main" timeshift="3",Техно 24
 http://cdntv.online/high/v6rf4syijn/354.m3u8
 
 #EXTINF:-1 group-title="Main" tvg-id="nauka-hd",Наука  
-http://dmi3y-tv6.ru/hls/CH_NAUKA20.m3u8
+
 
 #EXTINF:-1 group-title="Main" catchup="shift" catchup-days="3" timeshift="3",Galaxy  
 http://cdntv.online/high/v6rf4syijn/366.m3u8
@@ -177,7 +174,7 @@ https://stream8.cinerama.uz/1415/tracks-v1a1/mono.m3u8
 http://188.225.31.197/bpk-tv/000000286/tve/index.m3u8
 
 #EXTINF:-1 group-title="Main", Моя планета
-http://dmi3y-tv6.ru/hls/CH_MOYA_PLANETA.m3u8
+
 
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Main", Travel+Adventure 
 http://cdntv.online/high/v6rf4syijn/316.m3u8
