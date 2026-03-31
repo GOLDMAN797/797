@@ -93,7 +93,7 @@ http://dmi3y-tv6.ru/hls/CH_360TVHD.m3u8
 http://dmi3y-tv6.ru/hls/CH_MIR24HD.m3u8
 
 #EXTINF:-1 group-title="News" tvg-id="2271", Известия  
-https://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+http://dmi3y-tv6.ru/hls/CH_I3BECTIYAHD.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/TASS_Logo_(Cyrillic)_2017.svg/1200px-TASS_Logo_(Cyrillic)_2017.svg.png", ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
@@ -152,8 +152,8 @@ http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Main" tvg-id="2268", CGTN
 https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 
-#EXTINF:-1 group-title="Main" catchup="shift" catchup-days="3" timeshift="3",Точка РФ  
-http://cdntv.online/high/v6rf4syijn/305.m3u8
+#EXTINF:-1 group-title="Main",Точка РФ  
+https://stream8.cinerama.uz/1222/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Main" timeshift="3",Техно 24
 http://cdntv.online/high/v6rf4syijn/354.m3u8
@@ -195,8 +195,8 @@ http://cdntv.online/high/v6rf4syijn/319.m3u8
 #EXTINF:-1 group-title="Main", Curiosity Stream
 
 
-#EXTINF:-1 group-title="Main" tvg-id="travel-channel-hd" tvg-rec="7" catchup-days="7",Travel Channel 
-
+#EXTINF:-1 group-title="Main" tvg-id="travel-channel-hd" tvg-rec="7" catchup-days="7", Travel+Adventure
+http://77.232.131.211/TravelAdventureHD/index.m3u8
 
 #EXTINF:-1 group-title="Main" tvg-id="teletravel-hd",Приключения
 https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
@@ -268,14 +268,15 @@ http://cdntv.online/high/v6rf4syijn/38.m3u8
 http://cdntv.online/high/v6rf4syijn/40.m3u8
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Sport", Extreme sports
 http://cdntv.online/high/v6rf4syijn/41.m3u8
-#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Sport", Viju Sport 
-http://cdntv.online/high/v6rf4syijn/43.m3u8
+
+#EXTINF:-1 group-title="Sport", Viju Sport 
+https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-id="4656", Sky Sports F1
 
 
-#EXTINF:-1 group-title="Sport", TENNIS CHANNEL
-
+#EXTINF:-1 group-title="Sport", Sky Sports tennis 
+http://185.112.249.46:9981/stream/channelid/2020429400
 
 #EXTINF:-1 group-title="Sport", Старт Триумф
 http://dmi3y-tv6.ru/hls/CH_START_TRIUMFHD720.m3u8
@@ -311,10 +312,13 @@ http://cdntv.online/high/v6rf4syijn/100.m3u8
 #EXTINF:-1 group-title="Cinema", Viju TV1000 Action
 https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Viju TV1000 Русское
-http://cdntv.online/high/v6rf4syijn/102.m3u8
-#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Viju TV1000
-http://cdntv.online/high/v6rf4syijn/103.m3u8
+#EXTINF:-1 group-title="Cinema", Viju TV1000
+https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Cinema", Viju TV1000 Русское
+https://stream8.cinerama.uz/1059/mono.m3u8
+
+
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Viju+ comedy
 http://cdntv.online/high/v6rf4syijn/104.m3u8
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Viju+ megahit
