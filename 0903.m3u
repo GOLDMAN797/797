@@ -195,7 +195,7 @@ http://cdntv.online/high/v6rf4syijn/319.m3u8
 #EXTINF:-1 group-title="Main", Curiosity Stream
 
 
-#EXTINF:-1 group-title="Main" tvg-id="travel-channel-hd" tvg-rec="7" catchup-days="7", Travel+Adventure
+#EXTINF:-1 group-title="Main" tvg-id="travel-channel-hd", Travel+Adventure
 http://77.232.131.211/TravelAdventureHD/index.m3u8
 
 #EXTINF:-1 group-title="Main" tvg-id="teletravel-hd",Приключения
