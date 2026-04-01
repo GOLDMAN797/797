@@ -273,10 +273,22 @@ http://cdntv.online/high/v6rf4syijn/41.m3u8
 https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sport" tvg-id="4656", Sky Sports F1
+https://7pal.short.gy/ssportsf1
+
+#EXTINF:-1 group-title="Sport",Sky Sports Premier League
+https://7pal.short.gy/ssportspl
+
+#EXTINF:-1 group-title="Sport",Sky Sports Tennis
+https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=ifOXNnoFfmLuPfl0_55zrQ&e=2065612806&scheme=https
+
+ #EXTINF:-1 group-title="Sport",TENNIS CHANNEL
 
 
-#EXTINF:-1 group-title="Sport", Sky Sports tennis 
-http://185.112.249.46:9981/stream/channelid/2020429400
+#EXTINF:-1 group-title="Sport",Premier Sport 1
+https://7pal.short.gy/prsport1
+
+#EXTINF:-1 group-title="Sport",Premier Sport 2
+https://7pal.short.gy/prsport2
 
 #EXTINF:-1 group-title="Sport", Старт Триумф
 http://dmi3y-tv6.ru/hls/CH_START_TRIUMFHD720.m3u8
