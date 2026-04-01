@@ -155,11 +155,10 @@ https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3
 #EXTINF:-1 group-title="Main",Точка РФ  
 https://stream8.cinerama.uz/1222/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Main" timeshift="3",Техно 24
-http://cdntv.online/high/v6rf4syijn/354.m3u8
+
 
 #EXTINF:-1 group-title="Main" tvg-id="nauka-hd",Наука  
-http://dmi3y-tv6.ru/hls/CH_NAUKA20.m3u8
+https://stream8.cinerama.uz/1248/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Main" catchup="shift" catchup-days="3" timeshift="3",Galaxy  
 http://cdntv.online/high/v6rf4syijn/366.m3u8
@@ -174,7 +173,7 @@ https://stream8.cinerama.uz/1415/tracks-v1a1/mono.m3u8
 http://188.225.31.197/bpk-tv/000000286/tve/index.m3u8
 
 #EXTINF:-1 group-title="Main", Моя планета
-http://dmi3y-tv6.ru/hls/CH_MOYA_PLANETA.m3u8
+https://stream8.cinerama.uz/1247/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Main", РЖД ТВ
 http://dmi3y-tv6.ru/hls/CH_RZHDTVHD.m3u8
@@ -225,13 +224,17 @@ http://dmi3y-tv6.ru/hls/CH_NTVSTIL.m3u8
 #EXTINF:-1 group-title="Main" tvg-id="arsenal-hd",Арсенал 
 https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Main",365 Дней
+#EXTINF:-1 group-title="Main",365Дней
 http://31.148.48.15/365_dney/index.m3u8
 
 #EXTINF:-1 group-title="Main" tvg-id="voprosy-otvety",Вопросы и ответы
 https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Main", Womens Magazine 
+#EXTINF:-1 group-title="Main", Загородный
+https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Main",Техно24
+https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Main", Авто24
 https://stream8.cinerama.uz/1430/tracks-v1a1/mono.m3u8
@@ -239,6 +242,8 @@ https://stream8.cinerama.uz/1430/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Main", Драйв
 https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Main",Авто Плюс
+https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Main" tvg-id="zhivi-hd",Живи
 https://stream8.cinerama.uz/1419/tracks-v1a1/mono.m3u8
@@ -296,15 +301,49 @@ http://dmi3y-tv6.ru/hls/CH_START_TRIUMFHD720.m3u8
 #EXTINF:-1 tvg-id="tnt-music" group-title="Music" ,FON music
 http://dmi3y-tv6.ru/hls/CH_TNTMUSICHD.m3u8
 
+#EXTINF:-1 group-title="Cinema", CINEMA
+https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Cinema", Hollywood 
+https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Cinema", Viju TV1000 Action
+https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Cinema", Viju TV1000
+https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Cinema", Viju TV1000 Русское
+https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Hollywood 
-http://cdntv.online/high/v6rf4syijn/503.m3u8
+#EXTINF:-1 group-title="Cinema", Мужское Кино
+https://stream8.cinerama.uz/1237/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Cinema", КиноХит
+https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Cinema", Кинопремьера
+https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Cinema", Кинокомедия
+https://stream8.cinerama.uz/1232/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Cinema", Киносвидание
+https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Cinema", Киномикс
+https://stream8.cinerama.uz/1233/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Cinema", Киносемья
+https://stream8.cinerama.uz/1234/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Cinema",Наше новое кино
+https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Cinema",Родное кино
+https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Cinema",Киносерия
+https://stream8.cinerama.uz/1235/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Cinema", Кинопоказ  
+https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
+
+
+
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", AMEDIA HIT
 http://cdntv.online/high/v6rf4syijn/87.m3u8
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Amedia Premium
 http://cdntv.online/high/v6rf4syijn/88.m3u8
-#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", CINEMA
-http://cdntv.online/high/v6rf4syijn/89.m3u8
+
 
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", FilmBox
 http://cdntv.online/high/v6rf4syijn/90.m3u8
@@ -321,14 +360,6 @@ http://cdntv.online/high/v6rf4syijn/99.m3u8
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", ТВ 21
 http://cdntv.online/high/v6rf4syijn/100.m3u8
 
-#EXTINF:-1 group-title="Cinema", Viju TV1000 Action
-https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Cinema", Viju TV1000
-https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Cinema", Viju TV1000 Русское
-https://stream8.cinerama.uz/1059/mono.m3u8
 
 
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Viju+ comedy
@@ -354,24 +385,18 @@ http://cdntv.online/high/v6rf4syijn/113.m3u8
 http://cdntv.online/high/v6rf4syijn/114.m3u8
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Кино ТВ  
 http://dmi3y-tv6.ru/hls/CH_KINOTV.m3u8
-#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", КиноХит
-http://cdntv.online/high/v6rf4syijn/118.m3u8
-#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Кинокомедия
-http://cdntv.online/high/v6rf4syijn/119.m3u8
-#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Киномикс
-http://cdntv.online/high/v6rf4syijn/120.m3u8
-#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Киносвидание
-http://cdntv.online/high/v6rf4syijn/122.m3u8
-#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Киносемья
-http://cdntv.online/high/v6rf4syijn/123.m3u8
+
+
+
+
+
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Классика Кино  
 http://cdntv.online/high/v6rf4syijn/124.m3u8
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Мир сериала
 http://cdntv.online/high/v6rf4syijn/127.m3u8
-#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Мужское Кино
-http://cdntv.online/high/v6rf4syijn/128.m3u8
-#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Наше новое кино
-http://cdntv.online/high/v6rf4syijn/132.m3u8
+
+
+
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Русский Бестселлер
 http://cdntv.online/high/v6rf4syijn/135.m3u8
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Русский Роман
@@ -391,8 +416,7 @@ http://cdntv.online/high/v6rf4syijn/901.m3u8
 http://cdntv.online/high/v6rf4syijn/902.m3u8
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Душевное  
 http://cdntv.online/high/v6rf4syijn/903.m3u8
-#EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Кинопоказ  
-http://cdntv.online/high/v6rf4syijn/904.m3u8
+
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Шокирующее  
 http://cdntv.online/high/v6rf4syijn/905.m3u8
 #EXTINF:-1 catchup="shift" catchup-days="3" timeshift="3" group-title="Cinema", Комедийное  
