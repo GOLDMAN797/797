@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.one/epg2.xml"
+#EXTM3U url-tvg="http://epg.one/epg2.xml,https://iptvx.one/epg/epg_lite.xml.gz"
 
 #EXTINF:-1 group-title="Central" tvg-id="146",Первый канал
 http://dmi3y-tv6.ru/hls/DVB-T2/CH_1TV.m3u8
