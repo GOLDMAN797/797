@@ -1,806 +1,1746 @@
-#EXTINF:-1,Первый канал FHD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621484
+#EXTM3U url-tvg="http://epg.one/epg2.xml"
 
-#EXTINF:-1,Россия 1 FHD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621473
-
-#EXTINF:-1,НТВ FHD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621453
-
-#EXTINF:-1,ТНТ FHD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621444
-
-#EXTINF:-1,ТНТ4 HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621434
-
-#EXTINF:-1,СТС FHD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621429
-
-#EXTINF:-1,РЕН ТВ FHD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621421
-
-#EXTINF:-1,ТВЦ FHD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621415
-
-#EXTINF:-1,Звезда HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621409
-
-#EXTINF:-1,Звезда Плюс HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621404
-#EXTINF:-1,Пятый канал HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621403
-
-#EXTINF:-1,ТВ3 FHD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621400
-
-#EXTINF:-1,Мир FHD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621394
-
-#EXTINF:-1,Пятница! FHD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621388
-
-#EXTINF:-1,Суббота! FHD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621382
-
-#EXTINF:-1,Домашний FHD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621376
-
-#EXTINF:-1,Россия К
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621358
-#EXTINF:-1,Санкт-Петербург HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621357
-
-#EXTINF:-1,Русский север
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621354
-
-
-#EXTINF:-1,English Club HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621579
-#EXTINF:-1,Доктор
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621578
-#EXTINF:-1,Совершенно секретно (Top Secret)
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621577
-#EXTINF:-1,Научпоп HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621576
-#EXTINF:-1,Телекафе
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621575
-#EXTINF:-1,Неизвестная Россия HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621574
-#EXTINF:-1,TERRA HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621573
-#EXTINF:-1,Big Planet HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621572
-#EXTINF:-1,Глазами туриста HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621571
-#EXTINF:-1,Живи Активно HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621570
-#EXTINF:-1,Открытый мир
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621569
-#EXTINF:-1,ЕГЭ ТВ
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621568
-#EXTINF:-1,Поехали!
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621567
-#EXTINF:-1,Мужской
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621566
-#EXTINF:-1,Зоо ТВ
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621565
-#EXTINF:-1,Здоровое ТВ
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621564
-#EXTINF:-1,Загородная жизнь
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621563
-#EXTINF:-1,Авто Плюс
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621562
-#EXTINF:-1,TVMChannel
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621561
-#EXTINF:-1,Живи! HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621560
-#EXTINF:-1,Da Vinci
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621559
-#EXTINF:-1,Viasat Nature CEE
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621558
-#EXTINF:-1,Viasat History HD CEE
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621557
-#EXTINF:-1,Viasat Explore HD CEE
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621556
-#EXTINF:-1,viju+ Planet HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621555
-#EXTINF:-1,viju Viasat History
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621554
-#EXTINF:-1,viju Viasat History HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621553
-#EXTINF:-1,viju Viasat Explore
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621552
-#EXTINF:-1,viju Explore HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621551
-#EXTINF:-1,viju Viasat Nature
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621550
-#EXTINF:-1,viju Viasat Nature HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621549
-#EXTINF:-1,Epic HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621548
-#EXTINF:-1,RTG
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621547
-#EXTINF:-1,RTG HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621546
-#EXTINF:-1,Живая планета HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621545
-#EXTINF:-1,Insight HD (Eng)
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621544
-#EXTINF:-1,Тайна
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621543
-#EXTINF:-1,Бобёр
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621542
-#EXTINF:-1,Усадьба
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621541
-#EXTINF:-1,24 Техно
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621540
-#EXTINF:-1,ZooПарк
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621539
-#EXTINF:-1,Большая Азия HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621538
-#EXTINF:-1,История
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621537
-#EXTINF:-1,HGTV HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621536
-#EXTINF:-1,CGTN Русский
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621535
-#EXTINF:-1,Точка. РФ HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621534
-#EXTINF:-1,RTД HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621533
-#EXTINF:-1,H2 HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621532
-#EXTINF:-1,History HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621531
-#EXTINF:-1,РЖД ТВ
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621530
-#EXTINF:-1,#КтоКуда
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621529
-#EXTINF:-1,Оружие
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621528
-#EXTINF:-1,365 дней
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621527
-#EXTINF:-1,Океан! HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621526
-#EXTINF:-1,Мир Вокруг HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621525
-#EXTINF:-1,Наша Тема HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621524
-#EXTINF:-1,Дикий
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621523
-#EXTINF:-1,Дикая Охота HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621522
-#EXTINF:-1,Охотник и рыболов HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621521
-#EXTINF:-1,Охота и рыбалка
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621520
-#EXTINF:-1,Рыболов
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621519
-#EXTINF:-1,Дикая Рыбалка HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621518
-#EXTINF:-1,Диалоги о рыбалке
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621517
-#EXTINF:-1,Наука 2.0 HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621516
-#EXTINF:-1,Nano HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621515
-#EXTINF:-1,Curiosity Stream HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621514
-#EXTINF:-1,Первый Космический HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621513
-#EXTINF:-1,Тайны Галактики HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621512
-#EXTINF:-1,Кто есть кто
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621511
-#EXTINF:-1,Мы HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621510
-#EXTINF:-1,Чемодан ТВ HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621509
-#EXTINF:-1,Конгресс ТВ HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621508
-#EXTINF:-1,The Explorers HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621507
-#EXTINF:-1,Моя Планета HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621506
-#EXTINF:-1,Приключения HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621505
-#EXTINF:-1,Animal Planet
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621504
-#EXTINF:-1,Animal Planet HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621503
-#EXTINF:-1,Nat Geo Wild HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621502
-#EXTINF:-1,National Geographic HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621501
-#EXTINF:-1,Investigation Discovery HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621500
-#EXTINF:-1,Discovery HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621499
-#EXTINF:-1,Travel+Adventure HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621498
-#EXTINF:-1,Travel Channel HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621497
-#EXTINF:-1,В мире животных HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621496
-#EXTINF:-1,Моя Стихия FHD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621495
-#EXTINF:-1,Живая Природа HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621494
-#EXTINF:-1,Русская история HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621493
-#EXTINF:-1,TravelXP HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621492
-#EXTINF:-1,Insight UHD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621491
-#EXTINF:-1,Museum 4K
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621490
-#EXTINF:-1,HOME 4K
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621489
-#EXTINF:-1,Quadro 4K
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621488
-#EXTINF:-1,Глазами Туриста 4K
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621487
-#EXTINF:-1,Наша Сибирь 4K
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621486
-#EXTINF:-1,Love Nature 4K
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621485
-#EXTINF:-1,✦●✦ Новостные  ●✦●
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/50610
-#EXTINF:-1,Известия HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621349
-#EXTINF:-1,Россия 24
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621348
-#EXTINF:-1,Соловьёв LIVE
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621347
-#EXTINF:-1,РБК HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621346
-#EXTINF:-1,РБК
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621345
-#EXTINF:-1,360 Новости HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621344
-#EXTINF:-1,Мир 24
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621343
-#EXTINF:-1,Москва 24
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621342
-#EXTINF:-1,ЛенТВ 24
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621341
-#EXTINF:-1,Луганск 24
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621340
-#EXTINF:-1,News Front
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621339
-#EXTINF:-1,ЦарьГрад
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621338
-#EXTINF:-1,Russia Today HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621337
-#EXTINF:-1,Евроновости
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621336
-#EXTINF:-1,RTVI
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621335
-#EXTINF:-1,Красная линия
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621334
-#EXTINF:-1,ЭхоТВ
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621333
-
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/50575
-#EXTINF:-1,Ultra HD Cinema (Cinema UHD)
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621286
-#EXTINF:-1,Кино UHD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621285
-#EXTINF:-1,Мосфильм: золотая коллекция HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621284
-#EXTINF:-1,Мосфильм: золотая коллекция
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621283
-#EXTINF:-1,Мосфильм: золотая коллекция +4 HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621282
-#EXTINF:-1,Госфильмофонд. Машина времени
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621281
-#EXTINF:-1,4К Русское кино
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621280
-#EXTINF:-1,Хит HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621279
-#EXTINF:-1,НТВ Сериал
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621278
-#EXTINF:-1,НТВ Хит
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621277
-#EXTINF:-1,Патриот
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621276
-#EXTINF:-1,Окко ТВ HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621275
-#EXTINF:-1,START Air
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621274
-#EXTINF:-1,START World
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621273
-#EXTINF:-1,Дом кино
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621272
-#EXTINF:-1,Дом кино Премиум HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621271
-#EXTINF:-1,Кино ТВ HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621270
-#EXTINF:-1,SAGA TV HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621269
-#EXTINF:-1,ЕвроКино HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621268
-#EXTINF:-1,Киноджем 1 HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621267
-#EXTINF:-1,Киноджем 2 HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621266
-#EXTINF:-1,viju TV1000 HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621265
-#EXTINF:-1,viju TV1000
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621264
-#EXTINF:-1,viju TV1000 Action HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621263
-#EXTINF:-1,viju TV1000 Action
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621262
-#EXTINF:-1,viju TV1000 Русское кино HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621261
-#EXTINF:-1,viju TV1000 Русское кино
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621260
-#EXTINF:-1,viju TV1000 Новелла HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621259
-#EXTINF:-1,viju TV1000 Romantica HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621258
-#EXTINF:-1,viju+ ViP Premiere HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621257
-#EXTINF:-1,viju+ ViP Comedy HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621256
-#EXTINF:-1,viju+ ViP Megahit HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621255
-#EXTINF:-1,viju+ ViP Serial HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621254
-#EXTINF:-1,День Победы HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621253
-#EXTINF:-1,Русский детектив
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621252
-#EXTINF:-1,Русский Бестселлер
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621251
-#EXTINF:-1,Русский Иллюзион HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621250
-#EXTINF:-1,Русский Роман HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621249
-#EXTINF:-1,Премиальное HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621248
-#EXTINF:-1,Романтичное HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621247
-#EXTINF:-1,Комедийное HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621246
-#EXTINF:-1,Любимое HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621245
-#EXTINF:-1,Остросюжетное HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621244
-#EXTINF:-1,Шокирующее HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621243
-#EXTINF:-1,Душевное HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621242
-#EXTINF:-1,Страшное HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621241
-#EXTINF:-1,Кинопремьера HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621240
-#EXTINF:-1,Кинохит FHD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621239
-#EXTINF:-1,Киносемья HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621238
-#EXTINF:-1,Киносемья
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621237
-#EXTINF:-1,Кинокомедия HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621236
-#EXTINF:-1,Киномикс HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621235
-#EXTINF:-1,Киноужас HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621234
-#EXTINF:-1,Киносвидание HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621233
-#EXTINF:-1,Киносерия HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621232
-#EXTINF:-1,Мужское кино HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621231
-#EXTINF:-1,Наше Новое кино HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621230
-#EXTINF:-1,Родное кино
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621229
-#EXTINF:-1,Индийское кино
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621228
-#EXTINF:-1,Киноменю HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621227
-#EXTINF:-1,Советское кино
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621226
-#EXTINF:-1,4ever Cinema HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621225
-#EXTINF:-1,4ever Drama HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621224
-#EXTINF:-1,4ever Theater HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621223
-#EXTINF:-1,Киноман
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621222
-#EXTINF:-1,КиноКульт HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621221
-#EXTINF:-1,Комедия
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621220
-#EXTINF:-1,. Sci-Fi
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621219
-#EXTINF:-1,. Red HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621218
-#EXTINF:-1,. black
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621217
-#EXTINF:-1,НСТ
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621216
-#EXTINF:-1,Trash HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621215
-#EXTINF:-1,Hollywood
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621214
-#EXTINF:-1,Наш Кинопоказ HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621213
-#EXTINF:-1,Наше любимое кино
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621212
-#EXTINF:-1,Болт HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621211
-#EXTINF:-1,Мир Сериала HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621210
-#EXTINF:-1,Арсенал HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621209
-#EXTINF:-1,Bollywood HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621208
-#EXTINF:-1,Amedia Hit HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621207
-#EXTINF:-1,Amedia Premium HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621206
-#EXTINF:-1,A1 HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621205
-#EXTINF:-1,A2 HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621204
-#EXTINF:-1,Timeless Dizi Channel HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621203
-#EXTINF:-1,Блокбастер HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621202
-#EXTINF:-1,Камеди HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621201
-#EXTINF:-1,Наше мужское HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621200
-#EXTINF:-1,Про любовь HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621199
-#EXTINF:-1,Fox HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621198
-#EXTINF:-1,Fox Life HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621197
-#EXTINF:-1,Синема HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621196
-#EXTINF:-1,Epic Drama HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621195
-#EXTINF:-1,Filmbox
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621194
-#EXTINF:-1,Filmbox Arthouse
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621193
-#EXTINF:-1,Дорама HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621192
-#EXTINF:-1,Shot TV
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621191
-#EXTINF:-1,Kino 24
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621190
-#EXTINF:-1,Индия
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621189
-#EXTINF:-1,Иллюзион +
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621188
-#EXTINF:-1,Классика Кино
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621187
-#EXTINF:-1,Наше HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621186
-#EXTINF:-1,Наше Наследие HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621185
-#EXTINF:-1,Viasat Kino HD CEE
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621184
-#EXTINF:-1,Viasat Kino World CEE
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621183
-#EXTINF:-1,Viasat Kino Action HD CEE
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621182
-#EXTINF:-1,Viasat Kino Comedy HD CEE
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621181
-#EXTINF:-1,Viasat Kino Megahit HD CEE
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621180
-#EXTINF:-1,FamilyJam HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621179
-#EXTINF:-1,Синема
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621178
-#EXTINF:-1,Киносезон
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621177
-#EXTINF:-1,Победа HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621176
-#EXTINF:-1,Cinema Космос ТВ HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621175
-#EXTINF:-1,Flix Snip HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621174
-#EXTINF:-1,Plan_B
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621173
-#EXTINF:-1,KinoLiving HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621172
-#EXTINF:-1,Кинопоказ HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621171
-#EXTINF:-1,Феникс+Кино HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621170
-#EXTINF:-1,Scream HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621169
-#EXTINF:-1,Лавстори HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621168
-#EXTINF:-1,Romance HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621167
-#EXTINF:-1,Suspense HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621166
-#EXTINF:-1,Советская киноклассика HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621165
-#EXTINF:-1,Кино и Жизнь HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621164
-#EXTINF:-1,Время
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621163
-#EXTINF:-1,Ретро
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621162
-#EXTINF:-1,Hollywood HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621161
-#EXTINF:-1,Star Family HD RU
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621160
-#EXTINF:-1,Star Cinema HD RU
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621159
-#EXTINF:-1,Криминальное HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621158
-#EXTINF:-1,KION Хит HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621157
-#EXTINF:-1,Кинеко HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621156
-#EXTINF:-1,Сапфир HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621155
-#EXTINF:-1,Detective Jam HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621154
-#EXTINF:-1,VHS-ка HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621153
-#EXTINF:-1,VHS-ка Сериал HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621152
-#EXTINF:-1,Видеокассета VHS
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621151
-#EXTINF:-1,TV | 21
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621150
-#EXTINF:-1,СТРК
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621149
-
-#EXTINF:-1,Матч! ТВ FHD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621148
-#EXTINF:-1,Матч! ТВ HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621147
-#EXTINF:-1,Матч! ТВ
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621146
-#EXTINF:-1,Матч! Премьер FHD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621145
-#EXTINF:-1,Матч! Премьер HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621144
-#EXTINF:-1,Матч! Футбол 1 HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621143
-#EXTINF:-1,Матч! Футбол 1 FHD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621142
-#EXTINF:-1,Матч! Футбол 2 HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621141
-#EXTINF:-1,Матч! Футбол 2 FHD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621140
-#EXTINF:-1,Матч! Футбол 3 HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621139
-#EXTINF:-1,Матч! Футбол 3 FHD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621138
-#EXTINF:-1,Матч! Арена FHD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621137
-#EXTINF:-1,Матч! Арена
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621136
-#EXTINF:-1,Матч! Игра FHD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621135
-#EXTINF:-1,Матч! Игра
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621134
-#EXTINF:-1,Матч! Страна FHD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621133
-#EXTINF:-1,Окко.Футбол HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621132
-#EXTINF:-1,Окко.Спорт HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621131
-#EXTINF:-1,Окко.Прайм Спорт HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621130
-#EXTINF:-1,Окко.Чемпионат
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621129
-#EXTINF:-1,KHL Prime FHD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621128
-#EXTINF:-1,KHL Prime HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621127
-#EXTINF:-1,KHL FHD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621126
-#EXTINF:-1,KHL HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621125
-#EXTINF:-1,Матч! Планета
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621124
-#EXTINF:-1,Беларусь 5 HD BY
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621123
-#EXTINF:-1,Спорт ТВ Беларусь HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621122
-#EXTINF:-1,Матч! Боец
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621121
-#EXTINF:-1,Бокс ТВ
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621120
-#EXTINF:-1,Удар
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621119
-#EXTINF:-1,Prime Fight HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621118
-#EXTINF:-1,FightBox HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621117
-#EXTINF:-1,MMA-TV (M-1 Global)
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621116
-#EXTINF:-1,Extreme Sports
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621115
-#EXTINF:-1,Русский экстрим
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621114
-#EXTINF:-1,Точка отрыва
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621113
-#EXTINF:-1,Fast&FunBox
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621112
-#EXTINF:-1,Волейбол ТВ FHD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621111
-#EXTINF:-1,Мир баскетбола HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621110
-#EXTINF:-1,Мир баскетбола
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621109
-#EXTINF:-1,Eurosport 1 FHD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621108
-#EXTINF:-1,Eurosport 2 FHD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621107
-#EXTINF:-1,Eurosport 1 HD CEE
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621106
-#EXTINF:-1,Eurosport 2 HD CEE
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621105
-#EXTINF:-1,Setanta Sports Premium HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621104
-#EXTINF:-1,Setanta Sports 1 HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621103
-#EXTINF:-1,Setanta Sports 2 HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621102
-#EXTINF:-1,Setanta Sports UA+ HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621101
-#EXTINF:-1,Setanta Sports UA HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621100
-#EXTINF:-1,Setanta Qazaqstan HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621099
-#EXTINF:-1,Setanta Sports 1 HD KZ
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621098
-#EXTINF:-1,Setanta Sports 2 HD KZ
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621097
-#EXTINF:-1,Setanta Sports + HD KZ
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621096
-#EXTINF:-1,Setanta Sports HD MD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621095
-#EXTINF:-1,Setanta Sports 1 HD Georgia
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621094
-#EXTINF:-1,Setanta Sports 2 HD Georgia
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621093
-#EXTINF:-1,Setanta Sports 3 HD Georgia
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621092
-#EXTINF:-1,Setanta Sports Baltic HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621091
-#EXTINF:-1,Старт FHD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621090
-#EXTINF:-1,Старт Триумф HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621089
-#EXTINF:-1,Футбол HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621088
-#EXTINF:-1,Мяч HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621087
-#EXTINF:-1,ТВ Спорт HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621086
-#EXTINF:-1,Хоккей ТВ HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621085
-#EXTINF:-1,viju+ Viasat Sport HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621084
-#EXTINF:-1,Trace Sport Stars
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621083
-#EXTINF:-1,Конный Мир HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621082
-#EXTINF:-1,Суспильне Спорт HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621081
-#EXTINF:-1,УПЛ ТВ HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621080
-#EXTINF:-1,УПЛ ТВ 1
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621079
-#EXTINF:-1,УПЛ ТВ 2
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621078
-#EXTINF:-1,УПЛ ТВ 3
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621077
-
-#EXTINF:-1,Russian Extreme Ultra (Ultra REX)
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621076
-#EXTINF:-1,FUNBOX UHD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621075
-#EXTINF:-1,Fashion TV UHD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621074
-#EXTINF:-1,MyZen 4K
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621073
-#EXTINF:-1,Ратник HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621072
-#EXTINF:-1,Аппетитный HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621071
-#EXTINF:-1,Еда
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621070
-#EXTINF:-1,Кухня ТВ HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621069
-#EXTINF:-1,Кухня ТВ
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621068
-#EXTINF:-1,Первый Вегетарианский
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621067
-#EXTINF:-1,Вкус
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621066
-#EXTINF:-1,Food Time HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621065
-#EXTINF:-1,Food Network HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621064
-#EXTINF:-1,Food Network
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621063
-#EXTINF:-1,КВН-ТВ
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621062
-#EXTINF:-1,Анекдот ТВ
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621061
-#EXTINF:-1,Твоё ТВ Юмор HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621060
-#EXTINF:-1,Народ Всё Видит
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621059
-#EXTINF:-1,2x2
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621058
-#EXTINF:-1,Новый игровой канал
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621057
-#EXTINF:-1,Центральное телевидение
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621056
-#EXTINF:-1,Плюс Минус 16 HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621055
-#EXTINF:-1,360° Подмосковье HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621054
-#EXTINF:-1,Домашние животные
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621053
-#EXTINF:-1,Психология
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621052
-#EXTINF:-1,Эх! HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621051
-#EXTINF:-1,Загородный
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621050
-#EXTINF:-1,RutubeTV HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621049
-#EXTINF:-1,НТВ Стиль
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621048
-#EXTINF:-1,НТВ Право
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621047
-#EXTINF:-1,Зал суда HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621046
-#EXTINF:-1,Ностальгия
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621045
-#EXTINF:-1,HD REX
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621044
-#EXTINF:-1,Вопросы и ответы
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621043
-#EXTINF:-1,Сарафан
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621042
-#EXTINF:-1,8 канал
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621041
-#EXTINF:-1,Драйв
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621040
-#EXTINF:-1,WWE Russian
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621039
-#EXTINF:-1,Театр HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621038
-#EXTINF:-1,E (Game Show)
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621037
-#EXTINF:-1,Пёс и Ко
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621036
-#EXTINF:-1,Gags Network HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621035
-#EXTINF:-1,Авто 24
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621034
-#EXTINF:-1,Fashion TV HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621033
-#EXTINF:-1,Женский Журнал HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621032
-#EXTINF:-1,Ключ HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621031
-#EXTINF:-1,TLC HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621030
-#EXTINF:-1,Лапки LIVE HD
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621029
-#EXTINF:-1,Калейдоскоп ТВ
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621028
-#EXTINF:-1,Теледом
-http://blackaksari54.xyz:8080/Serkan041024/pjT7J1pG5t/621027
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: AMEDIA 2" tvg-logo="" group-title="EU RUSSIAN",RU: AMEDIA 2
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836800.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: HISTORY FHD" tvg-logo="" group-title="EU RUSSIAN",RU: HISTORY FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837479.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: BCU COMEDY FHD" tvg-logo="" group-title="EU RUSSIAN",RU: BCU COMEDY FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837220.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: DOCUBOX FHD" tvg-logo="" group-title="EU RUSSIAN",RU: DOCUBOX FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837476.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MULT" tvg-logo="" group-title="EU RUSSIAN",RU: MULT
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836965.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: BCU KIDS+ FHD" tvg-logo="" group-title="EU RUSSIAN",RU: BCU KIDS+ FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837221.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: DOCUBOX HD" tvg-logo="" group-title="EU RUSSIAN",RU: DOCUBOX HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837477.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Mult FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Mult FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836966.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: BCU KINORATING FHD" tvg-logo="" group-title="EU RUSSIAN",RU: BCU KINORATING FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837222.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: History" tvg-logo="" group-title="EU RUSSIAN",RU: History
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837478.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MULT HD" tvg-logo="" group-title="EU RUSSIAN",RU: MULT HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836967.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: BCU MARVEL FHD" tvg-logo="" group-title="EU RUSSIAN",RU: BCU MARVEL FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837223.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MULTILANDIA" tvg-logo="" group-title="EU RUSSIAN",RU: MULTILANDIA
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836968.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: DocuBox" tvg-logo="" group-title="EU RUSSIAN",RU: DocuBox
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837475.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: BCU MULTSERIAL FHD" tvg-logo="" group-title="EU RUSSIAN",RU: BCU MULTSERIAL FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837224.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: HISTORY HD" tvg-logo="" group-title="EU RUSSIAN",RU: HISTORY HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837480.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Multimania" tvg-logo="" group-title="EU RUSSIAN",RU: Multimania
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836969.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: BCU PREMIER 1 FHD" tvg-logo="" group-title="EU RUSSIAN",RU: BCU PREMIER 1 FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837225.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: ID Investigation Discovery" tvg-logo="" group-title="EU RUSSIAN",RU: ID Investigation Discovery
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837481.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MyZen TV HD" tvg-logo="" group-title="EU RUSSIAN",RU: MyZen TV HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836970.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: BCU PREMIER 2 FHD" tvg-logo="" group-title="EU RUSSIAN",RU: BCU PREMIER 2 FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837226.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: ID Investigation Discovery HD" tvg-logo="" group-title="EU RUSSIAN",RU: ID Investigation Discovery HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837482.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Nano TV HD" tvg-logo="" group-title="EU RUSSIAN",RU: Nano TV HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836971.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: BCU PREMIER 3 FHD" tvg-logo="" group-title="EU RUSSIAN",RU: BCU PREMIER 3 FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837227.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MOYA PLANETA" tvg-logo="" group-title="EU RUSSIAN",RU: MOYA PLANETA
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837483.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Moya Stikhiya HD" tvg-logo="" group-title="EU RUSSIAN",RU: Moya Stikhiya HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836964.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: BCU CINEMA PLUS FHD" tvg-logo="" group-title="EU RUSSIAN",RU: BCU CINEMA PLUS FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837219.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: BCU ROMANTIC FHD" tvg-logo="" group-title="EU RUSSIAN",RU: BCU ROMANTIC FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837228.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Discovery Channel HD" tvg-logo="" group-title="EU RUSSIAN",RU: Discovery Channel HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837470.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MMA TV HD" tvg-logo="" group-title="EU RUSSIAN",RU: MMA TV HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836955.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TRASH HD" tvg-logo="" group-title="EU RUSSIAN",RU: TRASH HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837211.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Big Planet FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Big Planet FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837467.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MORSKOI" tvg-logo="" group-title="EU RUSSIAN",RU: MORSKOI
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836956.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Jivaya Priroda HD" tvg-logo="" group-title="EU RUSSIAN",RU: Jivaya Priroda HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837212.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Big Planet HD" tvg-logo="" group-title="EU RUSSIAN",RU: Big Planet HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837468.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Mosfilm" tvg-logo="" group-title="EU RUSSIAN",RU: Mosfilm
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836957.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Discovery Channel" tvg-logo="" group-title="EU RUSSIAN",RU: Discovery Channel
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837469.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Mosfilm FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Mosfilm FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836958.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: AMEDIA HIT FHD" tvg-logo="" group-title="EU RUSSIAN",RU: AMEDIA HIT FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837214.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Mosfilm HD" tvg-logo="" group-title="EU RUSSIAN",RU: Mosfilm HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836959.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Moya Stikhiya FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Moya Stikhiya FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836963.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: AMEDIA PREMIUM FHD" tvg-logo="" group-title="EU RUSSIAN",RU: AMEDIA PREMIUM FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837215.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: DISCOVERY DTX" tvg-logo="" group-title="EU RUSSIAN",RU: DISCOVERY DTX
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837471.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MOSKVA 24" tvg-logo="" group-title="EU RUSSIAN",RU: MOSKVA 24
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836960.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: AMEDIA PREMIUM HD" tvg-logo="" group-title="EU RUSSIAN",RU: AMEDIA PREMIUM HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837216.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Discovery Science" tvg-logo="" group-title="EU RUSSIAN",RU: Discovery Science
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837472.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Moskva 24 HD" tvg-logo="" group-title="EU RUSSIAN",RU: Moskva 24 HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836961.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: BCU ACTION FHD" tvg-logo="" group-title="EU RUSSIAN",RU: BCU ACTION FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837217.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Discovery Science HD" tvg-logo="" group-title="EU RUSSIAN",RU: Discovery Science HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837473.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Moya Stikhiya" tvg-logo="" group-title="EU RUSSIAN",RU: Moya Stikhiya
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836962.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: BCU CINEMA FHD" tvg-logo="" group-title="EU RUSSIAN",RU: BCU CINEMA FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837218.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: DISCOVERY TURBO XTRA HD" tvg-logo="" group-title="EU RUSSIAN",RU: DISCOVERY TURBO XTRA HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837474.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: NASHA SIBIR" tvg-logo="" group-title="EU RUSSIAN",RU: NASHA SIBIR
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836972.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Museum HD" tvg-logo="" group-title="EU RUSSIAN",RU: Museum HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837484.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Trace Sport Stars HD" tvg-logo="" group-title="EU RUSSIAN",RU: Trace Sport Stars HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837210.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: NTV+ 2 HD" tvg-logo="" group-title="EU RUSSIAN",RU: NTV+ 2 HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836986.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Rossiya Planeta" tvg-logo="" group-title="EU RUSSIAN",RU: Rossiya Planeta
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837494.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: NTV STIL HD" tvg-logo="" group-title="EU RUSSIAN",RU: NTV STIL HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836983.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: BRIDGE DELUXE" tvg-logo="" group-title="EU RUSSIAN",RU: BRIDGE DELUXE
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837239.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: RTR PLANETA" tvg-logo="" group-title="EU RUSSIAN",RU: RTR PLANETA
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837495.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: NTV+ 2" tvg-logo="" group-title="EU RUSSIAN",RU: NTV+ 2
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836984.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: BRIDGE DELUXE FHD" tvg-logo="" group-title="EU RUSSIAN",RU: BRIDGE DELUXE FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837240.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Science 2.0 (Наука 2.0)" tvg-logo="" group-title="EU RUSSIAN",RU: Science 2.0 (Наука 2.0)
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837496.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: NTV+ 2 FHD" tvg-logo="" group-title="EU RUSSIAN",RU: NTV+ 2 FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836985.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: BRIDGE DELUXE HD" tvg-logo="" group-title="EU RUSSIAN",RU: BRIDGE DELUXE HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837241.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: START AIR" tvg-logo="" group-title="EU RUSSIAN",RU: START AIR
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837497.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: BSU FANTASTIC FHD" tvg-logo="" group-title="EU RUSSIAN",RU: BSU FANTASTIC FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837242.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: NTV STIL FHD" tvg-logo="" group-title="EU RUSSIAN",RU: NTV STIL FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836982.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: START WORLD" tvg-logo="" group-title="EU RUSSIAN",RU: START WORLD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837498.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: NTV+ 7" tvg-logo="" group-title="EU RUSSIAN",RU: NTV+ 7
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836987.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Cinema" tvg-logo="" group-title="EU RUSSIAN",RU: Cinema
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837243.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TRAVEL" tvg-logo="" group-title="EU RUSSIAN",RU: TRAVEL
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837499.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: O!" tvg-logo="" group-title="EU RUSSIAN",RU: O!
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836988.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: CINEMA FHD" tvg-logo="" group-title="EU RUSSIAN",RU: CINEMA FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837244.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Travel HD" tvg-logo="" group-title="EU RUSSIAN",RU: Travel HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837500.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: O! HD" tvg-logo="" group-title="EU RUSSIAN",RU: O! HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836989.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: CINEMA HD" tvg-logo="" group-title="EU RUSSIAN",RU: CINEMA HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837245.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Travel&Adventure FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Travel&Adventure FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837501.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: O2 TV" tvg-logo="" group-title="EU RUSSIAN",RU: O2 TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836990.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: BRIDGE RUSSKIY HIT HD" tvg-logo="" group-title="EU RUSSIAN",RU: BRIDGE RUSSKIY HIT HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837238.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Rossiya Kultura" tvg-logo="" group-title="EU RUSSIAN",RU: Rossiya Kultura
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837493.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: NASHA SIBIR FHD" tvg-logo="" group-title="EU RUSSIAN",RU: NASHA SIBIR FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836973.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: HCT TV" tvg-logo="" group-title="EU RUSSIAN",RU: HCT TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836977.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: BCU RUSSIAN FHD" tvg-logo="" group-title="EU RUSSIAN",RU: BCU RUSSIAN FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837229.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Nat Geo Wild" tvg-logo="" group-title="EU RUSSIAN",RU: Nat Geo Wild
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837485.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: NASHA SIBIR HD" tvg-logo="" group-title="EU RUSSIAN",RU: NASHA SIBIR HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836974.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: BCU SSSR FHD" tvg-logo="" group-title="EU RUSSIAN",RU: BCU SSSR FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837230.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Nat Geo Wild HD" tvg-logo="" group-title="EU RUSSIAN",RU: Nat Geo Wild HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837486.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Nashe Krutoe" tvg-logo="" group-title="EU RUSSIAN",RU: Nashe Krutoe
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836975.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: BCU ULTRA 4K" tvg-logo="" group-title="EU RUSSIAN",RU: BCU ULTRA 4K
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837231.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: National Geographic" tvg-logo="" group-title="EU RUSSIAN",RU: National Geographic
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837487.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: NOSTALGIJA" tvg-logo="" group-title="EU RUSSIAN",RU: NOSTALGIJA
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836976.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: BCU VHS FHD" tvg-logo="" group-title="EU RUSSIAN",RU: BCU VHS FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837232.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: National Geographic HD" tvg-logo="" group-title="EU RUSSIAN",RU: National Geographic HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837488.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: BOLLYWOOD" tvg-logo="" group-title="EU RUSSIAN",RU: BOLLYWOOD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837233.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: BRIDGE RUSSKIY HIT FHD" tvg-logo="" group-title="EU RUSSIAN",RU: BRIDGE RUSSKIY HIT FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837237.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Nauka" tvg-logo="" group-title="EU RUSSIAN",RU: Nauka
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837489.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: NTV" tvg-logo="" group-title="EU RUSSIAN",RU: NTV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836978.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: BOLLYWOOD FHD" tvg-logo="" group-title="EU RUSSIAN",RU: BOLLYWOOD FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837234.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Nauka FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Nauka FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837490.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: NTV Hit" tvg-logo="" group-title="EU RUSSIAN",RU: NTV Hit
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836979.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: BRIDGE HITS FHD" tvg-logo="" group-title="EU RUSSIAN",RU: BRIDGE HITS FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837235.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Nauka HD" tvg-logo="" group-title="EU RUSSIAN",RU: Nauka HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837491.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: NTV PRAVO" tvg-logo="" group-title="EU RUSSIAN",RU: NTV PRAVO
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836980.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: BRIDGE HITS HD" tvg-logo="" group-title="EU RUSSIAN",RU: BRIDGE HITS HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837236.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Okean Tv HD" tvg-logo="" group-title="EU RUSSIAN",RU: Okean Tv HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837492.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: NTV Stil" tvg-logo="" group-title="EU RUSSIAN",RU: NTV Stil
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836981.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Big Planet" tvg-logo="" group-title="EU RUSSIAN",RU: Big Planet
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837466.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MIR24 FHD" tvg-logo="" group-title="EU RUSSIAN",RU: MIR24 FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836954.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Travel&Adventure HD" tvg-logo="" group-title="EU RUSSIAN",RU: Travel&Adventure HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837502.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: FashionBox" tvg-logo="" group-title="EU RUSSIAN",RU: FashionBox
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837442.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Vremya" tvg-logo="" group-title="EU RUSSIAN",RU: Vremya
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837183.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Fashion TV FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Fashion TV FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837439.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Kukhnya TV" tvg-logo="" group-title="EU RUSSIAN",RU: Kukhnya TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836928.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Women's Magazine FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Women's Magazine FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837184.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Fashion TV" tvg-logo="" group-title="EU RUSSIAN",RU: Fashion TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837440.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Kukhnya TV FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Kukhnya TV FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836929.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Women's Magazine" tvg-logo="" group-title="EU RUSSIAN",RU: Women's Magazine
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837185.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: FASHION TV HD" tvg-logo="" group-title="EU RUSSIAN",RU: FASHION TV HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837441.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Kukhnya TV HD" tvg-logo="" group-title="EU RUSSIAN",RU: Kukhnya TV HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836930.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Zagorodnaya Zhizn" tvg-logo="" group-title="EU RUSSIAN",RU: Zagorodnaya Zhizn
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837186.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: KBH TV" tvg-logo="" group-title="EU RUSSIAN",RU: KBH TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836931.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Fashion & Lifestyle HD" tvg-logo="" group-title="EU RUSSIAN",RU: Fashion & Lifestyle HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837438.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Zagorodnaya Zhizn HD" tvg-logo="" group-title="EU RUSSIAN",RU: Zagorodnaya Zhizn HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837187.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Fast&FunBox" tvg-logo="" group-title="EU RUSSIAN",RU: Fast&FunBox
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837443.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: La minor" tvg-logo="" group-title="EU RUSSIAN",RU: La minor
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836932.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Zagorodniy HD" tvg-logo="" group-title="EU RUSSIAN",RU: Zagorodniy HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837188.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Food Network HD" tvg-logo="" group-title="EU RUSSIAN",RU: Food Network HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837444.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Leomax24" tvg-logo="" group-title="EU RUSSIAN",RU: Leomax24
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836933.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Zagorodniy" tvg-logo="" group-title="EU RUSSIAN",RU: Zagorodniy
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837189.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Food Time" tvg-logo="" group-title="EU RUSSIAN",RU: Food Time
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837445.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Life HD" tvg-logo="" group-title="EU RUSSIAN",RU: Life HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836934.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Jar Ptitsa" tvg-logo="" group-title="EU RUSSIAN",RU: Jar Ptitsa
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837190.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Food Time HD" tvg-logo="" group-title="EU RUSSIAN",RU: Food Time HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837446.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Kuhinya TV" tvg-logo="" group-title="EU RUSSIAN",RU: Kuhinya TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836927.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Vostok TV" tvg-logo="" group-title="EU RUSSIAN",RU: Vostok TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837182.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Zdorovoye TV" tvg-logo="" group-title="EU RUSSIAN",RU: Zdorovoye TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837191.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Avto Plus HD" tvg-logo="" group-title="EU RUSSIAN",RU: Avto Plus HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837433.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: V Mire Zhivotnykh FHD" tvg-logo="" group-title="EU RUSSIAN",RU: V Mire Zhivotnykh FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837174.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: AVTO 24 HD" tvg-logo="" group-title="EU RUSSIAN",RU: AVTO 24 HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837430.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Klyuch" tvg-logo="" group-title="EU RUSSIAN",RU: Klyuch
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836919.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: V Mire Zhivotnykh HD" tvg-logo="" group-title="EU RUSSIAN",RU: V Mire Zhivotnykh HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837175.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Avto Plus" tvg-logo="" group-title="EU RUSSIAN",RU: Avto Plus
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837431.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Klyuch FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Klyuch FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836920.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Viju Nature FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Viju Nature FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837176.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Avto Plus FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Avto Plus FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837432.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Klyuch HD" tvg-logo="" group-title="EU RUSSIAN",RU: Klyuch HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836921.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Viju TV1000 Russkoje" tvg-logo="" group-title="EU RUSSIAN",RU: Viju TV1000 Russkoje
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837177.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: KONNIY MIR HD" tvg-logo="" group-title="EU RUSSIAN",RU: KONNIY MIR HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836922.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: KTO EST KTO" tvg-logo="" group-title="EU RUSSIAN",RU: KTO EST KTO
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836926.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Viju TV1000 Russkoje HD" tvg-logo="" group-title="EU RUSSIAN",RU: Viju TV1000 Russkoje HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837178.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: DaVinci Learning" tvg-logo="" group-title="EU RUSSIAN",RU: DaVinci Learning
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837434.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Krasnaya Liniya" tvg-logo="" group-title="EU RUSSIAN",RU: Krasnaya Liniya
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836923.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: VIJU+ PLANET" tvg-logo="" group-title="EU RUSSIAN",RU: VIJU+ PLANET
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837179.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: FAN" tvg-logo="" group-title="EU RUSSIAN",RU: FAN
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837435.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Krik TV" tvg-logo="" group-title="EU RUSSIAN",RU: Krik TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836924.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Vitrina TV" tvg-logo="" group-title="EU RUSSIAN",RU: Vitrina TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837180.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Fashion & Lifestyle" tvg-logo="" group-title="EU RUSSIAN",RU: Fashion & Lifestyle
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837436.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: KTNO TV" tvg-logo="" group-title="EU RUSSIAN",RU: KTNO TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836925.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Voprosi i Otveti" tvg-logo="" group-title="EU RUSSIAN",RU: Voprosi i Otveti
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837181.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Fashion & Lifestyle FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Fashion & Lifestyle FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837437.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Liova" tvg-logo="" group-title="EU RUSSIAN",RU: Liova
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836935.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Kuchnia TV" tvg-logo="" group-title="EU RUSSIAN",RU: Kuchnia TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837447.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Animal Planet HD" tvg-logo="" group-title="EU RUSSIAN",RU: Animal Planet HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837465.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Ю TV" tvg-logo="" group-title="EU RUSSIAN",RU: Ю TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837205.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MIR" tvg-logo="" group-title="EU RUSSIAN",RU: MIR
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836946.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Jivi!" tvg-logo="" group-title="EU RUSSIAN",RU: Jivi!
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837202.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: 360" tvg-logo="" group-title="EU RUSSIAN",RU: 360
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837458.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MIR24 HD" tvg-logo="" group-title="EU RUSSIAN",RU: MIR24 HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836947.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: СТС" tvg-logo="" group-title="EU RUSSIAN",RU: СТС
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837203.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: 360 HD" tvg-logo="" group-title="EU RUSSIAN",RU: 360 HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837459.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MIR BASKETBOLA" tvg-logo="" group-title="EU RUSSIAN",RU: MIR BASKETBOLA
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836948.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: ТPO" tvg-logo="" group-title="EU RUSSIAN",RU: ТPO
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837204.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: 360 FHD" tvg-logo="" group-title="EU RUSSIAN",RU: 360 FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837460.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Mir Basketbola FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Mir Basketbola FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836949.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: 365 DNEI HD" tvg-logo="" group-title="EU RUSSIAN",RU: 365 DNEI HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837461.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: ZVEZDA PLUS HD" tvg-logo="" group-title="EU RUSSIAN",RU: ZVEZDA PLUS HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837201.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MIR FHD" tvg-logo="" group-title="EU RUSSIAN",RU: MIR FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836950.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: O! FHD" tvg-logo="" group-title="EU RUSSIAN",RU: O! FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837206.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: 7 Kanal" tvg-logo="" group-title="EU RUSSIAN",RU: 7 Kanal
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837462.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MIR HD" tvg-logo="" group-title="EU RUSSIAN",RU: MIR HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836951.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: RBK HD" tvg-logo="" group-title="EU RUSSIAN",RU: RBK HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837207.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Animal Family HD" tvg-logo="" group-title="EU RUSSIAN",RU: Animal Family HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837463.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Mir Seriala" tvg-logo="" group-title="EU RUSSIAN",RU: Mir Seriala
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836952.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Tantsuy! HD" tvg-logo="" group-title="EU RUSSIAN",RU: Tantsuy! HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837208.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Animal Planet" tvg-logo="" group-title="EU RUSSIAN",RU: Animal Planet
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837464.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MIR24" tvg-logo="" group-title="EU RUSSIAN",RU: MIR24
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836953.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Tip-Top HD" tvg-logo="" group-title="EU RUSSIAN",RU: Tip-Top HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837209.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: 360 NOVOSTI HD" tvg-logo="" group-title="EU RUSSIAN",RU: 360 NOVOSTI HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837457.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MCM TOP" tvg-logo="" group-title="EU RUSSIAN",RU: MCM TOP
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836945.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Liova FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Liova FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836936.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: LTV 7 HD" tvg-logo="" group-title="EU RUSSIAN",RU: LTV 7 HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836940.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: ZEE TV" tvg-logo="" group-title="EU RUSSIAN",RU: ZEE TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837192.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Shopping Live" tvg-logo="" group-title="EU RUSSIAN",RU: Shopping Live
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837448.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Liova HD" tvg-logo="" group-title="EU RUSSIAN",RU: Liova HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836937.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Jivaya Priroda" tvg-logo="" group-title="EU RUSSIAN",RU: Jivaya Priroda
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837193.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Teatr" tvg-logo="" group-title="EU RUSSIAN",RU: Teatr
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837449.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: LTV 7" tvg-logo="" group-title="EU RUSSIAN",RU: LTV 7
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836938.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Jivaya Priroda FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Jivaya Priroda FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837194.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Women's Magazine HD" tvg-logo="" group-title="EU RUSSIAN",RU: Women's Magazine HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837450.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: LTV 7 FHD" tvg-logo="" group-title="EU RUSSIAN",RU: LTV 7 FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836939.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: ZHIVI!" tvg-logo="" group-title="EU RUSSIAN",RU: ZHIVI!
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837195.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: World Fashion" tvg-logo="" group-title="EU RUSSIAN",RU: World Fashion
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837451.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: ZVEZDA" tvg-logo="" group-title="EU RUSSIAN",RU: ZVEZDA
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837196.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: 360 NOVOSTI FHD" tvg-logo="" group-title="EU RUSSIAN",RU: 360 NOVOSTI FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837456.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: World Fashion FHD" tvg-logo="" group-title="EU RUSSIAN",RU: World Fashion FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837452.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Luxury HD" tvg-logo="" group-title="EU RUSSIAN",RU: Luxury HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836941.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: ZVEZDA FHD" tvg-logo="" group-title="EU RUSSIAN",RU: ZVEZDA FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837197.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: World Fashion HD" tvg-logo="" group-title="EU RUSSIAN",RU: World Fashion HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837453.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: LYA MINOR" tvg-logo="" group-title="EU RUSSIAN",RU: LYA MINOR
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836942.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: ZVEZDA HD" tvg-logo="" group-title="EU RUSSIAN",RU: ZVEZDA HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837198.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Teatr HD" tvg-logo="" group-title="EU RUSSIAN",RU: Teatr HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837454.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: M1 GLOBAL" tvg-logo="" group-title="EU RUSSIAN",RU: M1 GLOBAL
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836943.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Zvezda Plus" tvg-logo="" group-title="EU RUSSIAN",RU: Zvezda Plus
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837199.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Mama" tvg-logo="" group-title="EU RUSSIAN",RU: Mama
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836944.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Zvezda Plyus FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Zvezda Plyus FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837200.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: DOM KINO" tvg-logo="" group-title="EU RUSSIAN",RU: DOM KINO
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837246.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: O2 TV FHD" tvg-logo="" group-title="EU RUSSIAN",RU: O2 TV FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836991.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: V Mire Zhivotnykh" tvg-logo="" group-title="EU RUSSIAN",RU: V Mire Zhivotnykh
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837173.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MATCH ARENA HD" tvg-logo="" group-title="EU RUSSIAN",RU: MATCH ARENA HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837550.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Ratnik" tvg-logo="" group-title="EU RUSSIAN",RU: Ratnik
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837036.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: HIT" tvg-logo="" group-title="EU RUSSIAN",RU: HIT
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837292.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MATCH ARENA" tvg-logo="" group-title="EU RUSSIAN",RU: MATCH ARENA
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837548.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: 1HD HD" tvg-logo="" group-title="EU RUSSIAN",RU: 1HD HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836781.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Ratnik FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Ratnik FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837037.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: HIT FHD" tvg-logo="" group-title="EU RUSSIAN",RU: HIT FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837293.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MATCH ARENA FHD" tvg-logo="" group-title="EU RUSSIAN",RU: MATCH ARENA FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837549.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: 1HD SD" tvg-logo="" group-title="EU RUSSIAN",RU: 1HD SD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836782.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Ratnik HD" tvg-logo="" group-title="EU RUSSIAN",RU: Ratnik HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837038.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: HIT HD" tvg-logo="" group-title="EU RUSSIAN",RU: HIT HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837294.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: T24" tvg-logo="" group-title="EU RUSSIAN",RU: T24
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836783.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: FUTBOLNYI HD" tvg-logo="" group-title="EU RUSSIAN",RU: FUTBOLNYI HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837547.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: RBC" tvg-logo="" group-title="EU RUSSIAN",RU: RBC
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837039.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Hollywood" tvg-logo="" group-title="EU RUSSIAN",RU: Hollywood
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837295.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MATCH BOEC FHD" tvg-logo="" group-title="EU RUSSIAN",RU: MATCH BOEC FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837551.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: 2X2" tvg-logo="" group-title="EU RUSSIAN",RU: 2X2
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836784.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: RBC FHD" tvg-logo="" group-title="EU RUSSIAN",RU: RBC FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837040.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Hollywood FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Hollywood FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837296.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MATCH Bоеc HD" tvg-logo="" group-title="EU RUSSIAN",RU: MATCH Bоеc HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837552.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: 3 PLUS" tvg-logo="" group-title="EU RUSSIAN",RU: 3 PLUS
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836785.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: RBC HD" tvg-logo="" group-title="EU RUSSIAN",RU: RBC HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837041.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Hollywood HD" tvg-logo="" group-title="EU RUSSIAN",RU: Hollywood HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837297.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MATCH TV FHD" tvg-logo="" group-title="EU RUSSIAN",RU: MATCH TV FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837553.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: 1HD FHD" tvg-logo="" group-title="EU RUSSIAN",RU: 1HD FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836780.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: HGTV HD" tvg-logo="" group-title="EU RUSSIAN",RU: HGTV HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837291.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: RBK FHD" tvg-logo="" group-title="EU RUSSIAN",RU: RBK FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837042.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: FUTBOL FHD" tvg-logo="" group-title="EU RUSSIAN",RU: FUTBOL FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837543.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Fox Life HD" tvg-logo="" group-title="EU RUSSIAN",RU: Fox Life HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837284.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: FightBox FHD" tvg-logo="" group-title="EU RUSSIAN",RU: FightBox FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837540.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: PYATNICA+ 4" tvg-logo="" group-title="EU RUSSIAN",RU: PYATNICA+ 4
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837029.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: H2 HD" tvg-logo="" group-title="EU RUSSIAN",RU: H2 HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837285.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: FightBox HD" tvg-logo="" group-title="EU RUSSIAN",RU: FightBox HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837541.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: PYATNICA+ 4 FHD" tvg-logo="" group-title="EU RUSSIAN",RU: PYATNICA+ 4 FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837030.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: HD Life" tvg-logo="" group-title="EU RUSSIAN",RU: HD Life
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837286.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: FUTBOL" tvg-logo="" group-title="EU RUSSIAN",RU: FUTBOL
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837542.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: PYATNICA+ 4 HD" tvg-logo="" group-title="EU RUSSIAN",RU: PYATNICA+ 4 HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837031.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: HDL" tvg-logo="" group-title="EU RUSSIAN",RU: HDL
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837287.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: PYATNICA+ 7" tvg-logo="" group-title="EU RUSSIAN",RU: PYATNICA+ 7
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837032.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Radost Moya" tvg-logo="" group-title="EU RUSSIAN",RU: Radost Moya
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837035.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: HDL FHD" tvg-logo="" group-title="EU RUSSIAN",RU: HDL FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837288.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: FUTBOL HD" tvg-logo="" group-title="EU RUSSIAN",RU: FUTBOL HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837544.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: OTV" tvg-logo="" group-title="EU RUSSIAN",RU: OTV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836777.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: PYATNICA+ 7 FHD" tvg-logo="" group-title="EU RUSSIAN",RU: PYATNICA+ 7 FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837033.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: HDL HD" tvg-logo="" group-title="EU RUSSIAN",RU: HDL HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837289.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: FUTBOLNYI" tvg-logo="" group-title="EU RUSSIAN",RU: FUTBOLNYI
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837545.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: OTV HD" tvg-logo="" group-title="EU RUSSIAN",RU: OTV HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836778.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: PYATNICA+ 7 HD" tvg-logo="" group-title="EU RUSSIAN",RU: PYATNICA+ 7 HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837034.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: HGTV" tvg-logo="" group-title="EU RUSSIAN",RU: HGTV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837290.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: FUTBOLNYI FHD" tvg-logo="" group-title="EU RUSSIAN",RU: FUTBOLNYI FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837546.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: #KtoKuda" tvg-logo="" group-title="EU RUSSIAN",RU: #KtoKuda
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836779.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: 3 PLUS FHD" tvg-logo="" group-title="EU RUSSIAN",RU: 3 PLUS FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836786.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: ILLUZION+" tvg-logo="" group-title="EU RUSSIAN",RU: ILLUZION+
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837298.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: FightBox" tvg-logo="" group-title="EU RUSSIAN",RU: FightBox
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837539.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: KINO LIVING" tvg-logo="" group-title="EU RUSSIAN",RU: KINO LIVING
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837308.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: 8TV" tvg-logo="" group-title="EU RUSSIAN",RU: 8TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836794.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: RETRO TV" tvg-logo="" group-title="EU RUSSIAN",RU: RETRO TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837050.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: KINO 1" tvg-logo="" group-title="EU RUSSIAN",RU: KINO 1
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837306.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Match Football 3 HD" tvg-logo="" group-title="EU RUSSIAN",RU: Match Football 3 HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837562.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: 8TV FHD" tvg-logo="" group-title="EU RUSSIAN",RU: 8TV FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836795.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: ROSSIYA 1" tvg-logo="" group-title="EU RUSSIAN",RU: ROSSIYA 1
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837051.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: KINO 1 HD" tvg-logo="" group-title="EU RUSSIAN",RU: KINO 1 HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837307.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MATCH IGRA" tvg-logo="" group-title="EU RUSSIAN",RU: MATCH IGRA
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837563.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Amedia 1 HD" tvg-logo="" group-title="EU RUSSIAN",RU: Amedia 1 HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836796.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: ROSSIYA 1 FHD" tvg-logo="" group-title="EU RUSSIAN",RU: ROSSIYA 1 FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837052.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MATCH IGRA FHD" tvg-logo="" group-title="EU RUSSIAN",RU: MATCH IGRA FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837564.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: KINEKO HD" tvg-logo="" group-title="EU RUSSIAN",RU: KINEKO HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837305.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: AMC" tvg-logo="" group-title="EU RUSSIAN",RU: AMC
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836797.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: ROSSIYA 1 HD" tvg-logo="" group-title="EU RUSSIAN",RU: ROSSIYA 1 HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837053.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: KINO LIVING FHD" tvg-logo="" group-title="EU RUSSIAN",RU: KINO LIVING FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837309.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MATCH IGRA HD" tvg-logo="" group-title="EU RUSSIAN",RU: MATCH IGRA HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837565.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: AMEDIA 1" tvg-logo="" group-title="EU RUSSIAN",RU: AMEDIA 1
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836798.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Rossiya 24" tvg-logo="" group-title="EU RUSSIAN",RU: Rossiya 24
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837054.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: KINO LIVING HD" tvg-logo="" group-title="EU RUSSIAN",RU: KINO LIVING HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837310.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MATCH NASH SPORT" tvg-logo="" group-title="EU RUSSIAN",RU: MATCH NASH SPORT
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837566.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: AMEDIA 1 FHD" tvg-logo="" group-title="EU RUSSIAN",RU: AMEDIA 1 FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836799.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: RT" tvg-logo="" group-title="EU RUSSIAN",RU: RT
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837055.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Kino TV" tvg-logo="" group-title="EU RUSSIAN",RU: Kino TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837311.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MATCH FOOTBALL 3 FHD" tvg-logo="" group-title="EU RUSSIAN",RU: MATCH FOOTBALL 3 FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837561.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: REN TV" tvg-logo="" group-title="EU RUSSIAN",RU: REN TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837049.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Match Football 1" tvg-logo="" group-title="EU RUSSIAN",RU: Match Football 1
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837554.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Match Football 2" tvg-logo="" group-title="EU RUSSIAN",RU: Match Football 2
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837557.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: 3 PLUS HD" tvg-logo="" group-title="EU RUSSIAN",RU: 3 PLUS HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836787.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: RBK" tvg-logo="" group-title="EU RUSSIAN",RU: RBK
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837043.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Indijskoe Kino" tvg-logo="" group-title="EU RUSSIAN",RU: Indijskoe Kino
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837299.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MATCH FOOTBALL 1 FHD" tvg-logo="" group-title="EU RUSSIAN",RU: MATCH FOOTBALL 1 FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837555.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: 360 NOVOSTI" tvg-logo="" group-title="EU RUSSIAN",RU: 360 NOVOSTI
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836788.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Red" tvg-logo="" group-title="EU RUSSIAN",RU: Red
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837044.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: KAPITAN FANTASTIKA" tvg-logo="" group-title="EU RUSSIAN",RU: KAPITAN FANTASTIKA
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837300.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MATCH FOOTBALL 1 HD" tvg-logo="" group-title="EU RUSSIAN",RU: MATCH FOOTBALL 1 HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837556.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: 360 Podmoskovie" tvg-logo="" group-title="EU RUSSIAN",RU: 360 Podmoskovie
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836789.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: RED FHD" tvg-logo="" group-title="EU RUSSIAN",RU: RED FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837045.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Kapitan Fantastika FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Kapitan Fantastika FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837301.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: 365 dnei" tvg-logo="" group-title="EU RUSSIAN",RU: 365 dnei
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836790.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: 8 KANAL" tvg-logo="" group-title="EU RUSSIAN",RU: 8 KANAL
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836793.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: RED HD" tvg-logo="" group-title="EU RUSSIAN",RU: RED HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837046.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: KAPITAN FANTASTIKA HD" tvg-logo="" group-title="EU RUSSIAN",RU: KAPITAN FANTASTIKA HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837302.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MATCH FOOTBALL 2 FHD" tvg-logo="" group-title="EU RUSSIAN",RU: MATCH FOOTBALL 2 FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837558.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: 365 dnei FHD" tvg-logo="" group-title="EU RUSSIAN",RU: 365 dnei FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836791.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: REN HD" tvg-logo="" group-title="EU RUSSIAN",RU: REN HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837047.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: KINEKO" tvg-logo="" group-title="EU RUSSIAN",RU: KINEKO
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837303.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Match Football 2 HD" tvg-logo="" group-title="EU RUSSIAN",RU: Match Football 2 HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837559.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: 5 KANAL" tvg-logo="" group-title="EU RUSSIAN",RU: 5 KANAL
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836792.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: REN TV FHD" tvg-logo="" group-title="EU RUSSIAN",RU: REN TV FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837048.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: KINEKO FHD" tvg-logo="" group-title="EU RUSSIAN",RU: KINEKO FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837304.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Match Football 3" tvg-logo="" group-title="EU RUSSIAN",RU: Match Football 3
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837560.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: PYATNICA+ 2 HD" tvg-logo="" group-title="EU RUSSIAN",RU: PYATNICA+ 2 HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837028.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: FOX LIFE" tvg-logo="" group-title="EU RUSSIAN",RU: FOX LIFE
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837283.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Dom Kino Premium" tvg-logo="" group-title="EU RUSSIAN",RU: Dom Kino Premium
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837247.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: PEH TV HD" tvg-logo="" group-title="EU RUSSIAN",RU: PEH TV HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837004.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Viju Explore" tvg-logo="" group-title="EU RUSSIAN",RU: Viju Explore
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837512.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: OTP" tvg-logo="" group-title="EU RUSSIAN",RU: OTP
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837001.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: DUO 3 HD" tvg-logo="" group-title="EU RUSSIAN",RU: DUO 3 HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837257.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Viju Explore FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Viju Explore FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837513.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: OTP FHD" tvg-logo="" group-title="EU RUSSIAN",RU: OTP FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837002.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: DUO 6" tvg-logo="" group-title="EU RUSSIAN",RU: DUO 6
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837258.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Viju Explore HD" tvg-logo="" group-title="EU RUSSIAN",RU: Viju Explore HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837514.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: OTP HD" tvg-logo="" group-title="EU RUSSIAN",RU: OTP HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837003.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: DUO 6 FHD" tvg-logo="" group-title="EU RUSSIAN",RU: DUO 6 FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837259.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Viju History" tvg-logo="" group-title="EU RUSSIAN",RU: Viju History
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837515.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: DUO 6 HD" tvg-logo="" group-title="EU RUSSIAN",RU: DUO 6 HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837260.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: ORUZHIE" tvg-logo="" group-title="EU RUSSIAN",RU: ORUZHIE
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837000.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Viju History FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Viju History FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837516.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Perviy Avtomobilniy HD" tvg-logo="" group-title="EU RUSSIAN",RU: Perviy Avtomobilniy HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837005.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: DUO 7" tvg-logo="" group-title="EU RUSSIAN",RU: DUO 7
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837261.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Viju History HD" tvg-logo="" group-title="EU RUSSIAN",RU: Viju History HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837517.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Perviy Baltic" tvg-logo="" group-title="EU RUSSIAN",RU: Perviy Baltic
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837006.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: DUO 7 FHD" tvg-logo="" group-title="EU RUSSIAN",RU: DUO 7 FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837262.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Viju Nature" tvg-logo="" group-title="EU RUSSIAN",RU: Viju Nature
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837518.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: PERVIY KANAL FHD" tvg-logo="" group-title="EU RUSSIAN",RU: PERVIY KANAL FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837007.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: DUO 7 HD" tvg-logo="" group-title="EU RUSSIAN",RU: DUO 7 HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837263.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Viju Nature HD" tvg-logo="" group-title="EU RUSSIAN",RU: Viju Nature HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837519.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Pervyy Kosmicheskiy" tvg-logo="" group-title="EU RUSSIAN",RU: Pervyy Kosmicheskiy
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837008.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: DUO 3 FHD" tvg-logo="" group-title="EU RUSSIAN",RU: DUO 3 FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837256.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: VIASAT NATURE HD" tvg-logo="" group-title="EU RUSSIAN",RU: VIASAT NATURE HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837511.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Viju+ Planet FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Viju+ Planet FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837520.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Okhotnik i Rybolov FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Okhotnik i Rybolov FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836995.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: VIASAT EXPLORE" tvg-logo="" group-title="EU RUSSIAN",RU: VIASAT EXPLORE
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837503.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: O2 TV HD" tvg-logo="" group-title="EU RUSSIAN",RU: O2 TV HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836992.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: DOM KINO PREMIUM FHD" tvg-logo="" group-title="EU RUSSIAN",RU: DOM KINO PREMIUM FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837248.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: VIASAT EXPLORE FHD" tvg-logo="" group-title="EU RUSSIAN",RU: VIASAT EXPLORE FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837504.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Okhota i Rybalka" tvg-logo="" group-title="EU RUSSIAN",RU: Okhota i Rybalka
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836993.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Dom Kino Premium HD" tvg-logo="" group-title="EU RUSSIAN",RU: Dom Kino Premium HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837249.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: VIASAT EXPLORE HD" tvg-logo="" group-title="EU RUSSIAN",RU: VIASAT EXPLORE HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837505.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Okhotnik i Rybolov" tvg-logo="" group-title="EU RUSSIAN",RU: Okhotnik i Rybolov
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836994.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Domashniye Zhivotnyye" tvg-logo="" group-title="EU RUSSIAN",RU: Domashniye Zhivotnyye
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837250.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: VIASAT HISTORY" tvg-logo="" group-title="EU RUSSIAN",RU: VIASAT HISTORY
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837506.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: DOMASHNIY FHD" tvg-logo="" group-title="EU RUSSIAN",RU: DOMASHNIY FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837251.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: DUO 3" tvg-logo="" group-title="EU RUSSIAN",RU: DUO 3
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837255.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: VIASAT HISTORY FHD" tvg-logo="" group-title="EU RUSSIAN",RU: VIASAT HISTORY FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837507.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Okhotnik i Rybolov HD" tvg-logo="" group-title="EU RUSSIAN",RU: Okhotnik i Rybolov HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836996.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: DOMASHNIY HD" tvg-logo="" group-title="EU RUSSIAN",RU: DOMASHNIY HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837252.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: VIASAT HISTORY HD" tvg-logo="" group-title="EU RUSSIAN",RU: VIASAT HISTORY HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837508.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: OKKO SPORT" tvg-logo="" group-title="EU RUSSIAN",RU: OKKO SPORT
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836997.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: DOMASHNIY+ 4" tvg-logo="" group-title="EU RUSSIAN",RU: DOMASHNIY+ 4
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837253.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: VIASAT NATURE" tvg-logo="" group-title="EU RUSSIAN",RU: VIASAT NATURE
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837509.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: OKKO SPORT FHD" tvg-logo="" group-title="EU RUSSIAN",RU: OKKO SPORT FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836998.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: DORAMA" tvg-logo="" group-title="EU RUSSIAN",RU: DORAMA
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837254.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: VIASAT NATURE FHD" tvg-logo="" group-title="EU RUSSIAN",RU: VIASAT NATURE FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837510.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: OKKO SPORT HD" tvg-logo="" group-title="EU RUSSIAN",RU: OKKO SPORT HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836999.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: EGOIST TV" tvg-logo="" group-title="EU RUSSIAN",RU: EGOIST TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837264.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Pervyy Kosmicheskiy FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Pervyy Kosmicheskiy FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837009.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: PYATNICA+ 2 FHD" tvg-logo="" group-title="EU RUSSIAN",RU: PYATNICA+ 2 FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837027.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Eurosport 1 HD" tvg-logo="" group-title="EU RUSSIAN",RU: Eurosport 1 HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837534.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: FILM ZONE" tvg-logo="" group-title="EU RUSSIAN",RU: FILM ZONE
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837275.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: BOKS TV HD" tvg-logo="" group-title="EU RUSSIAN",RU: BOKS TV HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837531.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: PRODVIZHENIYE" tvg-logo="" group-title="EU RUSSIAN",RU: PRODVIZHENIYE
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837020.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: FILM ZONE HD" tvg-logo="" group-title="EU RUSSIAN",RU: FILM ZONE HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837276.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: BOKS TV FHD" tvg-logo="" group-title="EU RUSSIAN",RU: BOKS TV FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837532.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Psihologia" tvg-logo="" group-title="EU RUSSIAN",RU: Psihologia
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837021.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: FILM ZONE+" tvg-logo="" group-title="EU RUSSIAN",RU: FILM ZONE+
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837277.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: EUROSPORT 1" tvg-logo="" group-title="EU RUSSIAN",RU: EUROSPORT 1
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837533.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: 5 KANAL HD" tvg-logo="" group-title="EU RUSSIAN",RU: 5 KANAL HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837022.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: FILM ZONE+ HD" tvg-logo="" group-title="EU RUSSIAN",RU: FILM ZONE+ HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837278.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: PYATNICA HD" tvg-logo="" group-title="EU RUSSIAN",RU: PYATNICA HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837023.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Boks TV" tvg-logo="" group-title="EU RUSSIAN",RU: Boks TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837530.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: FILMBOX" tvg-logo="" group-title="EU RUSSIAN",RU: FILMBOX
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837279.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: EUROSPORT 2" tvg-logo="" group-title="EU RUSSIAN",RU: EUROSPORT 2
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837535.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: PYATNICA!" tvg-logo="" group-title="EU RUSSIAN",RU: PYATNICA!
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837024.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: FILMBOX ARTHOUSE" tvg-logo="" group-title="EU RUSSIAN",RU: FILMBOX ARTHOUSE
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837280.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: EUROSPORT 2 HD" tvg-logo="" group-title="EU RUSSIAN",RU: EUROSPORT 2 HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837536.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Pyatnica! FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Pyatnica! FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837025.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: FOX" tvg-logo="" group-title="EU RUSSIAN",RU: FOX
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837281.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Extreme Sport" tvg-logo="" group-title="EU RUSSIAN",RU: Extreme Sport
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837537.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: PYATNICA+ 2" tvg-logo="" group-title="EU RUSSIAN",RU: PYATNICA+ 2
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837026.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Fox HD" tvg-logo="" group-title="EU RUSSIAN",RU: Fox HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837282.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Fast&FunBox FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Fast&FunBox FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837538.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: PRO LUBOV HD" tvg-logo="" group-title="EU RUSSIAN",RU: PRO LUBOV HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837019.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: FILM UA DRAMA FHD" tvg-logo="" group-title="EU RUSSIAN",RU: FILM UA DRAMA FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837274.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: EPIC DRAMA FHD" tvg-logo="" group-title="EU RUSSIAN",RU: EPIC DRAMA FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837265.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Europa Plus HD" tvg-logo="" group-title="EU RUSSIAN",RU: Europa Plus HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837269.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: VIJU+ PLANET HD" tvg-logo="" group-title="EU RUSSIAN",RU: VIJU+ PLANET HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837521.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Pervyy Kosmicheskiy HD" tvg-logo="" group-title="EU RUSSIAN",RU: Pervyy Kosmicheskiy HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837010.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: EPIC DRAMA HD" tvg-logo="" group-title="EU RUSSIAN",RU: EPIC DRAMA HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837266.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Zhivaia Planeta" tvg-logo="" group-title="EU RUSSIAN",RU: Zhivaia Planeta
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837522.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: PLAN B" tvg-logo="" group-title="EU RUSSIAN",RU: PLAN B
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837011.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Europa Plus" tvg-logo="" group-title="EU RUSSIAN",RU: Europa Plus
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837267.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Zoo Park" tvg-logo="" group-title="EU RUSSIAN",RU: Zoo Park
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837523.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Pobeda !" tvg-logo="" group-title="EU RUSSIAN",RU: Pobeda !
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837012.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Europa Plus FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Europa Plus FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837268.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: ZOO TV" tvg-logo="" group-title="EU RUSSIAN",RU: ZOO TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837524.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Poyekhali!" tvg-logo="" group-title="EU RUSSIAN",RU: Poyekhali!
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837013.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: ТNV Planeta" tvg-logo="" group-title="EU RUSSIAN",RU: ТNV Planeta
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837525.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: PRO Biznes" tvg-logo="" group-title="EU RUSSIAN",RU: PRO Biznes
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837018.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: PRAVO" tvg-logo="" group-title="EU RUSSIAN",RU: PRAVO
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837014.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: EvroKino" tvg-logo="" group-title="EU RUSSIAN",RU: EvroKino
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837270.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Priklyucheniya" tvg-logo="" group-title="EU RUSSIAN",RU: Priklyucheniya
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837015.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Evrokino HD" tvg-logo="" group-title="EU RUSSIAN",RU: Evrokino HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837271.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Arsenal" tvg-logo="" group-title="EU RUSSIAN",RU: Arsenal
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837527.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Priklyucheniya FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Priklyucheniya FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837016.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Feniks+ Kino" tvg-logo="" group-title="EU RUSSIAN",RU: Feniks+ Kino
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837272.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Arsenal FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Arsenal FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837528.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Priklyucheniya HD" tvg-logo="" group-title="EU RUSSIAN",RU: Priklyucheniya HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837017.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Feniks+ Kino FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Feniks+ Kino FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837273.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Arsenal HD" tvg-logo="" group-title="EU RUSSIAN",RU: Arsenal HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837529.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Kitay TV HD" tvg-logo="" group-title="EU RUSSIAN",RU: Kitay TV HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836918.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Kitay TV FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Kitay TV FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836917.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: RT Doc" tvg-logo="" group-title="EU RUSSIAN",RU: RT Doc
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837056.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Sochi Live" tvg-logo="" group-title="EU RUSSIAN",RU: Sochi Live
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837093.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MEZZO FHD" tvg-logo="" group-title="EU RUSSIAN",RU: MEZZO FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837602.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Channel One" tvg-logo="" group-title="EU RUSSIAN",RU: Channel One
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836835.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: SMARTZONE" tvg-logo="" group-title="EU RUSSIAN",RU: SMARTZONE
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837091.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Nashe Novoe Kino" tvg-logo="" group-title="EU RUSSIAN",RU: Nashe Novoe Kino
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837347.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MEZZO HD" tvg-logo="" group-title="EU RUSSIAN",RU: MEZZO HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837603.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: CHE" tvg-logo="" group-title="EU RUSSIAN",RU: CHE
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836836.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: SNE" tvg-logo="" group-title="EU RUSSIAN",RU: SNE
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837092.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: NASHE NOVOE KINO FHD" tvg-logo="" group-title="EU RUSSIAN",RU: NASHE NOVOE KINO FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837348.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Mezzo Live" tvg-logo="" group-title="EU RUSSIAN",RU: Mezzo Live
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837604.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Chizhik" tvg-logo="" group-title="EU RUSSIAN",RU: Chizhik
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836837.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: NASHE NOVOE KINO HD" tvg-logo="" group-title="EU RUSSIAN",RU: NASHE NOVOE KINO HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837349.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: SMART ZONE FHD" tvg-logo="" group-title="EU RUSSIAN",RU: SMART ZONE FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837090.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Mezzo Live FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Mezzo Live FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837605.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Chizhik FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Chizhik FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836838.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Sochi Live FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Sochi Live FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837094.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Rodnoe Kino" tvg-logo="" group-title="EU RUSSIAN",RU: Rodnoe Kino
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837350.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MEZZO LIVE HD" tvg-logo="" group-title="EU RUSSIAN",RU: MEZZO LIVE HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837606.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Chizhik HD" tvg-logo="" group-title="EU RUSSIAN",RU: Chizhik HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836839.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Sochi Live HD" tvg-logo="" group-title="EU RUSSIAN",RU: Sochi Live HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837095.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: NTV FHD" tvg-logo="" group-title="EU RUSSIAN",RU: NTV FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837351.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MULTIMUZYKA" tvg-logo="" group-title="EU RUSSIAN",RU: MULTIMUZYKA
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837607.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: COLB TV" tvg-logo="" group-title="EU RUSSIAN",RU: COLB TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836840.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Solnce" tvg-logo="" group-title="EU RUSSIAN",RU: Solnce
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837096.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Nashe Liubimoje Kino" tvg-logo="" group-title="EU RUSSIAN",RU: Nashe Liubimoje Kino
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837346.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: CGTN" tvg-logo="" group-title="EU RUSSIAN",RU: CGTN
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836834.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Music Box GOLD" tvg-logo="" group-title="EU RUSSIAN",RU: Music Box GOLD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837608.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Lyubimoye Kino" tvg-logo="" group-title="EU RUSSIAN",RU: Lyubimoye Kino
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837342.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Bridge Tv" tvg-logo="" group-title="EU RUSSIAN",RU: Bridge Tv
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836828.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: SARAFAN" tvg-logo="" group-title="EU RUSSIAN",RU: SARAFAN
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837084.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: KOMEDIA TV" tvg-logo="" group-title="EU RUSSIAN",RU: KOMEDIA TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837340.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: BRIDGE TV DANCE" tvg-logo="" group-title="EU RUSSIAN",RU: BRIDGE TV DANCE
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837596.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Bridge Hits" tvg-logo="" group-title="EU RUSSIAN",RU: Bridge Hits
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836829.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: SET HD" tvg-logo="" group-title="EU RUSSIAN",RU: SET HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837085.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Lubimoe Kino" tvg-logo="" group-title="EU RUSSIAN",RU: Lubimoe Kino
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837341.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Classic Music" tvg-logo="" group-title="EU RUSSIAN",RU: Classic Music
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837597.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Bridge Russkiy Hit" tvg-logo="" group-title="EU RUSSIAN",RU: Bridge Russkiy Hit
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836830.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Shanson TV" tvg-logo="" group-title="EU RUSSIAN",RU: Shanson TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837086.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Classic Music FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Classic Music FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837598.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MEZZO" tvg-logo="" group-title="EU RUSSIAN",RU: MEZZO
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837601.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: CCTV 4" tvg-logo="" group-title="EU RUSSIAN",RU: CCTV 4
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836831.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Shokiruyuschee" tvg-logo="" group-title="EU RUSSIAN",RU: Shokiruyuschee
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837087.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MIR SERIALA FHD" tvg-logo="" group-title="EU RUSSIAN",RU: MIR SERIALA FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837343.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Classic Music HD" tvg-logo="" group-title="EU RUSSIAN",RU: Classic Music HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837599.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: CEMODAN TV" tvg-logo="" group-title="EU RUSSIAN",RU: CEMODAN TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836832.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: SHOT TV" tvg-logo="" group-title="EU RUSSIAN",RU: SHOT TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837088.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: NASH KINOPOKAZ HD" tvg-logo="" group-title="EU RUSSIAN",RU: NASH KINOPOKAZ HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837344.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: First Music Channel 1BY HD" tvg-logo="" group-title="EU RUSSIAN",RU: First Music Channel 1BY HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837600.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: CEMODAN TV HD" tvg-logo="" group-title="EU RUSSIAN",RU: CEMODAN TV HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836833.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: SHOT TV FHD" tvg-logo="" group-title="EU RUSSIAN",RU: SHOT TV FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837089.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Nashe Kinoroman" tvg-logo="" group-title="EU RUSSIAN",RU: Nashe Kinoroman
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837345.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: NTV HD" tvg-logo="" group-title="EU RUSSIAN",RU: NTV HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837352.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: COLB TV HD" tvg-logo="" group-title="EU RUSSIAN",RU: COLB TV HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836841.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: KINOUZHAS HD" tvg-logo="" group-title="EU RUSSIAN",RU: KINOUZHAS HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837339.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: DETSKIJ" tvg-logo="" group-title="EU RUSSIAN",RU: DETSKIJ
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836851.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: PERVIY KANAL HD" tvg-logo="" group-title="EU RUSSIAN",RU: PERVIY KANAL HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837360.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: One Channel HD" tvg-logo="" group-title="EU RUSSIAN",RU: One Channel HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837616.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: DANGE TV" tvg-logo="" group-title="EU RUSSIAN",RU: DANGE TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836849.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: START AIR HD" tvg-logo="" group-title="EU RUSSIAN",RU: START AIR HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837105.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Russkiy Illyuzion" tvg-logo="" group-title="EU RUSSIAN",RU: Russkiy Illyuzion
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837361.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: RUSSIAN MUSIC BOX FHD" tvg-logo="" group-title="EU RUSSIAN",RU: RUSSIAN MUSIC BOX FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837617.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Den Pobedy HD" tvg-logo="" group-title="EU RUSSIAN",RU: Den Pobedy HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836850.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: START HD" tvg-logo="" group-title="EU RUSSIAN",RU: START HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837106.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Russkaya Komedia" tvg-logo="" group-title="EU RUSSIAN",RU: Russkaya Komedia
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837362.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: RUSSIAN MUSIC BOX HD" tvg-logo="" group-title="EU RUSSIAN",RU: RUSSIAN MUSIC BOX HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837618.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: START TRIUMF" tvg-logo="" group-title="EU RUSSIAN",RU: START TRIUMF
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837107.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Current Time HD" tvg-logo="" group-title="EU RUSSIAN",RU: Current Time HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836848.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: SCARRY MOVIE HD" tvg-logo="" group-title="EU RUSSIAN",RU: SCARRY MOVIE HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837363.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: RUSSIAN MUSIC BOX" tvg-logo="" group-title="EU RUSSIAN",RU: RUSSIAN MUSIC BOX
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837619.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: DETSKIY MIR" tvg-logo="" group-title="EU RUSSIAN",RU: DETSKIY MIR
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836852.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: START TRIUMF FHD" tvg-logo="" group-title="EU RUSSIAN",RU: START TRIUMF FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837108.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: SCI-FI" tvg-logo="" group-title="EU RUSSIAN",RU: SCI-FI
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837364.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: SHANT MUSIC" tvg-logo="" group-title="EU RUSSIAN",RU: SHANT MUSIC
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837620.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: DIALOGI O RYBALKE" tvg-logo="" group-title="EU RUSSIAN",RU: DIALOGI O RYBALKE
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836853.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: START TRIUMF HD" tvg-logo="" group-title="EU RUSSIAN",RU: START TRIUMF HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837109.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Sci-Fi FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Sci-Fi FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837365.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: SHANT MUSIC FHD" tvg-logo="" group-title="EU RUSSIAN",RU: SHANT MUSIC FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837621.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Dialogi o Rybalke FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Dialogi o Rybalke FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836854.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: START AIR FHD" tvg-logo="" group-title="EU RUSSIAN",RU: START AIR FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837104.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Muzyka Pervogo" tvg-logo="" group-title="EU RUSSIAN",RU: Muzyka Pervogo
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837615.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Sony Red" tvg-logo="" group-title="EU RUSSIAN",RU: Sony Red
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837097.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Sovershenno Sekretno" tvg-logo="" group-title="EU RUSSIAN",RU: Sovershenno Sekretno
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837100.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: NTV HIT FHD" tvg-logo="" group-title="EU RUSSIAN",RU: NTV HIT FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837353.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MUZ TV" tvg-logo="" group-title="EU RUSSIAN",RU: MUZ TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837609.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: CTC LOVE" tvg-logo="" group-title="EU RUSSIAN",RU: CTC LOVE
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836842.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: SONY TURBO" tvg-logo="" group-title="EU RUSSIAN",RU: SONY TURBO
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837098.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: NTV HIT HD" tvg-logo="" group-title="EU RUSSIAN",RU: NTV HIT HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837354.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Muz Tv FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Muz Tv FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837610.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: CTV" tvg-logo="" group-title="EU RUSSIAN",RU: CTV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836843.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Sony Turbo Black" tvg-logo="" group-title="EU RUSSIAN",RU: Sony Turbo Black
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837099.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: NTV Serial" tvg-logo="" group-title="EU RUSSIAN",RU: NTV Serial
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837355.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MUZ TV HD" tvg-logo="" group-title="EU RUSSIAN",RU: MUZ TV HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837611.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Curiosity Stream" tvg-logo="" group-title="EU RUSSIAN",RU: Curiosity Stream
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836844.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: NTV SERIAL FHD" tvg-logo="" group-title="EU RUSSIAN",RU: NTV SERIAL FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837356.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: PERVIY KANAL" tvg-logo="" group-title="EU RUSSIAN",RU: PERVIY KANAL
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837359.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Muzhskoe Kino" tvg-logo="" group-title="EU RUSSIAN",RU: Muzhskoe Kino
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837612.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Curiosity Stream FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Curiosity Stream FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836845.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: SOVSEC" tvg-logo="" group-title="EU RUSSIAN",RU: SOVSEC
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837101.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: NTV SERIAL HD" tvg-logo="" group-title="EU RUSSIAN",RU: NTV SERIAL HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837357.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Muzhskoe Kino HD" tvg-logo="" group-title="EU RUSSIAN",RU: Muzhskoe Kino HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837613.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Curiosity Stream HD" tvg-logo="" group-title="EU RUSSIAN",RU: Curiosity Stream HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836846.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: SPAS TV" tvg-logo="" group-title="EU RUSSIAN",RU: SPAS TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837102.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Ostrosyuzhetnoye Kino HD" tvg-logo="" group-title="EU RUSSIAN",RU: Ostrosyuzhetnoye Kino HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837358.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Muzhskoy" tvg-logo="" group-title="EU RUSSIAN",RU: Muzhskoy
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837614.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: CURRENT TIME" tvg-logo="" group-title="EU RUSSIAN",RU: CURRENT TIME
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836847.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: START" tvg-logo="" group-title="EU RUSSIAN",RU: START
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837103.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Bridge Classic" tvg-logo="" group-title="EU RUSSIAN",RU: Bridge Classic
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837595.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: SAPFIR HD" tvg-logo="" group-title="EU RUSSIAN",RU: SAPFIR HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837083.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: STAR CINEMA" tvg-logo="" group-title="EU RUSSIAN",RU: STAR CINEMA
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837366.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MATCH Premier HD" tvg-logo="" group-title="EU RUSSIAN",RU: MATCH Premier HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837577.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: RTG TV" tvg-logo="" group-title="EU RUSSIAN",RU: RTG TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837063.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: KINOKOMEDIA HD" tvg-logo="" group-title="EU RUSSIAN",RU: KINOKOMEDIA HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837319.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MATCH! BOEC" tvg-logo="" group-title="EU RUSSIAN",RU: MATCH! BOEC
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837575.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: AVTO 24" tvg-logo="" group-title="EU RUSSIAN",RU: AVTO 24
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836808.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: RTVI HD" tvg-logo="" group-title="EU RUSSIAN",RU: RTVI HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837064.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: KinoMix" tvg-logo="" group-title="EU RUSSIAN",RU: KinoMix
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837320.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MATCH! BOEC HD" tvg-logo="" group-title="EU RUSSIAN",RU: MATCH! BOEC HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837576.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: BABY TIME" tvg-logo="" group-title="EU RUSSIAN",RU: BABY TIME
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836809.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: RU TV" tvg-logo="" group-title="EU RUSSIAN",RU: RU TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837065.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Kinomix FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Kinomix FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837321.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Balticum Platinum" tvg-logo="" group-title="EU RUSSIAN",RU: Balticum Platinum
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836810.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MATCH TV HD" tvg-logo="" group-title="EU RUSSIAN",RU: MATCH TV HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837574.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: RU TV FHD" tvg-logo="" group-title="EU RUSSIAN",RU: RU TV FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837066.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: KINOMIX HD" tvg-logo="" group-title="EU RUSSIAN",RU: KINOMIX HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837322.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MIR BASKETBOLA HD" tvg-logo="" group-title="EU RUSSIAN",RU: MIR BASKETBOLA HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837578.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Balticum Platinum HD" tvg-logo="" group-title="EU RUSSIAN",RU: Balticum Platinum HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836811.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: RU TV HD" tvg-logo="" group-title="EU RUSSIAN",RU: RU TV HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837067.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Kinopokaz" tvg-logo="" group-title="EU RUSSIAN",RU: Kinopokaz
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837323.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MMA TV" tvg-logo="" group-title="EU RUSSIAN",RU: MMA TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837579.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Belarus 24" tvg-logo="" group-title="EU RUSSIAN",RU: Belarus 24
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836812.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Rossiya K" tvg-logo="" group-title="EU RUSSIAN",RU: Rossiya K
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837068.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Kinopokaz 2 HD" tvg-logo="" group-title="EU RUSSIAN",RU: Kinopokaz 2 HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837324.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MMA TV FHD" tvg-logo="" group-title="EU RUSSIAN",RU: MMA TV FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837580.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: ANI" tvg-logo="" group-title="EU RUSSIAN",RU: ANI
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836807.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: KinoKomedia FHD" tvg-logo="" group-title="EU RUSSIAN",RU: KinoKomedia FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837318.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: RUSSKIY BESTSELLER" tvg-logo="" group-title="EU RUSSIAN",RU: RUSSKIY BESTSELLER
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837069.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: AMEDIA Hit" tvg-logo="" group-title="EU RUSSIAN",RU: AMEDIA Hit
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836803.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Kino Tv FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Kino Tv FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837312.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Match Premier" tvg-logo="" group-title="EU RUSSIAN",RU: Match Premier
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837568.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: AMEDIA 2 FHD" tvg-logo="" group-title="EU RUSSIAN",RU: AMEDIA 2 FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836801.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: RT Doc FHD" tvg-logo="" group-title="EU RUSSIAN",RU: RT Doc FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837057.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: KINO TV HD" tvg-logo="" group-title="EU RUSSIAN",RU: KINO TV HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837313.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Match Premier FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Match Premier FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837569.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: AMEDIA 2 HD" tvg-logo="" group-title="EU RUSSIAN",RU: AMEDIA 2 HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836802.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: RT Doc HD" tvg-logo="" group-title="EU RUSSIAN",RU: RT Doc HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837058.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: KINOHIT" tvg-logo="" group-title="EU RUSSIAN",RU: KINOHIT
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837314.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Match Strana" tvg-logo="" group-title="EU RUSSIAN",RU: Match Strana
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837570.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: RT FHD" tvg-logo="" group-title="EU RUSSIAN",RU: RT FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837059.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: RTG HD" tvg-logo="" group-title="EU RUSSIAN",RU: RTG HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837062.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Kinohit FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Kinohit FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837315.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Match Strana FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Match Strana FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837571.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: AMEDIA HIT HD" tvg-logo="" group-title="EU RUSSIAN",RU: AMEDIA HIT HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836804.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: RT HD" tvg-logo="" group-title="EU RUSSIAN",RU: RT HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837060.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: KINOHIT HD" tvg-logo="" group-title="EU RUSSIAN",RU: KINOHIT HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837316.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MATCH STRANA HD" tvg-logo="" group-title="EU RUSSIAN",RU: MATCH STRANA HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837572.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: AMEDIA PREMIUM" tvg-logo="" group-title="EU RUSSIAN",RU: AMEDIA PREMIUM
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836805.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: RTG FHD" tvg-logo="" group-title="EU RUSSIAN",RU: RTG FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837061.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: KinoKomedia" tvg-logo="" group-title="EU RUSSIAN",RU: KinoKomedia
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837317.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MATCH TV" tvg-logo="" group-title="EU RUSSIAN",RU: MATCH TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837573.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Anekdot TV" tvg-logo="" group-title="EU RUSSIAN",RU: Anekdot TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836806.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: BelRos" tvg-logo="" group-title="EU RUSSIAN",RU: BelRos
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836813.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Kinopremiera" tvg-logo="" group-title="EU RUSSIAN",RU: Kinopremiera
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837325.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: BRIDGE Sliahier" tvg-logo="" group-title="EU RUSSIAN",RU: BRIDGE Sliahier
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836827.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: KINOSVIDANIE FHD" tvg-logo="" group-title="EU RUSSIAN",RU: KINOSVIDANIE FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837335.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: BOLT" tvg-logo="" group-title="EU RUSSIAN",RU: BOLT
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836821.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: RUSSKIY ROMAN HD" tvg-logo="" group-title="EU RUSSIAN",RU: RUSSKIY ROMAN HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837077.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: KINOSERIYA HD" tvg-logo="" group-title="EU RUSSIAN",RU: KINOSERIYA HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837333.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TV SPORT FHD" tvg-logo="" group-title="EU RUSSIAN",RU: TV SPORT FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837589.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: BOLT FHD" tvg-logo="" group-title="EU RUSSIAN",RU: BOLT FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836822.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Rybolov" tvg-logo="" group-title="EU RUSSIAN",RU: Rybolov
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837078.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Kinosvidanie" tvg-logo="" group-title="EU RUSSIAN",RU: Kinosvidanie
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837334.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TV SPORT HD" tvg-logo="" group-title="EU RUSSIAN",RU: TV SPORT HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837590.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: BOLT HD" tvg-logo="" group-title="EU RUSSIAN",RU: BOLT HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836823.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Ryzhiy" tvg-logo="" group-title="EU RUSSIAN",RU: Ryzhiy
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837079.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Viju+ Sport" tvg-logo="" group-title="EU RUSSIAN",RU: Viju+ Sport
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837591.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Kinoseriya FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Kinoseriya FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837332.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: BRIDGE FRESH" tvg-logo="" group-title="EU RUSSIAN",RU: BRIDGE FRESH
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836824.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: SANKT PETERBURG" tvg-logo="" group-title="EU RUSSIAN",RU: SANKT PETERBURG
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837080.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Kinosvidanie HD" tvg-logo="" group-title="EU RUSSIAN",RU: Kinosvidanie HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837336.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Viju+ Sport FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Viju+ Sport FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837592.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: BRIDGE FRESH FHD" tvg-logo="" group-title="EU RUSSIAN",RU: BRIDGE FRESH FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836825.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: SAPFIR" tvg-logo="" group-title="EU RUSSIAN",RU: SAPFIR
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837081.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Kinouzhas" tvg-logo="" group-title="EU RUSSIAN",RU: Kinouzhas
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837337.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: VIJU+ SPORT HD" tvg-logo="" group-title="EU RUSSIAN",RU: VIJU+ SPORT HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837593.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: BRIDGE FRESH HD" tvg-logo="" group-title="EU RUSSIAN",RU: BRIDGE FRESH HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836826.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Sapfir FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Sapfir FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837082.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Kinouzhas FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Kinouzhas FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837338.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TV SPORT" tvg-logo="" group-title="EU RUSSIAN",RU: TV SPORT
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837588.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Russkiy Roman FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Russkiy Roman FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837076.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Motorsport FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Motorsport FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837581.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: SETANTA SPORT 1 HD" tvg-logo="" group-title="EU RUSSIAN",RU: SETANTA SPORT 1 HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837584.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: BLACK" tvg-logo="" group-title="EU RUSSIAN",RU: BLACK
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836814.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: RUSSKIY ROMAN" tvg-logo="" group-title="EU RUSSIAN",RU: RUSSKIY ROMAN
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837070.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: KINOPREMIERA FHD" tvg-logo="" group-title="EU RUSSIAN",RU: KINOPREMIERA FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837326.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: MOTORSPORT TV" tvg-logo="" group-title="EU RUSSIAN",RU: MOTORSPORT TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837582.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: BLOKBASTER HD" tvg-logo="" group-title="EU RUSSIAN",RU: BLOKBASTER HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836815.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Russkiy Detektiv" tvg-logo="" group-title="EU RUSSIAN",RU: Russkiy Detektiv
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837071.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Kinopremiera HD" tvg-logo="" group-title="EU RUSSIAN",RU: Kinopremiera HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837327.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: SETANTA SPORT 1" tvg-logo="" group-title="EU RUSSIAN",RU: SETANTA SPORT 1
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837583.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: BOBER TV" tvg-logo="" group-title="EU RUSSIAN",RU: BOBER TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836816.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Russkiy Extreme" tvg-logo="" group-title="EU RUSSIAN",RU: Russkiy Extreme
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837072.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Kinosemya" tvg-logo="" group-title="EU RUSSIAN",RU: Kinosemya
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837328.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: BOLLYWOOD HD" tvg-logo="" group-title="EU RUSSIAN",RU: BOLLYWOOD HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836817.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Bolshaya Aziya HD" tvg-logo="" group-title="EU RUSSIAN",RU: Bolshaya Aziya HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836820.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Russkiy Extreme FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Russkiy Extreme FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837073.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Kinosemya FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Kinosemya FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837329.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Setanta Sport 2 FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Setanta Sport 2 FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837585.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Bolshaya Aziya" tvg-logo="" group-title="EU RUSSIAN",RU: Bolshaya Aziya
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836818.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: RUSSKIY EXTREME HD" tvg-logo="" group-title="EU RUSSIAN",RU: RUSSKIY EXTREME HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837074.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Kinosemya HD" tvg-logo="" group-title="EU RUSSIAN",RU: Kinosemya HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837330.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: SETANTA SPORTS 1 FHD" tvg-logo="" group-title="EU RUSSIAN",RU: SETANTA SPORTS 1 FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837586.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Bolshaya Aziya FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Bolshaya Aziya FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836819.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Russkiy Extreme UFHD" tvg-logo="" group-title="EU RUSSIAN",RU: Russkiy Extreme UFHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837075.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Kinoseriya" tvg-logo="" group-title="EU RUSSIAN",RU: Kinoseriya
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837331.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: SPORT 2 BALTIC" tvg-logo="" group-title="EU RUSSIAN",RU: SPORT 2 BALTIC
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837587.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Start FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Start FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837110.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: SHANT MUSIC HD" tvg-logo="" group-title="EU RUSSIAN",RU: SHANT MUSIC HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837622.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: VHS-KA HD" tvg-logo="" group-title="EU RUSSIAN",RU: VHS-KA HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837428.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: INSIGHT HD" tvg-logo="" group-title="EU RUSSIAN",RU: INSIGHT HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836894.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: VIASAT KINO WORLD" tvg-logo="" group-title="EU RUSSIAN",RU: VIASAT KINO WORLD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837402.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Indiya TV" tvg-logo="" group-title="EU RUSSIAN",RU: Indiya TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836891.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TV XXI" tvg-logo="" group-title="EU RUSSIAN",RU: TV XXI
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837147.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: VIASAT KINO WORLD HD" tvg-logo="" group-title="EU RUSSIAN",RU: VIASAT KINO WORLD HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837403.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: INSIGHT" tvg-logo="" group-title="EU RUSSIAN",RU: INSIGHT
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836892.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TV3" tvg-logo="" group-title="EU RUSSIAN",RU: TV3
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837148.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: VIJU TV1000 Action" tvg-logo="" group-title="EU RUSSIAN",RU: VIJU TV1000 Action
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837404.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: INSIGHT FHD" tvg-logo="" group-title="EU RUSSIAN",RU: INSIGHT FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836893.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TV3 HD" tvg-logo="" group-title="EU RUSSIAN",RU: TV3 HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837149.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Viju TV1000 Action FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Viju TV1000 Action FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837405.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TV3+" tvg-logo="" group-title="EU RUSSIAN",RU: TV3+
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837150.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: ID XTRA" tvg-logo="" group-title="EU RUSSIAN",RU: ID XTRA
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836890.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Viju Tv1000 FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Viju Tv1000 FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837406.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Istoriya HD" tvg-logo="" group-title="EU RUSSIAN",RU: Istoriya HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836895.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TV3+ 2 FHD" tvg-logo="" group-title="EU RUSSIAN",RU: TV3+ 2 FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837151.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Viju TV1000 Russkoje FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Viju TV1000 Russkoje FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837407.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Istorya" tvg-logo="" group-title="EU RUSSIAN",RU: Istorya
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836896.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TV3+ 2 HD" tvg-logo="" group-title="EU RUSSIAN",RU: TV3+ 2 HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837152.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: VIJU+ COMEDY" tvg-logo="" group-title="EU RUSSIAN",RU: VIJU+ COMEDY
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837408.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Izvestia" tvg-logo="" group-title="EU RUSSIAN",RU: Izvestia
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836897.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TV3+ 4" tvg-logo="" group-title="EU RUSSIAN",RU: TV3+ 4
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837153.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Viju+ COMEDY FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Viju+ COMEDY FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837409.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Izvestia HD" tvg-logo="" group-title="EU RUSSIAN",RU: Izvestia HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836898.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TRAVEL&ADVENTURE" tvg-logo="" group-title="EU RUSSIAN",RU: TRAVEL&ADVENTURE
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837146.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: VIASAT KINO COMEDY FHD" tvg-logo="" group-title="EU RUSSIAN",RU: VIASAT KINO COMEDY FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837401.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: VIJU+ COMEDY HD" tvg-logo="" group-title="EU RUSSIAN",RU: VIJU+ COMEDY HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837410.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: VIASAT KINO ACTION" tvg-logo="" group-title="EU RUSSIAN",RU: VIASAT KINO ACTION
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837397.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: V gostyakh u skazki FHD" tvg-logo="" group-title="EU RUSSIAN",RU: V gostyakh u skazki FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836883.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TLC HD" tvg-logo="" group-title="EU RUSSIAN",RU: TLC HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837139.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: VIASAT KINO" tvg-logo="" group-title="EU RUSSIAN",RU: VIASAT KINO
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837395.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: CTC Kids FHD" tvg-logo="" group-title="EU RUSSIAN",RU: CTC Kids FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837651.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: HD Life HD" tvg-logo="" group-title="EU RUSSIAN",RU: HD Life HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836884.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TNV Tatarstan" tvg-logo="" group-title="EU RUSSIAN",RU: TNV Tatarstan
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837140.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: VIASAT KINO HD" tvg-logo="" group-title="EU RUSSIAN",RU: VIASAT KINO HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837396.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: SHANT Kids" tvg-logo="" group-title="EU RUSSIAN",RU: SHANT Kids
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837652.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Khokkey TV" tvg-logo="" group-title="EU RUSSIAN",RU: Khokkey TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836885.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TOCHKA OTRIVA" tvg-logo="" group-title="EU RUSSIAN",RU: TOCHKA OTRIVA
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837141.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: SHANT Kids FHD" tvg-logo="" group-title="EU RUSSIAN",RU: SHANT Kids FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837653.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TRASH FHD" tvg-logo="" group-title="EU RUSSIAN",RU: TRASH FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837145.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Khokkey TV FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Khokkey TV FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836886.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Trace Sport Stars" tvg-logo="" group-title="EU RUSSIAN",RU: Trace Sport Stars
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837142.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: VIASAT KINO ACTION HD" tvg-logo="" group-title="EU RUSSIAN",RU: VIASAT KINO ACTION HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837398.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: SHANT Kids HD" tvg-logo="" group-title="EU RUSSIAN",RU: SHANT Kids HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837654.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Khokkey TV HD" tvg-logo="" group-title="EU RUSSIAN",RU: Khokkey TV HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836887.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Trace Sport Stars FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Trace Sport Stars FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837143.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: VIASAT KINO COMEDY" tvg-logo="" group-title="EU RUSSIAN",RU: VIASAT KINO COMEDY
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837399.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: HTB" tvg-logo="" group-title="EU RUSSIAN",RU: HTB
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836888.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TRASH" tvg-logo="" group-title="EU RUSSIAN",RU: TRASH
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837144.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: VIASAT KINO COMEDY HD" tvg-logo="" group-title="EU RUSSIAN",RU: VIASAT KINO COMEDY HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837400.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: iConcerts" tvg-logo="" group-title="EU RUSSIAN",RU: iConcerts
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836889.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TV3+ 4 FHD" tvg-logo="" group-title="EU RUSSIAN",RU: TV3+ 4 FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837154.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: IZVESTIA FHD" tvg-logo="" group-title="EU RUSSIAN",RU: IZVESTIA FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836899.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: VHS-KA FHD" tvg-logo="" group-title="EU RUSSIAN",RU: VHS-KA FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837394.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: UNIKUM" tvg-logo="" group-title="EU RUSSIAN",RU: UNIKUM
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837168.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Karusel HD" tvg-logo="" group-title="EU RUSSIAN",RU: Karusel HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836909.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Udar FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Udar FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837165.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: VIJU+ TV1000 HD" tvg-logo="" group-title="EU RUSSIAN",RU: VIJU+ TV1000 HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837421.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: KHL" tvg-logo="" group-title="EU RUSSIAN",RU: KHL
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836910.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: UDAR HD" tvg-logo="" group-title="EU RUSSIAN",RU: UDAR HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837166.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: SHANT Premium" tvg-logo="" group-title="EU RUSSIAN",RU: SHANT Premium
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837422.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: KHL FHD" tvg-logo="" group-title="EU RUSSIAN",RU: KHL FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836911.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: UNIKUM HD" tvg-logo="" group-title="EU RUSSIAN",RU: UNIKUM HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837167.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: SHANT Premium FHD" tvg-logo="" group-title="EU RUSSIAN",RU: SHANT Premium FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837423.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: KHL HD" tvg-logo="" group-title="EU RUSSIAN",RU: KHL HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836912.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: SHANT Premium HD" tvg-logo="" group-title="EU RUSSIAN",RU: SHANT Premium HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837424.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Udar" tvg-logo="" group-title="EU RUSSIAN",RU: Udar
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837164.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: KHL PRIME" tvg-logo="" group-title="EU RUSSIAN",RU: KHL PRIME
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836913.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: USADBA TV" tvg-logo="" group-title="EU RUSSIAN",RU: USADBA TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837169.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: SHANT Serial" tvg-logo="" group-title="EU RUSSIAN",RU: SHANT Serial
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837425.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: KHL PRIME FHD" tvg-logo="" group-title="EU RUSSIAN",RU: KHL PRIME FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836914.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: UTV" tvg-logo="" group-title="EU RUSSIAN",RU: UTV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837170.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: SHANT Serial FHD" tvg-logo="" group-title="EU RUSSIAN",RU: SHANT Serial FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837426.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: KHL PRIME HD" tvg-logo="" group-title="EU RUSSIAN",RU: KHL PRIME HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836915.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: UTV HD" tvg-logo="" group-title="EU RUSSIAN",RU: UTV HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837171.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: SHANT Serial HD" tvg-logo="" group-title="EU RUSSIAN",RU: SHANT Serial HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837427.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Kitay TV" tvg-logo="" group-title="EU RUSSIAN",RU: Kitay TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836916.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: V gostyakh u skazki" tvg-logo="" group-title="EU RUSSIAN",RU: V gostyakh u skazki
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837172.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Viju+ TV1000" tvg-logo="" group-title="EU RUSSIAN",RU: Viju+ TV1000
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837420.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Karusel" tvg-logo="" group-title="EU RUSSIAN",RU: Karusel
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836908.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TV3+ 4 HD" tvg-logo="" group-title="EU RUSSIAN",RU: TV3+ 4 HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837155.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TV3+ HD" tvg-logo="" group-title="EU RUSSIAN",RU: TV3+ HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837159.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Viju+ Megahit" tvg-logo="" group-title="EU RUSSIAN",RU: Viju+ Megahit
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837411.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Jara" tvg-logo="" group-title="EU RUSSIAN",RU: Jara
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836900.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TV3+ 7" tvg-logo="" group-title="EU RUSSIAN",RU: TV3+ 7
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837156.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Viju+ MEGAHIT FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Viju+ MEGAHIT FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837412.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Jara HD" tvg-logo="" group-title="EU RUSSIAN",RU: Jara HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836901.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TV3+ 7 FHD" tvg-logo="" group-title="EU RUSSIAN",RU: TV3+ 7 FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837157.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: VIJU+ MEGAHIT HD" tvg-logo="" group-title="EU RUSSIAN",RU: VIJU+ MEGAHIT HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837413.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: JARA TV FHD" tvg-logo="" group-title="EU RUSSIAN",RU: JARA TV FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836902.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TV3+ 7 HD" tvg-logo="" group-title="EU RUSSIAN",RU: TV3+ 7 HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837158.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Viju+ Premiere" tvg-logo="" group-title="EU RUSSIAN",RU: Viju+ Premiere
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837414.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Jeweler" tvg-logo="" group-title="EU RUSSIAN",RU: Jeweler
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836903.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Viju+ Premiere FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Viju+ Premiere FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837415.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: VIJU+ SERIAL HD" tvg-logo="" group-title="EU RUSSIAN",RU: VIJU+ SERIAL HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837419.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: JIVI TV" tvg-logo="" group-title="EU RUSSIAN",RU: JIVI TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836904.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TV5 MONDE HD" tvg-logo="" group-title="EU RUSSIAN",RU: TV5 MONDE HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837160.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: VIJU+ PREMIERE HD" tvg-logo="" group-title="EU RUSSIAN",RU: VIJU+ PREMIERE HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837416.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: JWL" tvg-logo="" group-title="EU RUSSIAN",RU: JWL
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836905.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TVC" tvg-logo="" group-title="EU RUSSIAN",RU: TVC
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837161.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: VIJU+ SERIAL" tvg-logo="" group-title="EU RUSSIAN",RU: VIJU+ SERIAL
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837417.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Kaleydoskop TV" tvg-logo="" group-title="EU RUSSIAN",RU: Kaleydoskop TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836906.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TVC FHD" tvg-logo="" group-title="EU RUSSIAN",RU: TVC FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837162.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Viju+ Serial FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Viju+ Serial FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837418.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: KAMEDI HD" tvg-logo="" group-title="EU RUSSIAN",RU: KAMEDI HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836907.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TVC HD" tvg-logo="" group-title="EU RUSSIAN",RU: TVC HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837163.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: CTC Kids" tvg-logo="" group-title="EU RUSSIAN",RU: CTC Kids
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837650.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TLC" tvg-logo="" group-title="EU RUSSIAN",RU: TLC
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837138.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: DIALOGI O RYBALKE HD" tvg-logo="" group-title="EU RUSSIAN",RU: DIALOGI O RYBALKE HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836855.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Dozd" tvg-logo="" group-title="EU RUSSIAN",RU: Dozd
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836865.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TLUM HD" tvg-logo="" group-title="EU RUSSIAN",RU: TLUM HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837374.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Boomerang TV" tvg-logo="" group-title="EU RUSSIAN",RU: Boomerang TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837630.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Domashniy" tvg-logo="" group-title="EU RUSSIAN",RU: Domashniy
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836863.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: STS+ 4" tvg-logo="" group-title="EU RUSSIAN",RU: STS+ 4
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837119.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TNT" tvg-logo="" group-title="EU RUSSIAN",RU: TNT
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837375.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Cartoon Network HD" tvg-logo="" group-title="EU RUSSIAN",RU: Cartoon Network HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837631.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Domashniy +7" tvg-logo="" group-title="EU RUSSIAN",RU: Domashniy +7
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836864.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: STS+ 7" tvg-logo="" group-title="EU RUSSIAN",RU: STS+ 7
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837120.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TNT 2" tvg-logo="" group-title="EU RUSSIAN",RU: TNT 2
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837376.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: CTC KIDS HD" tvg-logo="" group-title="EU RUSSIAN",RU: CTC KIDS HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837632.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Subbota!" tvg-logo="" group-title="EU RUSSIAN",RU: Subbota!
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837121.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Doktor" tvg-logo="" group-title="EU RUSSIAN",RU: Doktor
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836862.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TNT 2 FHD" tvg-logo="" group-title="EU RUSSIAN",RU: TNT 2 FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837377.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Disney Channel" tvg-logo="" group-title="EU RUSSIAN",RU: Disney Channel
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837633.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Drayv" tvg-logo="" group-title="EU RUSSIAN",RU: Drayv
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836866.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Subbota! FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Subbota! FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837122.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TNT 2 HD" tvg-logo="" group-title="EU RUSSIAN",RU: TNT 2 HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837378.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: ducktv" tvg-logo="" group-title="EU RUSSIAN",RU: ducktv
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837634.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: E TV" tvg-logo="" group-title="EU RUSSIAN",RU: E TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836867.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Subbota! HD" tvg-logo="" group-title="EU RUSSIAN",RU: Subbota! HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837123.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TNT 4" tvg-logo="" group-title="EU RUSSIAN",RU: TNT 4
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837379.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: ducktv FHD" tvg-logo="" group-title="EU RUSSIAN",RU: ducktv FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837635.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: EDA" tvg-logo="" group-title="EU RUSSIAN",RU: EDA
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836868.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: CTC HD" tvg-logo="" group-title="EU RUSSIAN",RU: CTC HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837118.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: SUPER+ HD" tvg-logo="" group-title="EU RUSSIAN",RU: SUPER+ HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837373.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TNT 4 FHD" tvg-logo="" group-title="EU RUSSIAN",RU: TNT 4 FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837380.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: DIZI" tvg-logo="" group-title="EU RUSSIAN",RU: DIZI
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836858.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: START WORLD FHD" tvg-logo="" group-title="EU RUSSIAN",RU: START WORLD FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837111.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: STAR CINEMA FHD" tvg-logo="" group-title="EU RUSSIAN",RU: STAR CINEMA FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837367.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Soyuz" tvg-logo="" group-title="EU RUSSIAN",RU: Soyuz
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837623.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Dikaya Okhota HD" tvg-logo="" group-title="EU RUSSIAN",RU: Dikaya Okhota HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836856.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: START WORLD HD" tvg-logo="" group-title="EU RUSSIAN",RU: START WORLD HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837112.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: STAR CINEMA HD" tvg-logo="" group-title="EU RUSSIAN",RU: STAR CINEMA HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837368.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TNT Music" tvg-logo="" group-title="EU RUSSIAN",RU: TNT Music
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837624.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Dikaya Rybalka HD" tvg-logo="" group-title="EU RUSSIAN",RU: Dikaya Rybalka HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836857.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Strana" tvg-logo="" group-title="EU RUSSIAN",RU: Strana
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837113.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: STAR FAMILY" tvg-logo="" group-title="EU RUSSIAN",RU: STAR FAMILY
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837369.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Tnt Music FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Tnt Music FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837625.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Strashnoe HD" tvg-logo="" group-title="EU RUSSIAN",RU: Strashnoe HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837114.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: CTC FHD" tvg-logo="" group-title="EU RUSSIAN",RU: CTC FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837117.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: STAR FAMILY FHD" tvg-logo="" group-title="EU RUSSIAN",RU: STAR FAMILY FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837370.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TNT MUSIC HD" tvg-logo="" group-title="EU RUSSIAN",RU: TNT MUSIC HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837626.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: DIZI HD" tvg-logo="" group-title="EU RUSSIAN",RU: DIZI HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836859.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: CTC" tvg-logo="" group-title="EU RUSSIAN",RU: CTC
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837115.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: STAR FAMILY HD" tvg-logo="" group-title="EU RUSSIAN",RU: STAR FAMILY HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837371.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: VH1 Classic" tvg-logo="" group-title="EU RUSSIAN",RU: VH1 Classic
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837627.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Doctor HD" tvg-logo="" group-title="EU RUSSIAN",RU: Doctor HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836860.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: CTC BALTIC" tvg-logo="" group-title="EU RUSSIAN",RU: CTC BALTIC
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837116.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: SUPER+" tvg-logo="" group-title="EU RUSSIAN",RU: SUPER+
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837372.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: VH1 Europe" tvg-logo="" group-title="EU RUSSIAN",RU: VH1 Europe
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837628.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Dojd HD" tvg-logo="" group-title="EU RUSSIAN",RU: Dojd HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836861.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Superheroi" tvg-logo="" group-title="EU RUSSIAN",RU: Superheroi
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837124.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: ducktv HD" tvg-logo="" group-title="EU RUSSIAN",RU: ducktv HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837636.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Glazella HD" tvg-logo="" group-title="EU RUSSIAN",RU: Glazella HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836882.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: NICK JR HD" tvg-logo="" group-title="EU RUSSIAN",RU: NICK JR HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837646.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Terra FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Terra FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837132.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TV1000 Russkiy KINO" tvg-logo="" group-title="EU RUSSIAN",RU: TV1000 Russkiy KINO
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837388.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Nick JR" tvg-logo="" group-title="EU RUSSIAN",RU: Nick JR
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837644.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Food Time FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Food Time FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836877.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TERRA HD" tvg-logo="" group-title="EU RUSSIAN",RU: TERRA HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837133.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TV1000 RUSSKOE KINO HD" tvg-logo="" group-title="EU RUSSIAN",RU: TV1000 RUSSKOE KINO HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837389.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: NICK JR FHD" tvg-logo="" group-title="EU RUSSIAN",RU: NICK JR FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837645.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Friday! (Пятница)" tvg-logo="" group-title="EU RUSSIAN",RU: Friday! (Пятница)
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836878.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TIJI" tvg-logo="" group-title="EU RUSSIAN",RU: TIJI
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837134.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TV3 FHD" tvg-logo="" group-title="EU RUSSIAN",RU: TV3 FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837390.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Glazami Turista" tvg-logo="" group-title="EU RUSSIAN",RU: Glazami Turista
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836879.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: KIDZONE MAX TV" tvg-logo="" group-title="EU RUSSIAN",RU: KIDZONE MAX TV
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837643.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Dizi FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Dizi FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837135.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: GO3 FILM" tvg-logo="" group-title="EU RUSSIAN",RU: GO3 FILM
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837391.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Nickelodeon" tvg-logo="" group-title="EU RUSSIAN",RU: Nickelodeon
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837647.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Glazami Turista FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Glazami Turista FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836880.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Tip-Top" tvg-logo="" group-title="EU RUSSIAN",RU: Tip-Top
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837136.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: GO3 FILM HD" tvg-logo="" group-title="EU RUSSIAN",RU: GO3 FILM HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837392.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Nickelodeon HD" tvg-logo="" group-title="EU RUSSIAN",RU: Nickelodeon HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837648.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Glazami Turista HD" tvg-logo="" group-title="EU RUSSIAN",RU: Glazami Turista HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836881.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Tip-Top FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Tip-Top FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837137.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: VHS-KA" tvg-logo="" group-title="EU RUSSIAN",RU: VHS-KA
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837393.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: NICKTOONS" tvg-logo="" group-title="EU RUSSIAN",RU: NICKTOONS
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837649.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Food Network" tvg-logo="" group-title="EU RUSSIAN",RU: Food Network
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836876.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Viju TV 1000 Action HD" tvg-logo="" group-title="EU RUSSIAN",RU: Viju TV 1000 Action HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837387.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Eda FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Eda FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836869.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Euronews" tvg-logo="" group-title="EU RUSSIAN",RU: Euronews
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836872.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Tantsuy!" tvg-logo="" group-title="EU RUSSIAN",RU: Tantsuy!
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837125.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TNT 4 HD" tvg-logo="" group-title="EU RUSSIAN",RU: TNT 4 HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837381.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Gulli Girl" tvg-logo="" group-title="EU RUSSIAN",RU: Gulli Girl
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837637.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: ENGLISH CLASS" tvg-logo="" group-title="EU RUSSIAN",RU: ENGLISH CLASS
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836870.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Tantsuy! FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Tantsuy! FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837126.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TNT 7" tvg-logo="" group-title="EU RUSSIAN",RU: TNT 7
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837382.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Jim Jam" tvg-logo="" group-title="EU RUSSIAN",RU: Jim Jam
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837638.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Eureka HD" tvg-logo="" group-title="EU RUSSIAN",RU: Eureka HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836871.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Tayny Galaktiki" tvg-logo="" group-title="EU RUSSIAN",RU: Tayny Galaktiki
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837127.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TNT 7 FHD" tvg-logo="" group-title="EU RUSSIAN",RU: TNT 7 FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837383.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: KIDS MINI FHD" tvg-logo="" group-title="EU RUSSIAN",RU: KIDS MINI FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837639.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Teatr FHD" tvg-logo="" group-title="EU RUSSIAN",RU: Teatr FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837128.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Terra" tvg-logo="" group-title="EU RUSSIAN",RU: Terra
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837131.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TNT 7 HD" tvg-logo="" group-title="EU RUSSIAN",RU: TNT 7 HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837384.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: KIDZONE MAX HD" tvg-logo="" group-title="EU RUSSIAN",RU: KIDZONE MAX HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837640.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: FAN FHD" tvg-logo="" group-title="EU RUSSIAN",RU: FAN FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836873.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Telekafe" tvg-logo="" group-title="EU RUSSIAN",RU: Telekafe
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837129.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TNT FHD" tvg-logo="" group-title="EU RUSSIAN",RU: TNT FHD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837385.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: KIDZONE MINI" tvg-logo="" group-title="EU RUSSIAN",RU: KIDZONE MINI
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837641.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: FAN HD" tvg-logo="" group-title="EU RUSSIAN",RU: FAN HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836874.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Telekanal" tvg-logo="" group-title="EU RUSSIAN",RU: Telekanal
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837130.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: TNT HD" tvg-logo="" group-title="EU RUSSIAN",RU: TNT HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837386.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: KIDZONE MINI HD" tvg-logo="" group-title="EU RUSSIAN",RU: KIDZONE MINI HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837642.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: FAST AND FUNBOX HD" tvg-logo="" group-title="EU RUSSIAN",RU: FAST AND FUNBOX HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1836875.ts
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="RU: Match Nash Sport HD" tvg-logo="" group-title="EU RUSSIAN",RU: Match Nash Sport HD
+http://secure.maghan.fr:80//live/wgyd13hu/8pqo4dgt/1837567.ts
