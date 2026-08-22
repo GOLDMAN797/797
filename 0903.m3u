@@ -9,7 +9,7 @@ http://cdntv.online/high/49yuvb73c6/33.m3u8
 #EXTINF:-1 tvg-id="3" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",Матч!
 http://cdntv.online/high/49yuvb73c6/48.m3u8
 
-#EXTINF:0 tvg-id="4" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",НТВ
+#EXTINF:-1 tvg-id="4" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",НТВ
 http://cdntv.online/high/49yuvb73c6/360.m3u8
 
 #EXTINF:-1 tvg-id="5" catchup="shift" catchup-days="3" timeshift="3" group-title="Central",Пятый канал
